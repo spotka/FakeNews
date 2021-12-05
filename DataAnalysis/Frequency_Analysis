@@ -1,0 +1,139 @@
+import datetime
+from sys import path
+
+import matplotlib.pyplot as plt
+import numpy as np
+import matplotlib.dates as mdates
+import json
+from dateutil import parser
+import os
+import pandas as pd
+
+
+def merge_json_files():
+    # iterate through dir and open json files
+    data_total = []
+    data_dir_path = "C:/Users/nceck/Desktop/FakeNews/DataCrawling/TwitterCrawlDirectory/Bild_CrawlDirectory/"
+    for filename in os.listdir(data_dir_path):
+        print("filename", filename)
+        with open(os.path.join(data_dir_path, filename), "rb") as infile:
+        # returns JSON object as
+        # a dictionary
+            print("infile", infile)
+            data = json.load(infile)
+            print("data", data)
+
+            data_total.append(data)
+
+    print("datatotal", data_total)
+
+    merged_filename = "merged_bild_data.json"
+    with open(os.path.join(data_dir_path, merged_filename), "w") as outfile:
+        json.dump(data_total, outfile)
+        # Iterating through the json
+        # list
+
+
+
+def get_date_data(filepath):
+    dataframe = pd.DataFrame()
+    with open(filepath, "rb") as infile:
+        data = json.load(infile)
+
+        for tweets in data:
+            for tweet in tweets['data']:
+                date_formated = parser.parse(tweet['created_at']) # original time format ISO-8601
+                date_formated_day = date_formated.date()
+                #print("date", date_formated_day)
+                #print(tweet["text"])
+                dataframe = dataframe.append({
+                    "content": tweet["text"],
+                    "date": date_formated_day
+                }, ignore_index=True)
+
+    return dataframe
+
+
+
+def plot_tweet_frequence(dataframe):
+    # Process dataset
+
+    date_count = dataframe.groupby(['date']).count()
+    print("type", type(date_count))
+    date_list = []
+    tweet_count_list = []
+
+    for row in date_count.iterrows():
+        print("row month", row[0].month) # month is corrected, day values seem odd
+        print("row day", row[0].day)  # day has to calculated specifially
+        date_list.append(row[0]) # row[0] gets date
+        tweet_count_list.append(row[1]) # row[1] gets num of tweets of that date
+
+        print("row", row[1])
+
+
+
+    x_values = date_list
+    print("x_values", x_values)
+
+    y_values = tweet_count_list
+
+    ax = plt.gca()
+
+
+    formatter = mdates.DateFormatter("%Y-%m-%d")
+
+
+    ax.xaxis.set_major_formatter(formatter)
+
+    locator = mdates.DayLocator()
+
+
+    ax.xaxis.set_major_locator(locator)
+
+    plt.figure(figsize=(9,9))
+    plt.plot(x_values, y_values)
+    plt.savefig('C:/Users/nceck/Desktop/FakeNews/DataCrawling/TwitterCrawlDirectory/Bild_CrawlDirectory/frequency_test_total_ver2.png')
+
+# print(tweet)
+# for tweet_details in tweet:
+#    print("tweets details", tweet_details)
+
+
+
+
+
+
+if __name__ == "__main__":
+    print("Analyse beginnt")
+    #merge_json_files()
+    data_dir_path = "C:/Users/nceck/Desktop/FakeNews/DataCrawling/TwitterCrawlDirectory/Bild_CrawlDirectory/"
+    filename = "merged_bild_data.json"
+    filepath = os.path.join(data_dir_path, filename)
+
+    dataframe = get_date_data(filepath)
+    plot_tweet_frequence(dataframe)
+    # nitialise a figure. subplots() with no args gives one plot.
+    """
+ fig, ax = plt.subplots()
+
+ # A little data preparation
+ years = df['year']
+ x = np.arange(len(years))
+
+ width = 2
+ # Plot each bar plot. Note: manually calculating the 'dodges' of the bars
+ ax.bar(x - 3*width/2, df['conservative'], width, label='Conservative', color='#0343df')
+ ax.bar(x - width/2, df['labour'], width, label='Labour', color='#e50000')
+ ax.bar(x + width/2, df['liberal'], width, label='Liberal', color='#ffff14')
+ ax.bar(x + 3*width/2, df['others'], width, label='Others', color='#929591')
+
+ # Customise some display properties
+ ax.set_ylabel('Seats')
+ ax.set_title('UK election results')
+ ax.set_xticks(x)    # This ensures we have one tick per year, otherwise we get fewer
+ ax.set_xticklabels(years.astype(str).values, rotation='vertical')
+ ax.legend()
+
+ # Ask Matplotlib to show the plot
+ plt.show() """
