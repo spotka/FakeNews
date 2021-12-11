@@ -1,0 +1,4996 @@
+{
+  "data": [
+    {
+      "possibly_sensitive": false,
+      "id": "1467505299355418624",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Die FDP hat auf ihrem Sonderparteitag mit gro\u00dfer Mehrheit f\u00fcr den Koalitionsvertrag mit SPD und Gr\u00fcnen gestimmt. https://t.co/92dzNIJhEW",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T14:45:02.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 13,
+        "quote_count": 2
+      },
+      "conversation_id": "1467505299355418624",
+      "entities": {
+        "urls": [
+          {
+            "start": 113,
+            "end": 136,
+            "url": "https://t.co/92dzNIJhEW",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/fdp-stimmt-fuer-ampelkoalitionsvertrag-a-a0605a62-2168-4cc6-8c6e-f01b503d2c2f?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/deutsc\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1467504376193425413/rHHXO2aW?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1467504376193425413/rHHXO2aW?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "FDP stimmt f\u00fcr Ampelkoalitionsvertrag",
+            "description": "Die FDP hat auf ihrem Sonderparteitag mit gro\u00dfer Mehrheit f\u00fcr den Koalitionsvertrag mit SPD und Gr\u00fcnen gestimmt.",
+            "unwound_url": "https://www.spiegel.de/politik/deutschland/fdp-stimmt-fuer-ampelkoalitionsvertrag-a-a0605a62-2168-4cc6-8c6e-f01b503d2c2f?utm_source=dlvr.it&utm_medium=twitter#ref=rss"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467504415837982723",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "RT @SPIEGEL_EIL: Die #FDP hat auf ihrem Sonderparteitag mit gro\u00dfer Mehrheit f\u00fcr den Koalitionsvertrag mit SPD und Gr\u00fcnen gestimmt. https://\u2026",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "SPIEGEL_EIL",
+            "id": "14454247"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 21,
+            "end": 25,
+            "tag": "FDP"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T14:41:32.000Z",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1467504372095533056"
+        }
+      ],
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1467504415837982723"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467497879111487493",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Als Anwalt hat es Thomas Weikert mit Streitigkeiten in Familien zu tun. Als neuer Mann an der Spitze des deutschen Sports k\u00f6nnte ihm das n\u00fctzen, um die schweren Verwerfungen im Verband zu beheben. https://t.co/stcuN6hWJ5",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T14:15:33.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "conversation_id": "1467497879111487493",
+      "entities": {
+        "urls": [
+          {
+            "start": 197,
+            "end": 220,
+            "url": "https://t.co/stcuN6hWJ5",
+            "expanded_url": "https://www.spiegel.de/sport/olympia/dosb-praesident-thomas-weikert-der-neue-mann-an-der-spitze-des-deutschen-sports-a-b3747e50-527a-4851-86d0-c6689c12e337?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/olympia/\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467492088115707908",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Kommende Woche wird Abdulrazak Gurnah der Nobelpreis verliehen. Hier erz\u00e4hlt er von seiner Kindheit im Sansibar des Kalten Krieges \u2013 und von der deutschen Kolonialgeschichte, die seine Romane pr\u00e4gt. https://t.co/XNIYGbtxpy",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T13:52:33.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 4,
+        "like_count": 16,
+        "quote_count": 0
+      },
+      "conversation_id": "1467492088115707908",
+      "entities": {
+        "urls": [
+          {
+            "start": 199,
+            "end": 222,
+            "url": "https://t.co/XNIYGbtxpy",
+            "expanded_url": "https://www.spiegel.de/kultur/literatur/abdulrazak-gurnah-der-kolonialismus-praegt-die-menschen-bis-heute-a-10b025f4-6d75-42d7-960f-16bb6fb7328e?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/kultur/literat\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1467489283984527368/BUluFDRs?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1467489283984527368/BUluFDRs?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "(S+) Abdulrazak Gurnah: \u00bbDer Kolonialismus pr\u00e4gt die Menschen bis heute\u00ab",
+            "description": "Kommende Woche wird Abdulrazak Gurnah der Nobelpreis verliehen. Hier erz\u00e4hlt er von seiner Kindheit im Sansibar des Kalten Krieges \u2013 und von der deutschen Kolonialgeschichte, die seine Romane pr\u00e4gt.",
+            "unwound_url": "https://www.spiegel.de/kultur/literatur/abdulrazak-gurnah-der-kolonialismus-praegt-die-menschen-bis-heute-a-10b025f4-6d75-42d7-960f-16bb6fb7328e?utm_source=dlvr.it&utm_medium=twitter#ref=rss"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467484287360389122",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Mit Sorge reagiert die EU auf Berichte \u00fcber einen Aufmarsch russischer Truppen an der ukrainischen Grenze. Sicherheitsexperte Borrell betonte, man sehe die Ukraine als Verb\u00fcndete. https://t.co/AOuYUEzmdD",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T13:21:33.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 7,
+        "like_count": 20,
+        "quote_count": 2
+      },
+      "conversation_id": "1467484287360389122",
+      "entities": {
+        "urls": [
+          {
+            "start": 180,
+            "end": 203,
+            "url": "https://t.co/AOuYUEzmdD",
+            "expanded_url": "https://www.spiegel.de/ausland/ukraine-konflikt-josep-borrell-wir-stehen-an-ihrer-seite-a-3355f17b-98ec-49ee-9883-c50832e40ecb?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/ausland/ukrain\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467480638206795783",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Er ist einer der einflussreichsten Intellektuellen der Welt. Nun sieht Francis Fukuyama die amerikanische Demokratie in ihrer Existenz bedroht: Schon bei der n\u00e4chsten Wahl k\u00f6nne es zu einem Coup kommen. https://t.co/mfAnvudMLB",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T13:07:03.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 16,
+        "like_count": 40,
+        "quote_count": 5
+      },
+      "conversation_id": "1467480638206795783",
+      "entities": {
+        "urls": [
+          {
+            "start": 203,
+            "end": 226,
+            "url": "https://t.co/mfAnvudMLB",
+            "expanded_url": "https://www.spiegel.de/ausland/francis-fukuyama-ueber-donald-trump-und-die-krise-der-amerikanischen-demokratie-a-fd4a8cf7-ac24-4c98-8770-e9d80c397592?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/ausland/franci\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467478503620710400",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Das Solidarit\u00e4tsargument ist das Aerosol der Impfdebatte: f\u00e4llt kaum auf, lauert hinter jeder Ecke \u2013 und ist ziemlich gef\u00e4hrlich. Weil es verschleiert, worum es eigentlich gehen sollte: um Politikversagen. https://t.co/1AK8yz3eO5",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T12:58:34.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 7,
+        "like_count": 26,
+        "quote_count": 1
+      },
+      "conversation_id": "1467478503620710400",
+      "entities": {
+        "urls": [
+          {
+            "start": 206,
+            "end": 229,
+            "url": "https://t.co/1AK8yz3eO5",
+            "expanded_url": "https://www.spiegel.de/panorama/gesellschaft/corona-deutsche-brauchen-ungeimpfte-so-koennen-sie-moralisch-sein-a-3d49ad30-e1d2-4f9a-ae18-4731ebfcccec?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/gesel\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467474571691536384",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Das Solidarit\u00e4tsargument ist das Aerosol der Impfdebatte: f\u00e4llt kaum auf, lauert hinter jeder Ecke \u2013 und ist ziemlich gef\u00e4hrlich. Weil es verschleiert, worum es eigentlich gehen sollte: um Politikversagen, schreibt @PMaxwill in seinem Essay. https://t.co/mZH2T8UgTQ",
+      "entities": {
+        "mentions": [
+          {
+            "start": 215,
+            "end": 224,
+            "username": "PMaxwill",
+            "id": "2165617577"
+          }
+        ],
+        "urls": [
+          {
+            "start": 242,
+            "end": 265,
+            "url": "https://t.co/mZH2T8UgTQ",
+            "expanded_url": "https://www.spiegel.de/panorama/gesellschaft/corona-deutsche-brauchen-ungeimpfte-so-koennen-sie-moralisch-sein-a-3d49ad30-e1d2-4f9a-ae18-4731ebfcccec",
+            "display_url": "spiegel.de/panorama/gesel\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1467447584180641792/QVcm3aKR?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1467447584180641792/QVcm3aKR?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "(S+) Diskussionen \u00fcber Corona-Ma\u00dfnahmen: Deutsche brauchen Ungeimpfte. So k\u00f6nnen sie moralisch sein",
+            "description": "Das Solidarit\u00e4tsargument ist das Aerosol der Impfdebatte: f\u00e4llt kaum auf, lauert hinter jeder Ecke \u2013 und ist ziemlich gef\u00e4hrlich. Weil es verschleiert, worum es eigentlich gehen sollte: um Politikversagen.",
+            "unwound_url": "https://www.spiegel.de/panorama/gesellschaft/corona-deutsche-brauchen-ungeimpfte-so-koennen-sie-moralisch-sein-a-3d49ad30-e1d2-4f9a-ae18-4731ebfcccec"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T12:42:56.000Z",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 15,
+        "like_count": 23,
+        "quote_count": 1
+      },
+      "conversation_id": "1467474571691536384"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467474269651230722",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Kurz vor Weihnachten muss der Einzelhandel vielerorts 2G-Regeln umsetzen. In viele Gesch\u00e4fte d\u00fcrfen nur noch Geimpfte und Genesene. Wie findet das die Kundschaft? Und wird ordentlich kontrolliert? Eine Video-Reportage aus Hamburg. https://t.co/ky4YFqxPkU",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T12:41:44.000Z",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 15,
+        "like_count": 23,
+        "quote_count": 2
+      },
+      "conversation_id": "1467474269651230722",
+      "entities": {
+        "urls": [
+          {
+            "start": 231,
+            "end": 254,
+            "url": "https://t.co/ky4YFqxPkU",
+            "expanded_url": "https://www.spiegel.de/wissenschaft/medizin/corona-pandemie-shoppen-mit-2g-ich-finde-es-tatsaechlich-entspannter-a-52d28e71-375d-4d42-9153-eb71d3a7d5ef",
+            "display_url": "spiegel.de/wissenschaft/m\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467467929448898560",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Tina Turner, AC/DC und Shakira: In einem Podcast verriet Prinz William die musikalischen Vorlieben seiner Familie \u2013 und mit welchem Song er am besten in den Montagmorgen startet. https://t.co/A2hTvn4zVJ",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T12:16:33.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1070723964769513472",
+            "name": "Tina Turner",
+            "description": "American-Swiss singer, dancer, actress, and author"
+          }
+        },
+        {
+          "domain": {
+            "id": "56",
+            "name": "Actor",
+            "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+          },
+          "entity": {
+            "id": "1070723964769513472",
+            "name": "Tina Turner",
+            "description": "American-Swiss singer, dancer, actress, and author"
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "806568365112205312",
+            "name": "Shakira",
+            "description": "Shakira"
+          }
+        },
+        {
+          "domain": {
+            "id": "54",
+            "name": "Musician",
+            "description": "A musician in the world, like Adele or Bob Dylan"
+          },
+          "entity": {
+            "id": "806568365112205312",
+            "name": "Shakira",
+            "description": "Shakira"
+          }
+        },
+        {
+          "domain": {
+            "id": "55",
+            "name": "Music Genre",
+            "description": "A category for a musical style, like Pop, Rock, or Rap"
+          },
+          "entity": {
+            "id": "810938279801470977",
+            "name": "Pop",
+            "description": "Pop"
+          }
+        },
+        {
+          "domain": {
+            "id": "55",
+            "name": "Music Genre",
+            "description": "A category for a musical style, like Pop, Rock, or Rap"
+          },
+          "entity": {
+            "id": "849684576913940480",
+            "name": "Latin pop",
+            "description": "Latino"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 4,
+        "like_count": 22,
+        "quote_count": 0
+      },
+      "conversation_id": "1467467929448898560",
+      "entities": {
+        "urls": [
+          {
+            "start": 179,
+            "end": 202,
+            "url": "https://t.co/A2hTvn4zVJ",
+            "expanded_url": "https://www.spiegel.de/panorama/leute/prinz-william-ueber-autofahrten-mit-seiner-mutter-diana-meine-mutter-sass-laut-singend-am-steuer-a-5c8673d1-e05d-43aa-8f79-cd8c56aa8f1c?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/leute\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467463279979073538",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Er f\u00fchlte sich von Felix Zwayer betrogen, schimpfte \u00fcber \u00bbeinen Schiedsrichter, der schon mal Spiele verschoben hat\u00ab. Nun droht BVB-Profi Jude Bellingham ein Nachspiel. Es soll sogar Strafanzeige gestellt worden sein. https://t.co/Nd22amxAym",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T11:58:04.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1158890019211268096",
+            "name": "Jude Bellingham"
+          }
+        },
+        {
+          "domain": {
+            "id": "60",
+            "name": "Athlete",
+            "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+          },
+          "entity": {
+            "id": "1158890019211268096",
+            "name": "Jude Bellingham"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 40,
+        "like_count": 44,
+        "quote_count": 8
+      },
+      "conversation_id": "1467463279979073538",
+      "entities": {
+        "urls": [
+          {
+            "start": 218,
+            "end": 241,
+            "url": "https://t.co/Nd22amxAym",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/jude-bellingham-schimpft-ueber-felix-zwayer-dfb-ermittelt-gegen-bvb-profi-a-ae8601d1-08d4-491e-a790-ed629031a27b?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467456230444736515",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "RT @JankoTietz: (S+) Ein Foto ging um die welt: Der Vater verlor im Krieg ein Bein, sein Sohn hatte seit Geburt keine \u2013 offenbar Folgen ein\u2026",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "JankoTietz",
+            "id": "2857610675"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T11:30:04.000Z",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1467445518909464580"
+        }
+      ],
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1467456230444736515"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467454719232675840",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Karin Prien will CDU-Vize werden. In der Partei gilt sie als besonders liberal \u2013 und spricht doch lobend \u00fcber Friedrich Merz. Die Kieler Ministerin pocht auf die Frauenquote und mahnt eine neue F\u00fchrungskultur an. https://t.co/4V8CKVYCzK",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T11:24:03.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 18,
+        "like_count": 11,
+        "quote_count": 3
+      },
+      "conversation_id": "1467454719232675840",
+      "entities": {
+        "urls": [
+          {
+            "start": 213,
+            "end": 236,
+            "url": "https://t.co/4V8CKVYCzK",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/karin-prien-will-cdu-vize-werden-ich-schaetze-friedrich-merz-sehr-a-593f6fd0-6408-47d0-8b51-3044afafa48d?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467452709494157313",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Strafverfolgungsbeh\u00f6rden haben die Eltern des 15-J\u00e4hrigen angeklagt, der in den USA vier Mitsch\u00fcler erschossen hatte. Nach einem offenkundigen Fluchtversuch weisen die Beschuldigten die Vorw\u00fcrfe von sich. https://t.co/cWVF4PLWka",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T11:16:04.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 17,
+        "quote_count": 0
+      },
+      "conversation_id": "1467452709494157313",
+      "entities": {
+        "urls": [
+          {
+            "start": 205,
+            "end": 228,
+            "url": "https://t.co/cWVF4PLWka",
+            "expanded_url": "https://www.spiegel.de/panorama/justiz/michigan-eltern-von-us-todesschuetzen-plaedieren-auf-unschuldig-a-a8f083a0-c238-44df-a071-b6631e1fd5b2?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/justi\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467447169539973121",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Bei einer Skitour im Salzburger Lungau ist eine Gruppe junger Menschen von einer Lawine \u00fcberrascht worden. Drei von ihnen starben. Ein Vorfall in der Steiermark ging erst mal glimpflicher aus. https://t.co/2g7oX8vrQP",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T10:54:03.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 2,
+        "like_count": 13,
+        "quote_count": 0
+      },
+      "conversation_id": "1467447169539973121",
+      "entities": {
+        "urls": [
+          {
+            "start": 193,
+            "end": 216,
+            "url": "https://t.co/2g7oX8vrQP",
+            "expanded_url": "https://www.spiegel.de/panorama/oesterreich-lawine-reisst-mehrere-menschen-mit-drei-tote-a-1c509bc1-6bfa-49f9-9397-2c108042c2f0?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/oeste\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467444122453790724",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Die Kanzlerin schaut zu, statt zu regieren. Der Gesundheitsminister tritt auf wie Brasilien beim 1:7 gegen Deutschland. Und niemand will irgendjemandem die Schuld geben. Warum die deutsche Politik so \u00e4ngstlich ist. https://t.co/t0XFXlLnEQ https://t.co/wNStNibN3l",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T10:41:57.000Z",
+      "attachments": {
+        "media_keys": [
+          "3_1467443900755456004"
+        ]
+      },
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 20,
+        "reply_count": 16,
+        "like_count": 104,
+        "quote_count": 0
+      },
+      "conversation_id": "1467444122453790724",
+      "entities": {
+        "urls": [
+          {
+            "start": 215,
+            "end": 238,
+            "url": "https://t.co/t0XFXlLnEQ",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/corona-politik-feigheit-vor-dem-volk-a-73831506-5c37-4105-9837-80c487005cc7",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          },
+          {
+            "start": 239,
+            "end": 262,
+            "url": "https://t.co/wNStNibN3l",
+            "expanded_url": "https://twitter.com/derspiegel/status/1467444122453790724/photo/1",
+            "display_url": "pic.twitter.com/wNStNibN3l"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467438029044338694",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Noch hat sich die Stiko nicht f\u00fcr eine #Impfung von F\u00fcnf- bis Elfj\u00e4hrigen ausgesprochen. Was, wenn ich mein Kind jetzt schon impfen lasse? Haften dann die Eltern? Der Arzt? Der Staat? Antworten eines Medizinrechtlers. (S+) https://t.co/1yqxzSdmrp",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T10:17:44.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 39,
+            "end": 47,
+            "tag": "Impfung"
+          }
+        ],
+        "urls": [
+          {
+            "start": 223,
+            "end": 246,
+            "url": "https://t.co/1yqxzSdmrp",
+            "expanded_url": "https://www.spiegel.de/gesundheit/coronavirus-wer-haftet-bei-off-label-kinderimpfungen-a-5cb7e8e4-9a46-4c2c-a74a-13883cbcf6cc",
+            "display_url": "spiegel.de/gesundheit/cor\u2026"
+          }
+        ]
+      },
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 8,
+        "like_count": 10,
+        "quote_count": 0
+      },
+      "conversation_id": "1467438029044338694"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467436211069403141",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Dritte Bundesliga-Pleite in Folge, K.-o.-Runde in der Champions League verpasst: Nach nur 14 Liga-Spielen mit RB Leipzig muss Trainer Jesse #Marsch wieder gehen. #RBLeipzig https://t.co/1H852FKyZb",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T10:10:31.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 140,
+            "end": 147,
+            "tag": "Marsch"
+          },
+          {
+            "start": 162,
+            "end": 172,
+            "tag": "RBLeipzig"
+          }
+        ],
+        "urls": [
+          {
+            "start": 173,
+            "end": 196,
+            "url": "https://t.co/1H852FKyZb",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-trainer-jesse-marsch-a-8fe815a8-91b5-4d9c-8823-be110e5d30ec",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10000277909",
+            "name": "UEFA Champions League Soccer",
+            "description": "Coverage of matches played within the European club football competition."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10027437767",
+            "name": "UEFA Champions League Football",
+            "description": "Coverage of a match from the most prestigious club competition in European football."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10029304600",
+            "name": "UEFA Champions League Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10038865210",
+            "name": "Futbol Alemana (Bundesliga)"
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039036407",
+            "name": "Bundesliga Soccer",
+            "description": "Soccer action from the German Bundesliga."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039215494",
+            "name": "Bundesliga Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10050791078",
+            "name": "UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC"
+          }
+        },
+        {
+          "domain": {
+            "id": "11",
+            "name": "Sport",
+            "description": "Types of sports, like soccer and basketball"
+          },
+          "entity": {
+            "id": "733756536430809088",
+            "name": "Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "12",
+            "name": "Sports Team",
+            "description": "A sports team organization, like Arsenal and the Boston Celtics"
+          },
+          "entity": {
+            "id": "731226214627581952",
+            "name": "RB Leipzig"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "733756521230667776",
+            "name": "Bundesliga"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "733756536875454464",
+            "name": "UEFA Champions League"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "733756536875454464",
+            "name": "UEFA Champions League"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 9,
+        "quote_count": 0
+      },
+      "conversation_id": "1467436211069403141"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467425780439261187",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Nach Berichten \u00fcber Exekutionen fordern westliche Staaten von den Taliban die angek\u00fcndigte Amnestie ehemaliger Sicherheitskr\u00e4fte. https://t.co/sMvrLX8qgP",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T09:29:04.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 8,
+        "like_count": 14,
+        "quote_count": 3
+      },
+      "conversation_id": "1467425780439261187",
+      "entities": {
+        "urls": [
+          {
+            "start": 130,
+            "end": 153,
+            "url": "https://t.co/sMvrLX8qgP",
+            "expanded_url": "https://www.spiegel.de/ausland/afghanistan-eu-und-usa-besorgt-ueber-berichtete-hinrichtungen-a-a2a1cacf-2653-4b07-a3cc-00a89233b9b3?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/ausland/afghan\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467422380918202369",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "F\u00fcnf Tore, zwei offensiv denkende Teams, viele Emotionen: Das Spitzenspiel bot beste Unterhaltung. Einzig: Wenn weiter die Bayern solche Spiele gewinnen, \u00e4ndert das nichts am Niedergang des deutschen Fu\u00dfballs. #BVBFCB https://t.co/0lwphRhmGB",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T09:15:33.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 210,
+            "end": 217,
+            "tag": "BVBFCB"
+          }
+        ],
+        "urls": [
+          {
+            "start": 218,
+            "end": 241,
+            "url": "https://t.co/0lwphRhmGB",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-siegt-bei-borussia-dortmund-keine-werbung-fuer-die-bundesliga-a-6a4b3293-a6b2-48c1-b827-fd62718263b5",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039036407",
+            "name": "Bundesliga Soccer",
+            "description": "Soccer action from the German Bundesliga."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039215494",
+            "name": "Bundesliga Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "6",
+            "name": "Sports Event"
+          },
+          "entity": {
+            "id": "1450619933755273218",
+            "name": "Borussia Dortmund vs Bayern Munich"
+          }
+        },
+        {
+          "domain": {
+            "id": "11",
+            "name": "Sport",
+            "description": "Types of sports, like soccer and basketball"
+          },
+          "entity": {
+            "id": "733756536430809088",
+            "name": "Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "12",
+            "name": "Sports Team",
+            "description": "A sports team organization, like Arsenal and the Boston Celtics"
+          },
+          "entity": {
+            "id": "731226192859172864",
+            "name": "FC Bayern Munich"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "731226205425295360",
+            "name": "Germany - Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "733756521230667776",
+            "name": "Bundesliga"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 6,
+        "like_count": 19,
+        "quote_count": 0
+      },
+      "conversation_id": "1467422380918202369"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467422263389552647",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Sie lieben den Kick der Gefahr: Extremsportler. Warum riskieren sie f\u00fcr den Sport ihr Leben? Und wann wird der Rausch zur Sucht? Eine \u00bbArte Re:\u00ab-Reportage von SPIEGEL TV. https://t.co/EyTfWzs5qx",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T09:15:05.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 4,
+        "like_count": 11,
+        "quote_count": 1
+      },
+      "conversation_id": "1467422263389552647",
+      "entities": {
+        "urls": [
+          {
+            "start": 171,
+            "end": 194,
+            "url": "https://t.co/EyTfWzs5qx",
+            "expanded_url": "https://www.spiegel.de/panorama/gesellschaft/lust-an-der-gefahr-warum-extremsportler-ihr-leben-riskieren-eine-arte-re-reportage-von-spiegel-tv-a-e464184e-7797-4d12-a276-1062df44320b?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/gesel\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467422255269363712",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Noch hat sich die Stiko nicht f\u00fcr eine Impfung von F\u00fcnf- bis Elfj\u00e4hrigen ausgesprochen. Was, wenn ich mein Kind jetzt schon impfen lasse? Haften dann die Eltern? Der Arzt? Der Staat? Antworten eines Medizinrechtlers. https://t.co/wMkkYjhcxv",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T09:15:03.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 11,
+        "like_count": 12,
+        "quote_count": 2
+      },
+      "conversation_id": "1467422255269363712",
+      "entities": {
+        "urls": [
+          {
+            "start": 217,
+            "end": 240,
+            "url": "https://t.co/wMkkYjhcxv",
+            "expanded_url": "https://www.spiegel.de/gesundheit/coronavirus-wer-haftet-bei-off-label-kinderimpfungen-a-5cb7e8e4-9a46-4c2c-a74a-13883cbcf6cc?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/gesundheit/cor\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467422067201093636",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Vincent ist ungeimpft \u2013 und will es bleiben. Volle Intensivstationen sind f\u00fcr ihn kein Coronaproblem, er hat sich in eine Parallelwelt zur\u00fcckgezogen: Statt Fakten z\u00e4hlt f\u00fcr ihn das eigene Erleben. Wie erreicht man so jemanden noch? (S+) #Impfung https://t.co/eoj2VCnIdj",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T09:14:18.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 237,
+            "end": 245,
+            "tag": "Impfung"
+          }
+        ],
+        "urls": [
+          {
+            "start": 246,
+            "end": 269,
+            "url": "https://t.co/eoj2VCnIdj",
+            "expanded_url": "https://www.spiegel.de/psychologie/coronavirus-dialog-mit-einem-impfgegner-in-sachsen-a-b82f2ac2-2740-4263-9457-5354522f5db4",
+            "display_url": "spiegel.de/psychologie/co\u2026"
+          }
+        ]
+      },
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 17,
+        "reply_count": 85,
+        "like_count": 93,
+        "quote_count": 3
+      },
+      "conversation_id": "1467422067201093636"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467414705907978241",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Nach Berichten \u00fcber Exekutionen fordern westliche Staaten von den Taliban die angek\u00fcndigte Amnestie ehemaliger Sicherheitskr\u00e4fte. https://t.co/9qkOCiJv9R",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T08:45:03.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 5,
+        "like_count": 15,
+        "quote_count": 4
+      },
+      "conversation_id": "1467414705907978241",
+      "entities": {
+        "urls": [
+          {
+            "start": 130,
+            "end": 153,
+            "url": "https://t.co/9qkOCiJv9R",
+            "expanded_url": "https://www.spiegel.de/politik/afghanistan-eu-und-usa-besorgt-ueber-berichtete-hinrichtungen-a-a2a1cacf-2653-4b07-a3cc-00a89233b9b3?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/afghan\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467388028146511874",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Das Kinderzimmer l\u00e4uft \u00fcber vor Spielsachen, und Bargeld schenken ist Ihnen zu langweilig? Dann k\u00f6nnten Aktien oder Gold eine L\u00f6sung sein. Worauf Sie dabei achten sollten. https://t.co/vy1B86Jenz",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-05T06:59:03.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 21,
+        "like_count": 11,
+        "quote_count": 13
+      },
+      "conversation_id": "1467388028146511874",
+      "entities": {
+        "urls": [
+          {
+            "start": 172,
+            "end": 195,
+            "url": "https://t.co/vy1B86Jenz",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/service/geldgeschenke-aktien-sparplaene-fondsanteile-gold-was-man-beachten-muss-a-f5ccba86-0002-0001-0000-000179844474?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/wirtschaft/ser\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467254158738657280",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Nicht der HSV, nicht Werder, nicht Schalke 04: Es ist der FC St. Pauli, der die Zweitliga-Tabelle nach der Hinrunde anf\u00fchren wird. Gegen die K\u00f6nigsblauen traf Ex-Schalker Guido Burgstaller doppelt. https://t.co/zeyIl05AiG",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T22:07:06.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039036407",
+            "name": "Bundesliga Soccer",
+            "description": "Soccer action from the German Bundesliga."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039215494",
+            "name": "Bundesliga Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "733773978997661696",
+            "name": "Guido Burgstaller"
+          }
+        },
+        {
+          "domain": {
+            "id": "12",
+            "name": "Sports Team",
+            "description": "A sports team organization, like Arsenal and the Boston Celtics"
+          },
+          "entity": {
+            "id": "731226219404890113",
+            "name": "FC Schalke 04"
+          }
+        },
+        {
+          "domain": {
+            "id": "60",
+            "name": "Athlete",
+            "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+          },
+          "entity": {
+            "id": "733773978997661696",
+            "name": "Guido Burgstaller"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 8,
+        "like_count": 103,
+        "quote_count": 1
+      },
+      "conversation_id": "1467254158738657280",
+      "entities": {
+        "urls": [
+          {
+            "start": 198,
+            "end": 221,
+            "url": "https://t.co/zeyIl05AiG",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-nach-sieg-gegen-schalke-04-herbstmeister-a-7b791941-7313-4bec-8710-653f1c6c4b65?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467254150601666560",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Drei Jahre nach der Ermordung des Journalisten Jamal Khashoggi reiste Frankreichs Pr\u00e4sident nun als erster westlicher Regierungschef wieder nach Saudi-Arabien. Er habe auch kritische Themen offen angesprochen, sagte Macron. https://t.co/Ok3n6TUm4S",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T22:07:04.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1050435670647353345",
+            "name": "Jamal Khashoggi",
+            "description": "Jamal Khashoggi"
+          }
+        },
+        {
+          "domain": {
+            "id": "94",
+            "name": "Journalist",
+            "description": "A journalist like 'Anderson Cooper'"
+          },
+          "entity": {
+            "id": "1050435670647353345",
+            "name": "Jamal Khashoggi",
+            "description": "Jamal Khashoggi"
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "822153632002904064",
+            "name": "Emmanuel Macron",
+            "description": "Emmanuel Macron"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "822153632002904064",
+            "name": "Emmanuel Macron",
+            "description": "Emmanuel Macron"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 39,
+        "like_count": 22,
+        "quote_count": 1
+      },
+      "conversation_id": "1467254150601666560",
+      "entities": {
+        "urls": [
+          {
+            "start": 224,
+            "end": 247,
+            "url": "https://t.co/Ok3n6TUm4S",
+            "expanded_url": "https://www.spiegel.de/ausland/nach-khashoggi-mord-emmanuel-macron-besucht-kronprinz-von-saudi-arabien-a-1432a28b-b0da-497a-a579-28f4cc1df6dd?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/ausland/nach-k\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467244454511669249",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Das Bundesliga-Topspiel zwischen Borussia Dortmund und Bayern M\u00fcnchen wurde durch ein Handspiel und eine folgende Schiedsrichterentscheidung entschieden. Aber auch sonst gab es viel zu sehen. Die Bilder zum Spiel. https://t.co/pOGSk8nSMy",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T21:28:32.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10038865210",
+            "name": "Futbol Alemana (Bundesliga)"
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039036407",
+            "name": "Bundesliga Soccer",
+            "description": "Soccer action from the German Bundesliga."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039215494",
+            "name": "Bundesliga Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "6",
+            "name": "Sports Event"
+          },
+          "entity": {
+            "id": "1450619933755273218",
+            "name": "Borussia Dortmund vs Bayern Munich"
+          }
+        },
+        {
+          "domain": {
+            "id": "11",
+            "name": "Sport",
+            "description": "Types of sports, like soccer and basketball"
+          },
+          "entity": {
+            "id": "733756536430809088",
+            "name": "Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "12",
+            "name": "Sports Team",
+            "description": "A sports team organization, like Arsenal and the Boston Celtics"
+          },
+          "entity": {
+            "id": "731226192859172864",
+            "name": "FC Bayern Munich"
+          }
+        },
+        {
+          "domain": {
+            "id": "12",
+            "name": "Sports Team",
+            "description": "A sports team organization, like Arsenal and the Boston Celtics"
+          },
+          "entity": {
+            "id": "731226218155016192",
+            "name": "Borussia Dortmund"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "731226205425295360",
+            "name": "Germany - Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "733756521230667776",
+            "name": "Bundesliga"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 7,
+        "like_count": 14,
+        "quote_count": 1
+      },
+      "conversation_id": "1467244454511669249",
+      "entities": {
+        "urls": [
+          {
+            "start": 214,
+            "end": 237,
+            "url": "https://t.co/pOGSk8nSMy",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/bundesliga-bayern-muenchen-gewinnt-bei-borussia-dortmund-das-spiel-in-bildern-a-1f20ea38-c141-4625-93bd-1ed51862cf20?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467242446899712001",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Das zum Klassiker hochstilisierte Duell zwischen Dortmund und den Bayern wird gern bel\u00e4chelt. Diesmal aber lieferte es alles, was man sich vom Fu\u00dfball w\u00fcnscht. Nur der Sieger blieb der ewig gleiche. https://t.co/hkjjme9oQE",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T21:20:34.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039036407",
+            "name": "Bundesliga Soccer",
+            "description": "Soccer action from the German Bundesliga."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039215494",
+            "name": "Bundesliga Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "6",
+            "name": "Sports Event"
+          },
+          "entity": {
+            "id": "1450619933755273218",
+            "name": "Borussia Dortmund vs Bayern Munich"
+          }
+        },
+        {
+          "domain": {
+            "id": "11",
+            "name": "Sport",
+            "description": "Types of sports, like soccer and basketball"
+          },
+          "entity": {
+            "id": "733756536430809088",
+            "name": "Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "12",
+            "name": "Sports Team",
+            "description": "A sports team organization, like Arsenal and the Boston Celtics"
+          },
+          "entity": {
+            "id": "731226192859172864",
+            "name": "FC Bayern Munich"
+          }
+        },
+        {
+          "domain": {
+            "id": "12",
+            "name": "Sports Team",
+            "description": "A sports team organization, like Arsenal and the Boston Celtics"
+          },
+          "entity": {
+            "id": "731226218155016192",
+            "name": "Borussia Dortmund"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "731226205425295360",
+            "name": "Germany - Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "733756521230667776",
+            "name": "Bundesliga"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 6,
+        "like_count": 17,
+        "quote_count": 1
+      },
+      "conversation_id": "1467242446899712001",
+      "entities": {
+        "urls": [
+          {
+            "start": 199,
+            "end": 222,
+            "url": "https://t.co/hkjjme9oQE",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-siegt-nach-umstrittenem-elfer-beim-bvb-a-22f95bb6-973d-440d-837e-032f9963d365?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467208845264969732",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Mit einer erneut \u00fcberzeugenden Vorstellung haben die DHB-Frauen das erste Etappenziel bei der Weltmeisterschaft erreicht. Das letzte Gruppenspiel bleibt dennoch wichtig \u2013 das Ergebnis k\u00f6nnte den WM-Verlauf beeinflussen. https://t.co/H4bMdQHlPX",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T19:07:02.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 25,
+        "quote_count": 0
+      },
+      "conversation_id": "1467208845264969732",
+      "entities": {
+        "urls": [
+          {
+            "start": 220,
+            "end": 243,
+            "url": "https://t.co/H4bMdQHlPX",
+            "expanded_url": "https://www.spiegel.de/sport/handball/handball-wm-der-frauen-dhb-team-nach-sieg-gegen-die-slowakei-vorzeitig-in-hauptrunde-a-7e5c36dd-593c-4fd5-87d3-cf55a24c8354?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/handball\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467203311765917701",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Sie hatten mit Hilferufen und Klopfen auf sich aufmerksam gemacht. So wurde eine Gruppe von Migranten von mexikanischen Sicherheitskr\u00e4ften im Anh\u00e4nger eines Lastwagens entdeckt \u2013 zwischen Decken und Metallger\u00fcsten. https://t.co/284RpECYL9",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T18:45:03.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 5,
+        "like_count": 16,
+        "quote_count": 1
+      },
+      "conversation_id": "1467203311765917701",
+      "entities": {
+        "urls": [
+          {
+            "start": 215,
+            "end": 238,
+            "url": "https://t.co/284RpECYL9",
+            "expanded_url": "https://www.spiegel.de/ausland/mexiko-mehr-als-200-migranten-aus-lastwagen-gerettet-a-85866fd4-da3e-4111-9aa9-895ab19e0485?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/ausland/mexiko\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467199549856911364",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Formel-1-Weltmeister Lewis Hamilton hat das Qualifying in Saudi-Arabien f\u00fcr sich entschieden. WM-Spitzenreiter Max Verstappen war auf dem Weg zur Bestzeit \u2013 raste aber in eine Absperrung. https://t.co/kVRZ9RqSwO",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T18:30:06.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10002765236",
+            "name": "Formula One Racing",
+            "description": "Auto racing action from the Formula One circuit."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10029035313",
+            "name": "F\u00f3rmula 1",
+            "description": "Acompanhe as emo\u00e7\u00f5es do principal torneio de automobilismo."
+          }
+        },
+        {
+          "domain": {
+            "id": "4",
+            "name": "TV Episodes",
+            "description": "Television show episodes"
+          },
+          "entity": {
+            "id": "1462375681925398532",
+            "name": "Saudi Arabian Grand Prix, Practice 3",
+            "description": "From the Jeddah Corniche Circuit in Jeddah, Saudi Arabia."
+          }
+        },
+        {
+          "domain": {
+            "id": "4",
+            "name": "TV Episodes",
+            "description": "Television show episodes"
+          },
+          "entity": {
+            "id": "1464179157600915458",
+            "name": "GP da Ar\u00e1bia Saudita - Treinos Classificat\u00f3rios",
+            "description": "Do Circuito Urbano de Gid\u00e1, em Gid\u00e1, Ar\u00e1bia Saudita."
+          }
+        },
+        {
+          "domain": {
+            "id": "6",
+            "name": "Sports Event"
+          },
+          "entity": {
+            "id": "1460671325295419411",
+            "name": "Saudi Arabian Grand Prix 2021",
+            "description": "The F1 World Championship takes to the track at the Jeddah Corniche Circuit, Jeddah."
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "854737200667271168",
+            "name": "Max Verstappen",
+            "description": "Max Verstappen"
+          }
+        },
+        {
+          "domain": {
+            "id": "11",
+            "name": "Sport",
+            "description": "Types of sports, like soccer and basketball"
+          },
+          "entity": {
+            "id": "1058103880376971264",
+            "name": "Racing",
+            "description": "Racing"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "854701577994616832",
+            "name": "Formula 1",
+            "description": "Formula 1"
+          }
+        },
+        {
+          "domain": {
+            "id": "60",
+            "name": "Athlete",
+            "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+          },
+          "entity": {
+            "id": "854737200667271168",
+            "name": "Max Verstappen",
+            "description": "Max Verstappen"
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "809514988247232512",
+            "name": "Lewis Hamilton",
+            "description": "Lewis Hamilton"
+          }
+        },
+        {
+          "domain": {
+            "id": "60",
+            "name": "Athlete",
+            "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+          },
+          "entity": {
+            "id": "809514988247232512",
+            "name": "Lewis Hamilton",
+            "description": "Lewis Hamilton"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 17,
+        "quote_count": 0
+      },
+      "conversation_id": "1467199549856911364",
+      "entities": {
+        "urls": [
+          {
+            "start": 188,
+            "end": 211,
+            "url": "https://t.co/kVRZ9RqSwO",
+            "expanded_url": "https://www.spiegel.de/sport/formel1/formel-1-in-saudi-arabien-max-verstappen-faehrt-in-die-mauer-lewis-hamilton-auf-die-pole-a-92f59b4f-ea57-4f15-93f0-c98336750375?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/formel1/\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1467199555573727234/9qjWeVWX?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1467199555573727234/9qjWeVWX?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Formel 1 in Saudi-Arabien: Max Verstappen f\u00e4hrt in die Mauer, Lewis Hamilton auf die Pole",
+            "description": "Formel-1-Weltmeister Lewis Hamilton hat das Qualifying in Saudi-Arabien f\u00fcr sich entschieden. WM-Spitzenreiter Max Verstappen war auf dem Weg zur Bestzeit \u2013 raste aber in eine Absperrung.",
+            "unwound_url": "https://www.spiegel.de/sport/formel1/formel-1-in-saudi-arabien-max-verstappen-faehrt-in-die-mauer-lewis-hamilton-auf-die-pole-a-92f59b4f-ea57-4f15-93f0-c98336750375?utm_source=dlvr.it&utm_medium=twitter#ref=rss"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467199541938049028",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Die Ampelkoalition\u00e4re sind noch im Honeymoon, aber wie kann der Alltag gelingen? Paartherapeut Oskar Holzberg sagt, worauf es in Dreierbeziehungen ankommt \u2013 und warum Christian Lindner die Harmonie schon gest\u00f6rt haben k\u00f6nnte. https://t.co/O9pA5qrWTt",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T18:30:04.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "827110952499769344",
+            "name": "Christian Lindner",
+            "description": "Christian Lindner"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "827110952499769344",
+            "name": "Christian Lindner",
+            "description": "Christian Lindner"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "839159814991167489",
+            "name": "Travel",
+            "description": "Travel"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "839160129752686593",
+            "name": "General Travel",
+            "description": "General Travel"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 16,
+        "like_count": 18,
+        "quote_count": 1
+      },
+      "conversation_id": "1467199541938049028",
+      "entities": {
+        "urls": [
+          {
+            "start": 226,
+            "end": 249,
+            "url": "https://t.co/O9pA5qrWTt",
+            "expanded_url": "https://www.spiegel.de/psychologie/ampel-koalition-ein-paartherapeut-ueber-dreier-buendnisse-a-edf4e799-1a37-4ebd-a10d-8411aa420681?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/psychologie/am\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467197647215738882",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Mit \u00fcberw\u00e4ltigender Mehrheit haben die Sozialdemokraten den Ampel-Koalitionsvertrag angenommen. Unter Olaf Scholz ist die SPD auf dem besten Weg, zur Kanzlerpartei zu werden. Gibt es wenigstens von Kevin K\u00fchnert Widerworte? https://t.co/iHQqpxzxPO",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T18:22:32.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1439961464555466753",
+            "name": "Olaf Scholz"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "1439961464555466753",
+            "name": "Olaf Scholz"
+          }
+        },
+        {
+          "domain": {
+            "id": "38",
+            "name": "Political Race",
+            "description": ""
+          },
+          "entity": {
+            "id": "1439959177003089924",
+            "name": "Bundestagswahl 2021"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 11,
+        "like_count": 26,
+        "quote_count": 0
+      },
+      "conversation_id": "1467197647215738882",
+      "entities": {
+        "urls": [
+          {
+            "start": 224,
+            "end": 247,
+            "url": "https://t.co/iHQqpxzxPO",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/sonderparteitag-der-spd-die-rote-machtmaschine-a-bc29b50b-58d3-46a0-91e0-6f4090e03bc2?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467193752552759300",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Tr\u00e4nen, Medienrummel und horrende Erinnerungen: Im Prozess gegen die britische Erbin Ghislaine Maxwell haben die ersten dramatischen Aussagen begonnen. Dabei stand oft der Mann im Mittelpunkt, dem sie zugearbeitet haben soll. https://t.co/VsG1ToYfCE",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T18:07:04.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1278685520197898240",
+            "name": "Ghislaine Maxwell"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 0,
+        "like_count": 9,
+        "quote_count": 0
+      },
+      "conversation_id": "1467193752552759300",
+      "entities": {
+        "urls": [
+          {
+            "start": 226,
+            "end": 249,
+            "url": "https://t.co/VsG1ToYfCE",
+            "expanded_url": "https://www.spiegel.de/ausland/prozess-gegen-ghislaine-maxwell-zeugin-belastet-jeffrey-epsteins-ex-vertraute-a-d87f81d5-cc8f-46d6-88a1-71c4f44b9ad5?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/ausland/prozes\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467190608422858758",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Mirco Nontschew war ein Comedystar der Neunziger, zuletzt kehrte er mit \u00bbLOL\u00ab zur\u00fcck. Er war ein Meister der Mimik und Situationskomik. Ein Nachruf. https://t.co/8iwL2wXHUh",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T17:54:34.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 16,
+        "reply_count": 4,
+        "like_count": 142,
+        "quote_count": 5
+      },
+      "conversation_id": "1467190608422858758",
+      "entities": {
+        "urls": [
+          {
+            "start": 149,
+            "end": 172,
+            "url": "https://t.co/8iwL2wXHUh",
+            "expanded_url": "https://www.spiegel.de/kultur/tv/nachruf-auf-mirco-nontschew-diese-hochmotorige-gesichtsmuskulatur-a-e72a4c32-0fdc-4445-b7ad-e059321a51f0?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/kultur/tv/nach\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1467190614450053120/0Xvk7Fn8?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1467190614450053120/0Xvk7Fn8?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Nachruf auf Mirco Nontschew: Diese hochmotorige Gesichtsmuskulatur",
+            "description": "Mirco Nontschew war ein Comedystar der Neunziger, zuletzt kehrte er mit \u00bbLOL\u00ab zur\u00fcck. Er war ein Meister der Mimik und Situationskomik. Ein Nachruf.",
+            "unwound_url": "https://www.spiegel.de/kultur/tv/nachruf-auf-mirco-nontschew-diese-hochmotorige-gesichtsmuskulatur-a-e72a4c32-0fdc-4445-b7ad-e059321a51f0?utm_source=dlvr.it&utm_medium=twitter#ref=rss"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467187677728579584",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "RT @mathieuvonrohr: Podcast \u00bbInside Austria\u00ab: Was von der \u00c4ra Sebastian Kurz bleibt \u2013 und wie es weitergeht - mit @LuciaHeister @ZsoltWilhe\u2026",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "mathieuvonrohr",
+            "id": "17152053"
+          },
+          {
+            "start": 114,
+            "end": 127,
+            "username": "LuciaHeister",
+            "id": "773045006026338304"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T17:42:56.000Z",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1467074156261003268"
+        }
+      ],
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1467187677728579584"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467185733253349377",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "RT @beimwort: Gr\u00fcne Personal-News: @IreneMihalic kandidiert als Erste Parlamentarische Gesch\u00e4ftsf\u00fchrerin. Dar\u00fcber hat sie die Abgeordneten\u2026",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "beimwort",
+            "id": "68404031"
+          },
+          {
+            "start": 35,
+            "end": 48,
+            "username": "IreneMihalic",
+            "id": "143000381"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T17:35:12.000Z",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1467045157098999809"
+        }
+      ],
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 11,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1467185733253349377"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467185687711698946",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "RT @Alex_Neubacher: Die Katastrophenbilder aus bayerischen Krankenh\u00e4usern zeigen, was vom Corona-Versager Markus S\u00f6der zu halten ist. Er is\u2026",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "Alex_Neubacher",
+            "id": "266579669"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T17:35:01.000Z",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1467069114439057409"
+        }
+      ],
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "887779778912165888",
+            "name": "Markus S\u00f6der",
+            "description": "Markus S\u00f6der"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "887779778912165888",
+            "name": "Markus S\u00f6der",
+            "description": "Markus S\u00f6der"
+          }
+        }
+      ],
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 116,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1467185687711698946"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467182429823639552",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Einen Tag nach dem Rekordmatch mit Sieg f\u00fcr den Titelverteidiger Magnus Carlsen gibt es bei der Schach-WM wieder ein Unentschieden. Carlsen und Npomnjaschtschi warteten daf\u00fcr nur so lange, wie sie mussten. https://t.co/Y5gTu7RxTX",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T17:22:04.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 21,
+        "quote_count": 0
+      },
+      "conversation_id": "1467182429823639552",
+      "entities": {
+        "urls": [
+          {
+            "start": 206,
+            "end": 229,
+            "url": "https://t.co/Y5gTu7RxTX",
+            "expanded_url": "https://www.spiegel.de/sport/schach-wm-magnus-carlsen-verteidigt-fuehrung-gegen-jan-nepomnjaschtschi-a-d4d3c746-7da0-4e92-b223-dae5495dc7ba?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/schach-w\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467170111253475331",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Johannes Lochner wollte Francesco Friedrich auf seiner Heimbahn schlagen. Dann aber bewahrte er seinen Helm zu nah an einem Heizl\u00fcfter auf \u2013 und war schlie\u00dflich froh, heil unten angekommen zu sein. https://t.co/O7x9UfHV83",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T16:33:07.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 11,
+        "quote_count": 1
+      },
+      "conversation_id": "1467170111253475331",
+      "entities": {
+        "urls": [
+          {
+            "start": 198,
+            "end": 221,
+            "url": "https://t.co/O7x9UfHV83",
+            "expanded_url": "https://www.spiegel.de/sport/wintersport/bob-johannes-lochner-wird-im-blindflug-zweiter-visier-an-der-heizung-geschmolzen-a-299bfd77-e3e4-4748-accc-51ff8716da8f?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/wintersp\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467163678717792262",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "In seiner Amtszeit st\u00fcrzte Schalke 04 aus der Champions League in die 2. Bundesliga. Jetzt will Peter Peters Boss des Deutschen Fu\u00dfball-Bundes werden. Der Verband ist an Nieten gew\u00f6hnt \u2013 trotzdem regt sich Widerstand. https://t.co/4fDN7RXXy2",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T16:07:34.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10000277909",
+            "name": "UEFA Champions League Soccer",
+            "description": "Coverage of matches played within the European club football competition."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10027437767",
+            "name": "UEFA Champions League Football",
+            "description": "Coverage of a match from the most prestigious club competition in European football."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10029304600",
+            "name": "UEFA Champions League Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10038865210",
+            "name": "Futbol Alemana (Bundesliga)"
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039036407",
+            "name": "Bundesliga Soccer",
+            "description": "Soccer action from the German Bundesliga."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039215494",
+            "name": "Bundesliga Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10050791078",
+            "name": "UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC"
+          }
+        },
+        {
+          "domain": {
+            "id": "11",
+            "name": "Sport",
+            "description": "Types of sports, like soccer and basketball"
+          },
+          "entity": {
+            "id": "733756536430809088",
+            "name": "Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "12",
+            "name": "Sports Team",
+            "description": "A sports team organization, like Arsenal and the Boston Celtics"
+          },
+          "entity": {
+            "id": "731226219404890113",
+            "name": "FC Schalke 04"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "733756521230667776",
+            "name": "Bundesliga"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "733756536875454464",
+            "name": "UEFA Champions League"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "1099776298212151296",
+            "name": "2. Bundesliga",
+            "description": "2. Bundesliga"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "733756536875454464",
+            "name": "UEFA Champions League"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 1,
+        "like_count": 39,
+        "quote_count": 1
+      },
+      "conversation_id": "1467163678717792262",
+      "entities": {
+        "urls": [
+          {
+            "start": 218,
+            "end": 241,
+            "url": "https://t.co/4fDN7RXXy2",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/dfb-praesidentschaftskandidat-peter-peters-wirre-und-langatmige-vortraege-a-ccac5b63-5143-4f30-b7cc-a9d83ee422ec?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467161284281995274",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Ein Verbot von Trampolinen erregt in D\u00fcsseldorf die Gem\u00fcter: Die Stadtverwaltung stuft die H\u00fcpfger\u00e4te in st\u00e4dtischen Kleing\u00e4rten als unzul\u00e4ssige Fl\u00e4chenversiegelung ein. Ein Familienvater mobilisiert den Widerstand. https://t.co/RLpAYDEQL1",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T15:58:03.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 29,
+        "reply_count": 86,
+        "like_count": 115,
+        "quote_count": 17
+      },
+      "conversation_id": "1467161284281995274",
+      "entities": {
+        "urls": [
+          {
+            "start": 216,
+            "end": 239,
+            "url": "https://t.co/RLpAYDEQL1",
+            "expanded_url": "https://www.spiegel.de/panorama/trampolin-verbot-erregt-gemueter-in-duesseldorf-a-1d6c1aba-d4d6-4340-b2f5-3bb30b8f2752?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/tramp\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467152227106054145",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Das deutsche Team verpasst ohne Alexander Zverev sein erstes Davis-Cup-Finale seit 28 Jahren. Auf Titelfavorit Russland wartet am Sonntag Kroatien im Finale. https://t.co/Vx5X2f8wmy",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T15:22:03.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10028675481",
+            "name": "Live: Davis Cup Tennis"
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "864583573013053440",
+            "name": "Alexander Zverev",
+            "description": "Alexander Zverev"
+          }
+        },
+        {
+          "domain": {
+            "id": "60",
+            "name": "Athlete",
+            "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+          },
+          "entity": {
+            "id": "864583573013053440",
+            "name": "Alexander Zverev",
+            "description": "Alexander Zverev"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 11,
+        "quote_count": 0
+      },
+      "conversation_id": "1467152227106054145",
+      "entities": {
+        "urls": [
+          {
+            "start": 158,
+            "end": 181,
+            "url": "https://t.co/Vx5X2f8wmy",
+            "expanded_url": "https://www.spiegel.de/sport/tennis/tennis-deutsches-davis-cup-team-im-halbfinale-gegen-russland-ohne-chance-a-6f5e9921-4428-431f-84f7-71828e4e6e13?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/tennis/t\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467146192454782985",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Die Kanzlerin schaut zu, statt zu regieren. Der Gesundheitsminister tritt auf wie Brasilien beim 1:7 gegen Deutschland. Und niemand will irgendjemandem die Schuld geben. Warum die deutsche Politik so \u00e4ngstlich ist. https://t.co/T5Z0MGvXEg",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T14:58:05.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 17,
+        "like_count": 40,
+        "quote_count": 1
+      },
+      "conversation_id": "1467146192454782985",
+      "entities": {
+        "urls": [
+          {
+            "start": 215,
+            "end": 238,
+            "url": "https://t.co/T5Z0MGvXEg",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/corona-politik-feigheit-vor-dem-volk-a-73831506-5c37-4105-9837-80c487005cc7?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467142665854590981",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "In der N\u00e4he von Detroit erschoss ein 15-J\u00e4hriger an seiner Highschool vier Menschen. Nun hat die Polizei auch die Eltern in Gewahrsam genommen. Sie sollen ihm die Waffe beschafft und Warnzeichen ignoriert haben. https://t.co/83NFvWCZW5",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T14:44:04.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 1,
+        "like_count": 28,
+        "quote_count": 1
+      },
+      "conversation_id": "1467142665854590981",
+      "entities": {
+        "urls": [
+          {
+            "start": 212,
+            "end": 235,
+            "url": "https://t.co/83NFvWCZW5",
+            "expanded_url": "https://www.spiegel.de/panorama/justiz/usa-toedliche-attacke-auf-schule-eltern-des-15-jaehrigen-schuetzen-festgenommen-a-86fed44b-5b58-45d3-aec2-7c22bfd24209?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/justi\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467126811813314562",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "In Frankreich ist ein M\u00e4dchen in der Badewanne gestorben, weil ihr ans Stromnetz angeschlossene Mobiltelefon ins Wasser gefallen ist. Die Mutter appelliert an andere Teenager, den Vorfall als Warnung zu begreifen. https://t.co/7rEQaoWRIo",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T13:41:04.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 26,
+        "reply_count": 16,
+        "like_count": 86,
+        "quote_count": 4
+      },
+      "conversation_id": "1467126811813314562",
+      "entities": {
+        "urls": [
+          {
+            "start": 214,
+            "end": 237,
+            "url": "https://t.co/7rEQaoWRIo",
+            "expanded_url": "https://www.spiegel.de/panorama/frankreich-verkabeltes-handy-faellt-in-badewanne-13-jaehrige-tot-a-56c24b50-f75d-4a1c-9336-6ca8bc46fe4c?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/frank\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467122401561354241",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Als erste der Ampel-Parteien stimmt die SPD dem Koalitionsvertrag zu. Zweifler melden sich kaum zu Wort. Und der designierte Bundeskanzler verspricht, beherzt anzupacken. https://t.co/hUN61Ivq20",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T13:23:33.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 11,
+        "like_count": 44,
+        "quote_count": 1
+      },
+      "conversation_id": "1467122401561354241",
+      "entities": {
+        "urls": [
+          {
+            "start": 171,
+            "end": 194,
+            "url": "https://t.co/hUN61Ivq20",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/spd-stimmt-fuer-ampel-koalition-mit-fdp-und-gruenen-a-8cf0e14c-1bd1-4280-b689-e8e68935b5b9?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/deutsc\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1467122407370420230/QdxQXUxZ?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1467122407370420230/QdxQXUxZ?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Auf Parteitag: SPD stimmt Koalitionsvertrag mit Gr\u00fcnen und FDP zu",
+            "description": "Als erste der Ampel-Parteien stimmt die SPD dem Koalitionsvertrag zu. Zweifler melden sich kaum zu Wort. Und der designierte Bundeskanzler verspricht, beherzt anzupacken.",
+            "unwound_url": "https://www.spiegel.de/politik/deutschland/spd-stimmt-fuer-ampel-koalition-mit-fdp-und-gruenen-a-8cf0e14c-1bd1-4280-b689-e8e68935b5b9?utm_source=dlvr.it&utm_medium=twitter#ref=rss"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467121018582052875",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Bekanntheit erlangte er mit \u00bbRTL Samstag Nacht\u00ab, zuletzt feierte er in der Erfolgsshow \u00bbLast One Laughing\u00ab sein Comeback. Nun ist #MircoNontschew gestorben. https://t.co/vPuas58zgd",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T13:18:03.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 130,
+            "end": 145,
+            "tag": "MircoNontschew"
+          }
+        ],
+        "urls": [
+          {
+            "start": 157,
+            "end": 180,
+            "url": "https://t.co/vPuas58zgd",
+            "expanded_url": "https://www.spiegel.de/kultur/tv/mirco-nontschew-ist-tot-a-c941e4c1-0547-4c0a-843a-3a5992158c8b",
+            "display_url": "spiegel.de/kultur/tv/mirc\u2026"
+          }
+        ]
+      },
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 25,
+        "reply_count": 45,
+        "like_count": 167,
+        "quote_count": 11
+      },
+      "conversation_id": "1467121018582052875"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467108475834621955",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Der BVB k\u00f6nnte am Abend gegen die Bayern die Tabellenf\u00fchrung der Bundesliga erobern. Ein kleines Wunder, wenn man sich die Saisondaten beider Teams genauer ansieht. #BVBFCB https://t.co/6d2Lp8KSi4",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T12:28:12.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 165,
+            "end": 172,
+            "tag": "BVBFCB"
+          }
+        ],
+        "urls": [
+          {
+            "start": 173,
+            "end": 196,
+            "url": "https://t.co/6d2Lp8KSi4",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-gegen-den-fc-bayern-muenchen-das-moechtegern-topspiel-a-63d13b9a-80f9-44f4-8949-a179bf5df513",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10038865210",
+            "name": "Futbol Alemana (Bundesliga)"
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039036407",
+            "name": "Bundesliga Soccer",
+            "description": "Soccer action from the German Bundesliga."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039215494",
+            "name": "Bundesliga Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "6",
+            "name": "Sports Event"
+          },
+          "entity": {
+            "id": "1450619933755273218",
+            "name": "Borussia Dortmund vs Bayern Munich"
+          }
+        },
+        {
+          "domain": {
+            "id": "11",
+            "name": "Sport",
+            "description": "Types of sports, like soccer and basketball"
+          },
+          "entity": {
+            "id": "733756536430809088",
+            "name": "Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "12",
+            "name": "Sports Team",
+            "description": "A sports team organization, like Arsenal and the Boston Celtics"
+          },
+          "entity": {
+            "id": "731226192859172864",
+            "name": "FC Bayern Munich"
+          }
+        },
+        {
+          "domain": {
+            "id": "12",
+            "name": "Sports Team",
+            "description": "A sports team organization, like Arsenal and the Boston Celtics"
+          },
+          "entity": {
+            "id": "731226218155016192",
+            "name": "Borussia Dortmund"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "731226205425295360",
+            "name": "Germany - Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "733756521230667776",
+            "name": "Bundesliga"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 14,
+        "quote_count": 2
+      },
+      "conversation_id": "1467108475834621955"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467108353763643395",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "RT @joleffers: Die deutsche Flugpionierin Elly Beinhorn brach heute vor 90 Jahren zu ihrem ersten Flug um die Welt auf https://t.co/1GvkP6x\u2026",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "joleffers",
+            "id": "23198306"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T12:27:43.000Z",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1467106157902839809"
+        }
+      ],
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 15,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1467108353763643395"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467103536018178050",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Heiligabend mit Mund-Nasen-Schutz, coronakonforme Bescherung: Covid-19 hat auch die Arbeit von Weihnachtsm\u00e4nnern ver\u00e4ndert. Einer von ihnen berichtet von Schwierigkeiten und Lichtblicken. https://t.co/KCHZ8ybcC4",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T12:08:35.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 4,
+        "like_count": 17,
+        "quote_count": 3
+      },
+      "conversation_id": "1467103536018178050",
+      "entities": {
+        "urls": [
+          {
+            "start": 188,
+            "end": 211,
+            "url": "https://t.co/KCHZ8ybcC4",
+            "expanded_url": "https://www.spiegel.de/karriere/corona-pandemie-so-setzt-covid-19-den-weihnachtsmann-unter-druck-a-e2bbe20f-bd7a-4c5a-96a5-3065f277164d?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/karriere/coron\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467103528439058434",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Als CDU-Kanzlerkandidat ist er krachend gescheitert, seither sitzt Armin Laschet als einfacher Abgeordneter im Bundestag. Nun berichtet er, wie es f\u00fcr ihn weitergeht \u2013 und was die Union von den Ampelparteien lernen kann. https://t.co/P2vai9HT9D",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T12:08:33.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1439963479088132098",
+            "name": "Armin Laschet"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "1439963479088132098",
+            "name": "Armin Laschet"
+          }
+        },
+        {
+          "domain": {
+            "id": "38",
+            "name": "Political Race",
+            "description": ""
+          },
+          "entity": {
+            "id": "1439959177003089924",
+            "name": "Bundestagswahl 2021"
+          }
+        },
+        {
+          "domain": {
+            "id": "88",
+            "name": "Political Body",
+            "description": "A section of a government, like The Supreme Court"
+          },
+          "entity": {
+            "id": "1099777660912263168",
+            "name": "German Bundestag",
+            "description": "The Bundestag is the German federal parliament."
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 8,
+        "like_count": 16,
+        "quote_count": 1
+      },
+      "conversation_id": "1467103528439058434",
+      "entities": {
+        "urls": [
+          {
+            "start": 221,
+            "end": 244,
+            "url": "https://t.co/P2vai9HT9D",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/interview-mit-der-sueddeutschen-zeitung-laschet-will-sich-aussenpolitik-widmen-a-4baa515e-4ed9-440d-aae3-fd9e14ddc84d?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467096985173848064",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Kleiner geht's kaum: Der chinesische Elektroknirps Sunshine M2 des Herstellers Zehjiang soll ein ideales Stadtauto sein. Aber kommt es mit seinen zehn PS den Waseberg in Hamburg hinauf? Wir haben es probiert. https://t.co/YI9Bv6aT1F",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T11:42:33.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 4,
+        "like_count": 24,
+        "quote_count": 2
+      },
+      "conversation_id": "1467096985173848064",
+      "entities": {
+        "urls": [
+          {
+            "start": 209,
+            "end": 232,
+            "url": "https://t.co/YI9Bv6aT1F",
+            "expanded_url": "https://www.spiegel.de/auto/today-sunshine-m2-im-video-test-kleiner-sonnenschein-a-d25d2a82-7e78-4c32-8bda-fb22c1c185b0?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/auto/today-sun\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467063251733299202",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Hohe Inzidenzen, niedrige Impfquote \u2013 trotzdem zeigen sich Sachsens Regierung und Polizei nachsichtig gegen\u00fcber Coronaleugnern. Warum nur? (S+) https://t.co/bUwYD2TE6p",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T09:28:30.000Z",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 58,
+        "like_count": 57,
+        "quote_count": 3
+      },
+      "conversation_id": "1467063251733299202",
+      "entities": {
+        "urls": [
+          {
+            "start": 144,
+            "end": 167,
+            "url": "https://t.co/bUwYD2TE6p",
+            "expanded_url": "https://www.spiegel.de/panorama/gesellschaft/corona-sachsens-sonderweg-in-die-sackgasse-a-9cb7cbc2-d7bc-448c-b3c5-363bbc5f6b36",
+            "display_url": "spiegel.de/panorama/gesel\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467061733437190148",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Robert #Habeck und Annalena #Baerbock haben sich durchgesetzt: Der Parteilinke Anton #Hofreiter hat keinen Ministerposten bekommen. Aber um welchen Preis? Rekonstruktion einer Ausbootung. (S+) https://t.co/pA7jJhGr9j",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T09:22:28.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 7,
+            "end": 14,
+            "tag": "Habeck"
+          },
+          {
+            "start": 28,
+            "end": 37,
+            "tag": "Baerbock"
+          },
+          {
+            "start": 85,
+            "end": 95,
+            "tag": "Hofreiter"
+          }
+        ],
+        "urls": [
+          {
+            "start": 193,
+            "end": 216,
+            "url": "https://t.co/pA7jJhGr9j",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/die-gruenen-nach-dem-posten-machtkampf-nicht-mehr-zu-kitten-a-3ee0a7d6-9591-499a-8bd2-b60805623641",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      },
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 36,
+        "like_count": 32,
+        "quote_count": 3
+      },
+      "conversation_id": "1467061733437190148"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467058432738050052",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "RT @amprek: \u201eZ\u00fcge einer Bananenrepublik\u201c, \u201eWillk\u00fcr\u201c, \u201eStaatsversagen\u201c, \u201eKlagen, bis zum letzten Euro\u201c: Teile des Handels sind angesichts de\u2026",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "amprek",
+            "id": "298046689"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T09:09:21.000Z",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1467058113480171523"
+        }
+      ],
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 9,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1467058432738050052"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467056341910839299",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Nordrhein-Westfalens Ministerpr\u00e4sident Hendrik W\u00fcst kritisiert die Geschlechterverteilung an der Spitze der kommenden Ampel-Regierung. Im Gegenzug schl\u00e4gt er vor, die CDU solle die n\u00e4chste Bundespr\u00e4sidentin stellen. https://t.co/lHh3ssJR0F",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T09:01:03.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 83,
+        "like_count": 26,
+        "quote_count": 15
+      },
+      "conversation_id": "1467056341910839299",
+      "entities": {
+        "urls": [
+          {
+            "start": 216,
+            "end": 239,
+            "url": "https://t.co/lHh3ssJR0F",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/hendrik-wuest-cdu-sollte-frau-als-bundespraesidentin-vorschlagen-a-f62ae244-f4c5-401e-9b57-1f22b0b28022?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467052816623566849",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Die neue Regierung \u00fcbernimmt ausgerechnet in der schwierigsten Coronaphase das Steuer. Handelt sie schnell genug? Zeigt Olaf Scholz jetzt F\u00fchrung? Und welche Rolle spielt Angela Merkel noch? https://t.co/BQSQZ1zXab",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T08:47:02.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1439961464555466753",
+            "name": "Olaf Scholz"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "1439961464555466753",
+            "name": "Olaf Scholz"
+          }
+        },
+        {
+          "domain": {
+            "id": "38",
+            "name": "Political Race",
+            "description": ""
+          },
+          "entity": {
+            "id": "1439959177003089924",
+            "name": "Bundestagswahl 2021"
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "849236271553691648",
+            "name": "Angela Merkel",
+            "description": "Angela Merkel"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "849236271553691648",
+            "name": "Angela Merkel",
+            "description": "Angela Merkel"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 21,
+        "like_count": 19,
+        "quote_count": 2
+      },
+      "conversation_id": "1467052816623566849",
+      "entities": {
+        "urls": [
+          {
+            "start": 191,
+            "end": 214,
+            "url": "https://t.co/BQSQZ1zXab",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/olaf-scholz-coronapandemie-erschwert-machtuebernahme-a-627b5c01-c235-4d8f-beeb-ee34a045578b?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467034687017127936",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Das Ifo-Institut hat die desolaten deutschen Schulschlie\u00dfungen im europ\u00e4ischen Vergleich erforscht. Unser Autor wei\u00df von seinen Kindern: Es ist noch viel schlimmer. Und er fragt sich: Auf welcher Basis will hier wer noch irgendjemanden wie bewerten? https://t.co/bjmmNpsrGu",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T07:35:00.000Z",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 7,
+        "like_count": 32,
+        "quote_count": 0
+      },
+      "conversation_id": "1467034687017127936",
+      "entities": {
+        "urls": [
+          {
+            "start": 250,
+            "end": 273,
+            "url": "https://t.co/bjmmNpsrGu",
+            "expanded_url": "https://www.spiegel.de/familie/corona-stress-in-der-schule-wie-soll-man-malen-wenn-man-weint-kolumne-a-a0b62ce1-2884-4b6c-99ae-6a32436c3f81",
+            "display_url": "spiegel.de/familie/corona\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1467034198984650753",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Die deutsche Politik handelt in der Coronakrise merkw\u00fcrdig betulich. Olaf Scholz ist stolz auf sein Geheimnis. Und: Kann ein Islamhasser in Frankreich das Pr\u00e4sidentschaftsrennen aufmischen? Das ist die Lage am Samstag. https://t.co/kgvUh6UtUV",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-04T07:33:03.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1439961464555466753",
+            "name": "Olaf Scholz"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "1439961464555466753",
+            "name": "Olaf Scholz"
+          }
+        },
+        {
+          "domain": {
+            "id": "38",
+            "name": "Political Race",
+            "description": ""
+          },
+          "entity": {
+            "id": "1439959177003089924",
+            "name": "Bundestagswahl 2021"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 13,
+        "like_count": 9,
+        "quote_count": 1
+      },
+      "conversation_id": "1467034198984650753",
+      "entities": {
+        "urls": [
+          {
+            "start": 219,
+            "end": 242,
+            "url": "https://t.co/kgvUh6UtUV",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/news-corona-ampel-olaf-scholz-cdu-frankreich-a-ef55a6ca-1bb9-42ce-9c80-a453d86e386d?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466897799178379264",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "RB Leipzig hat in der Fu\u00dfball-Bundesliga seine dritte Niederlage in Serie kassiert. Union Berlin siegte mit 2:1 - und klettert auf den vierten Tabellenplatz. https://t.co/gX2PQNlP6C",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T22:31:03.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10038865210",
+            "name": "Futbol Alemana (Bundesliga)"
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039036407",
+            "name": "Bundesliga Soccer",
+            "description": "Soccer action from the German Bundesliga."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039215494",
+            "name": "Bundesliga Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "6",
+            "name": "Sports Event"
+          },
+          "entity": {
+            "id": "1450619933755260930",
+            "name": "Union Berlin vs RB Leipzig"
+          }
+        },
+        {
+          "domain": {
+            "id": "11",
+            "name": "Sport",
+            "description": "Types of sports, like soccer and basketball"
+          },
+          "entity": {
+            "id": "733756536430809088",
+            "name": "Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "12",
+            "name": "Sports Team",
+            "description": "A sports team organization, like Arsenal and the Boston Celtics"
+          },
+          "entity": {
+            "id": "731226214627581952",
+            "name": "RB Leipzig"
+          }
+        },
+        {
+          "domain": {
+            "id": "12",
+            "name": "Sports Team",
+            "description": "A sports team organization, like Arsenal and the Boston Celtics"
+          },
+          "entity": {
+            "id": "731226226971410432",
+            "name": "1. FC Union Berlin"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "731226205425295360",
+            "name": "Germany - Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "733756521230667776",
+            "name": "Bundesliga"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 24,
+        "quote_count": 0
+      },
+      "conversation_id": "1466897799178379264",
+      "entities": {
+        "urls": [
+          {
+            "start": 158,
+            "end": 181,
+            "url": "https://t.co/gX2PQNlP6C",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/bundesliga-union-berlin-gewinnt-nicht-unverdient-mit-2-1-gegen-rb-leipzig-a-9efeadfd-2986-4b72-ab84-bf6e22631f32?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466890001149399042",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Es d\u00fcrfte einer der erfolgreichsten Eins\u00e4tze in der Geschichte Panamas gewesen sein: Die von den Ermittlern beschlagnahmte Geldsumme war so gro\u00df, dass es beim Z\u00e4hlen gr\u00f6\u00dfere Probleme gab. https://t.co/kGXBHhfxY7",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T22:00:04.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 10,
+        "like_count": 23,
+        "quote_count": 1
+      },
+      "conversation_id": "1466890001149399042",
+      "entities": {
+        "urls": [
+          {
+            "start": 188,
+            "end": 211,
+            "url": "https://t.co/kGXBHhfxY7",
+            "expanded_url": "https://www.spiegel.de/panorama/justiz/panama-polizei-findet-zehn-millionen-dollar-drogengeld-a-19d5f5b8-f13d-4361-a36e-1c858fb6c566?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/justi\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466882325531095041",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Nach 136 Z\u00fcgen und fast acht Stunden Spielzeit gab Jan Nepomnjaschtschi sich Magnus Carlsen geschlagen. Es war das l\u00e4ngste Schachmatch seit 43 Jahren. https://t.co/Wbr1xxEsG9",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T21:29:34.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 2,
+        "like_count": 65,
+        "quote_count": 0
+      },
+      "conversation_id": "1466882325531095041",
+      "entities": {
+        "urls": [
+          {
+            "start": 151,
+            "end": 174,
+            "url": "https://t.co/Wbr1xxEsG9",
+            "expanded_url": "https://www.spiegel.de/sport/schach-wm-2021-in-dubai-magnus-carlsen-holt-ersten-sieg-a-c5c168ea-177b-43ac-9602-98a8e75088f8?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/schach-w\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466874770272575488",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Sandra Ciesek hat als eine der Ersten die neue Coronavariante untersucht. Ob Omikron wirklich ansteckender als Delta ist, wissen wir noch nicht, sagt sie \u2013 aber wir haben erstmals die Chance, dem Virus zuvorzukommen. https://t.co/KkK15iiP3P",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T20:59:33.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 12,
+        "like_count": 61,
+        "quote_count": 2
+      },
+      "conversation_id": "1466874770272575488",
+      "entities": {
+        "urls": [
+          {
+            "start": 217,
+            "end": 240,
+            "url": "https://t.co/KkK15iiP3P",
+            "expanded_url": "https://www.spiegel.de/gesundheit/diagnose/sandra-ciesek-ueber-omikron-das-virus-ist-bei-uns-im-hochsicherheitslabor-a-05a06314-5150-432b-b624-ebf59bf0c680?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/gesundheit/dia\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1466651773058363393/DB8AzzjP?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1466651773058363393/DB8AzzjP?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "(S+) Sandra Ciesek \u00fcber Omikron: \u00bbDas Virus ist bei uns im Hochsicherheitslabor\u00ab",
+            "description": "Sandra Ciesek hat als eine der Ersten die neue Coronavariante untersucht. Ob Omikron wirklich ansteckender als Delta ist, wissen wir noch nicht, sagt sie \u2013 aber wir haben erstmals die Chance, dem Virus zuvorzukommen.",
+            "unwound_url": "https://www.spiegel.de/gesundheit/diagnose/sandra-ciesek-ueber-omikron-das-virus-ist-bei-uns-im-hochsicherheitslabor-a-05a06314-5150-432b-b624-ebf59bf0c680?utm_source=dlvr.it&utm_medium=twitter#ref=rss"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466872891077656577",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Werders neuer Trainer Ole Werner hat einen perfekten Start hingelegt: Im ersten Spiel unter dem 33-J\u00e4hrigen gewannen die Bremer souver\u00e4n gegen Erzgebirge Aue mit dem h\u00f6chsten Sieg der laufenden Saison. https://t.co/zXoMte1uof",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T20:52:05.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 17,
+        "quote_count": 1
+      },
+      "conversation_id": "1466872891077656577",
+      "entities": {
+        "urls": [
+          {
+            "start": 202,
+            "end": 225,
+            "url": "https://t.co/zXoMte1uof",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-gewinnt-gegen-aue-mit-4-0-a-846c0606-194f-4e80-ab3f-ada45cec8570?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466871109165355009",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Der Chef der Modekette Ernsting\u2019s Family wettert gegen die j\u00fcngsten Coronabeschl\u00fcsse \u2013 und k\u00fcndigt juristische Schritte an. Weitere Kl\u00e4ger d\u00fcrften folgen. https://t.co/o7d6csfaMX",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T20:45:00.000Z",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 28,
+        "like_count": 84,
+        "quote_count": 9
+      },
+      "conversation_id": "1466871109165355009",
+      "entities": {
+        "urls": [
+          {
+            "start": 155,
+            "end": 178,
+            "url": "https://t.co/o7d6csfaMX",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/unternehmen/ernsting-s-family-chef-timm-homann-ueber-2g-dagegen-werden-wir-klagen-bis-zum-letzten-euro-a-fbb3553e-bd4e-40a8-9f57-9e761c2c2527",
+            "display_url": "spiegel.de/wirtschaft/unt\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466863559741042688",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Im neuen Amazon-Format \u00bbCelebrity Hunted\u00ab fliehen Wladimir Klitschko, Stefanie Giesinger und acht weitere Promis vor Profi-Ermittlern \u2013 das macht Spa\u00df, weil es gleichzeitig quatschig und ernsthaft ist, sagt unsere Autorin @aruetzel. https://t.co/bpMoxJG5SQ",
+      "entities": {
+        "mentions": [
+          {
+            "start": 222,
+            "end": 231,
+            "username": "aruetzel",
+            "id": "14330962"
+          }
+        ],
+        "urls": [
+          {
+            "start": 233,
+            "end": 256,
+            "url": "https://t.co/bpMoxJG5SQ",
+            "expanded_url": "https://www.spiegel.de/kultur/tv/celebrity-hunted-bei-amazon-prime-doktor-wladimir-klitschko-besitzt-alle-erdenklichen-fuehrerscheine-a-4a9370e6-859d-4ac3-9e73-3fe17fe6a8f8",
+            "display_url": "spiegel.de/kultur/tv/cele\u2026"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T20:15:00.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974596706635776",
+            "name": "Retail"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "783335558466506752",
+            "name": "Online"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026792024",
+            "name": "Amazon"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 14,
+        "quote_count": 1
+      },
+      "conversation_id": "1466863559741042688"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466862328817733634",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Freiheit f\u00fcr Autofahrer, Pfr\u00fcnde f\u00fcr \u00c4rzte: Nichts hat der FDP mehr geschadet als ihr Ruf, prinzipienlos zu sein. In der Ampel hat sie nun die Chance, zur liberalen Volkspartei zu werden. Was die Partei daf\u00fcr tun muss. https://t.co/A77Dosbnoq",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T20:10:06.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 33,
+        "like_count": 24,
+        "quote_count": 7
+      },
+      "conversation_id": "1466862328817733634",
+      "entities": {
+        "urls": [
+          {
+            "start": 219,
+            "end": 242,
+            "url": "https://t.co/A77Dosbnoq",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/die-fdp-muss-diesmal-weiter-denken-als-bis-zur-naechsten-apotheke-a-06ce0514-72e2-4982-88d7-ee5959363c9a?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466862320529772545",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Eine halbautomatische Waffe als \u00bbWeihnachtsgeschenk\u00ab: Die Eltern des Teenagers, der vier Mitsch\u00fcler erschoss, werden mit ihrem Sohn vor Gericht stehen. Die Staatsanw\u00e4ltin will eine Botschaft an Waffenbesitzer senden. https://t.co/xiHSJ5pODh",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T20:10:04.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 5,
+        "like_count": 70,
+        "quote_count": 1
+      },
+      "conversation_id": "1466862320529772545",
+      "entities": {
+        "urls": [
+          {
+            "start": 217,
+            "end": 240,
+            "url": "https://t.co/xiHSJ5pODh",
+            "expanded_url": "https://www.spiegel.de/panorama/justiz/usa-eltern-von-15-jaehrigem-nach-toedlicher-attacke-an-schule-in-michigan-angeklagt-a-6ac69c63-e744-4d4e-bad4-ef53a2fc3e64?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/justi\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466859281135898625",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Der Parteilinke Anton Hofreiter hat keinen Ministerposten bekommen. Die Parteispitze hat sich durchgesetzt \u2013 \u00bbbrutal\u00ab, wie ein Gr\u00fcner sagt. Der Preis ist hoch. https://t.co/pA7jJhGr9j",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T19:58:00.000Z",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 40,
+        "like_count": 26,
+        "quote_count": 8
+      },
+      "conversation_id": "1466859281135898625",
+      "entities": {
+        "urls": [
+          {
+            "start": 160,
+            "end": 183,
+            "url": "https://t.co/pA7jJhGr9j",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/die-gruenen-nach-dem-posten-machtkampf-nicht-mehr-zu-kitten-a-3ee0a7d6-9591-499a-8bd2-b60805623641",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466852236970143750",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Das Ifo-Institut hat die desolaten deutschen Schulschlie\u00dfungen im europ\u00e4ischen Vergleich erforscht. Aus den geheimen Zeugnissen seiner Kinder wei\u00df unser Autor: Es ist noch viel schlimmer. (S+) https://t.co/bjmmNpaQOW https://t.co/5yuJpnTiuD",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T19:30:00.000Z",
+      "attachments": {
+        "media_keys": [
+          "3_1466836160634888197"
+        ]
+      },
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 24,
+        "reply_count": 14,
+        "like_count": 105,
+        "quote_count": 2
+      },
+      "conversation_id": "1466852236970143750",
+      "entities": {
+        "urls": [
+          {
+            "start": 193,
+            "end": 216,
+            "url": "https://t.co/bjmmNpaQOW",
+            "expanded_url": "https://www.spiegel.de/familie/corona-stress-in-der-schule-wie-soll-man-malen-wenn-man-weint-kolumne-a-a0b62ce1-2884-4b6c-99ae-6a32436c3f81",
+            "display_url": "spiegel.de/familie/corona\u2026"
+          },
+          {
+            "start": 217,
+            "end": 240,
+            "url": "https://t.co/5yuJpnTiuD",
+            "expanded_url": "https://twitter.com/derspiegel/status/1466852236970143750/photo/1",
+            "display_url": "pic.twitter.com/5yuJpnTiuD"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466843816720314368",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Neun Menschen wurden bei einem rassistischen Anschlag in Hanau get\u00f6tet. Im Untersuchungsausschuss des Hessischen Landtags machen die Hinterbliebenen deutlich, dass sie sich noch immer alleingelassen f\u00fchlen. https://t.co/z3sWXipFFv",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T18:56:33.000Z",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 15,
+        "like_count": 40,
+        "quote_count": 2
+      },
+      "conversation_id": "1466843816720314368",
+      "entities": {
+        "urls": [
+          {
+            "start": 207,
+            "end": 230,
+            "url": "https://t.co/z3sWXipFFv",
+            "expanded_url": "https://www.spiegel.de/panorama/anschlag-in-hanau-angehoerige-fordern-aufklaerung-in-untersuchungsausschuss-a-ca39130c-e9ab-41e2-875d-6c53cfbd26b2?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/ansch\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466839418157764612",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Ghislaine Maxwell soll den Missbrauchsring des fr\u00fcheren Investmentbankers Jeffrey Epstein unterst\u00fctzt und organisiert haben. Wie kann man das beweisen, wenn der mutma\u00dfliche T\u00e4ter tot ist? https://t.co/LvKT0HvU5G",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T18:39:04.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1278685520197898240",
+            "name": "Ghislaine Maxwell"
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1278686104699285505",
+            "name": "Jeffrey Epstein"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 4,
+        "like_count": 9,
+        "quote_count": 0
+      },
+      "conversation_id": "1466839418157764612",
+      "entities": {
+        "urls": [
+          {
+            "start": 188,
+            "end": 211,
+            "url": "https://t.co/LvKT0HvU5G",
+            "expanded_url": "https://www.spiegel.de/ausland/ghislaine-maxwell-und-jeffrey-epstein-wie-verklagt-man-die-helferin-eines-boesen-geistes-a-54c1a9fa-6542-4714-80e8-dac774cadc05?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/ausland/ghisla\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466837140977995779",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Tritte, Schl\u00e4ge, Sch\u00fcsse: Das Anti-Folter-Komitee des Europarats kritisiert die Pushbacks von Asylsuchenden an der EU-Au\u00dfengrenze. Der Bericht ist brisant, die kroatische Regierung wollte die Ver\u00f6ffentlichung verhindern. (S+)\nhttps://t.co/VnKvZOL51l",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T18:30:01.000Z",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 20,
+        "reply_count": 11,
+        "like_count": 44,
+        "quote_count": 4
+      },
+      "conversation_id": "1466837140977995779",
+      "entities": {
+        "urls": [
+          {
+            "start": 226,
+            "end": 249,
+            "url": "https://t.co/VnKvZOL51l",
+            "expanded_url": "http://spiegel.de/ausland/kroatien-anti-folter-komitee-prangert-misshandlung-von-fluechtlingen-an-a-d907e3cf-03e5-47b5-907e-d9f421a7a01a",
+            "display_url": "spiegel.de/ausland/kroati\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466836014496817152",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "In China spitzt sich die Lage im \u00fcberschuldeten Immobiliensektor zu: Marktf\u00fchrer Evergrande hat schon wieder Zahlungsprobleme \u2013 und auch Konkurrent Kaisa warnt, er habe wom\u00f6glich kein Geld f\u00fcr f\u00e4llige Zinsen. https://t.co/hGZqCsdq6J",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T18:25:33.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 8,
+        "like_count": 30,
+        "quote_count": 3
+      },
+      "conversation_id": "1466836014496817152",
+      "entities": {
+        "urls": [
+          {
+            "start": 209,
+            "end": 232,
+            "url": "https://t.co/hGZqCsdq6J",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/unternehmen/evergrande-regierung-bestellt-gruender-von-taumelnden-immobilienkonzern-ein-a-6f9ce449-1924-4dd1-ab7a-8b1922c209c4?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/wirtschaft/unt\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466829728439062533",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Sind 50.000 Fans im K\u00f6lner Stadion wirklich ein Grund, auf die Bundesliga einzudreschen? Die Profibranche jedenfalls hat keine Lust mehr, f\u00fcr die Unf\u00e4higkeit der Politik geradezustehen. https://t.co/IgRpaW0y0s",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T18:00:34.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10038865210",
+            "name": "Futbol Alemana (Bundesliga)"
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039036407",
+            "name": "Bundesliga Soccer",
+            "description": "Soccer action from the German Bundesliga."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039215494",
+            "name": "Bundesliga Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "11",
+            "name": "Sport",
+            "description": "Types of sports, like soccer and basketball"
+          },
+          "entity": {
+            "id": "733756536430809088",
+            "name": "Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "733756521230667776",
+            "name": "Bundesliga"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 31,
+        "like_count": 31,
+        "quote_count": 7
+      },
+      "conversation_id": "1466829728439062533",
+      "entities": {
+        "urls": [
+          {
+            "start": 186,
+            "end": 209,
+            "url": "https://t.co/IgRpaW0y0s",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-und-corona-die-pruegelknaben-der-politik-a-3ac523e8-d0cb-4fcb-9c9d-650d5d8d4475",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466826080828858370",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Kevin K\u00fchnert ist aufgestiegen im Kampf gegen das Partei-Establishment. Nun soll er es als SPD-Generalsekret\u00e4r verteidigen. Wie steht es eigentlich um sein Verh\u00e4ltnis zu Olaf Scholz? https://t.co/IQ4BpWLOwd",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T17:46:04.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1439961464555466753",
+            "name": "Olaf Scholz"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "1439961464555466753",
+            "name": "Olaf Scholz"
+          }
+        },
+        {
+          "domain": {
+            "id": "38",
+            "name": "Political Race",
+            "description": ""
+          },
+          "entity": {
+            "id": "1439959177003089924",
+            "name": "Bundestagswahl 2021"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 5,
+        "like_count": 29,
+        "quote_count": 1
+      },
+      "conversation_id": "1466826080828858370",
+      "entities": {
+        "urls": [
+          {
+            "start": 183,
+            "end": 206,
+            "url": "https://t.co/IQ4BpWLOwd",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/kevin-kuehnert-der-kuenftige-spd-generalsekretaer-muss-sich-neu-erfinden-a-73902dfe-fddb-41e7-9a72-9cc1eb504356?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466823824238804994",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Wenn Restaurants geschlossen und Reisen unm\u00f6glich sind, trinken die Menschen offenbar zu Hause mehr \u2013 und g\u00f6nnen sich Luxus: Die franz\u00f6sischen Champagner-Hersteller machen in diesem Jahr so viel Umsatz wie nie zuvor. https://t.co/0CnhzeiaYO",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T17:37:06.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "839159814991167489",
+            "name": "Travel",
+            "description": "Travel"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "839160129752686593",
+            "name": "General Travel",
+            "description": "General Travel"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "839161975712067584",
+            "name": "Travel Actions",
+            "description": "This entity includes all conversations about travel and vacation."
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 7,
+        "like_count": 30,
+        "quote_count": 2
+      },
+      "conversation_id": "1466823824238804994",
+      "entities": {
+        "urls": [
+          {
+            "start": 217,
+            "end": 240,
+            "url": "https://t.co/0CnhzeiaYO",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/unternehmen/corona-krise-verschafft-champagner-hersteller-rekordjahr-a-d04663e3-c6b9-4c36-8cd2-4428ba60a03b?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/wirtschaft/unt\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466823053271252995",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Forschende bef\u00fcrchten, dass die #Omikron-Variante den Immunschutz umgehen k\u00f6nnte. Erste Daten aus S\u00fcdafrika untermauern diesen Verdacht: Offenbar stecken sich viele Genesene erneut an. https://t.co/Ahg3gTHGPy",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T17:34:02.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 32,
+            "end": 40,
+            "tag": "Omikron"
+          }
+        ],
+        "urls": [
+          {
+            "start": 185,
+            "end": 208,
+            "url": "https://t.co/Ahg3gTHGPy",
+            "expanded_url": "https://www.spiegel.de/wissenschaft/medizin/coronavirus-risiko-erneuter-ansteckung-bei-omikron-variante-laut-vorlaeufiger-studie-erhoeht-a-aea45449-cc61-46a6-b291-eb2005952603",
+            "display_url": "spiegel.de/wissenschaft/m\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1466785069394104323/UXfMl_dT?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1466785069394104323/UXfMl_dT?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Risiko erneuter Ansteckung ist bei Omikron-Variante des Coronavirus laut vorl\u00e4ufiger Studie erh\u00f6ht",
+            "description": "Forschende bef\u00fcrchten, dass die Omikron-Variante den Immunschutz umgehen k\u00f6nnte. Erste Daten aus S\u00fcdafrika untermauern diesen Verdacht: Offenbar stecken sich viele Genesene erneut an.",
+            "unwound_url": "https://www.spiegel.de/wissenschaft/medizin/coronavirus-risiko-erneuter-ansteckung-bei-omikron-variante-laut-vorlaeufiger-studie-erhoeht-a-aea45449-cc61-46a6-b291-eb2005952603"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 13,
+        "reply_count": 27,
+        "like_count": 46,
+        "quote_count": 7
+      },
+      "conversation_id": "1466823053271252995"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466821929256378369",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "In Ischgl starten Lifte und Seilbahnen - H\u00fctten und Bars bleiben allerdings zu, genauso Hotels. Wieviele G\u00e4ste kommen nach anderthalb Jahren Pause nur zum Skifahren in den einstigen Corona-Hotspot? https://t.co/pe8vHbp9cl",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T17:29:34.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 3,
+        "like_count": 9,
+        "quote_count": 2
+      },
+      "conversation_id": "1466821929256378369",
+      "entities": {
+        "urls": [
+          {
+            "start": 198,
+            "end": 221,
+            "url": "https://t.co/pe8vHbp9cl",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/ischgl-zu-corona-zeiten-geht-s-auch-ohne-apres-ski-a-43201b81-98f9-41d2-9ee7-fe50f53db215?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/wirtschaft/isc\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1466821934654492678/UToY8Sii?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1466821934654492678/UToY8Sii?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Ischgl zu Corona-Zeiten: Geht\u2019s auch ohne Apr\u00e8s-Ski?",
+            "description": "In Ischgl starten Lifte und Seilbahnen - H\u00fctten und Bars bleiben allerdings zu, genauso Hotels. Wieviele G\u00e4ste kommen nach anderthalb Jahren Pause nur zum Skifahren in den einstigen Corona-Hotspot?",
+            "unwound_url": "https://www.spiegel.de/wirtschaft/ischgl-zu-corona-zeiten-geht-s-auch-ohne-apres-ski-a-43201b81-98f9-41d2-9ee7-fe50f53db215?utm_source=dlvr.it&utm_medium=twitter#ref=rss"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466816012309843970",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Der Chef der Modekette Ernsting's Family wettert gegen die j\u00fcngsten Corona-Beschl\u00fcsse \u2013 und k\u00fcndigt juristische Schritte an. Weitere Klagen k\u00f6nnten folgen. https://t.co/DaJeZyzcmY",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T17:06:04.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 100,
+        "reply_count": 139,
+        "like_count": 461,
+        "quote_count": 25
+      },
+      "conversation_id": "1466816012309843970",
+      "entities": {
+        "urls": [
+          {
+            "start": 156,
+            "end": 179,
+            "url": "https://t.co/DaJeZyzcmY",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/unternehmen/ernsting-s-family-chef-timm-homann-ueber-2g-dagegen-werden-wir-klagen-bis-zum-letzten-euro-a-fbb3553e-bd4e-40a8-9f57-9e761c2c2527?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/wirtschaft/unt\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1466816021549891590/h3olgVxG?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1466816021549891590/h3olgVxG?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Ernsting's-Family-Chef Timm Homann \u00fcber 2G: \u00bbDagegen werden wir klagen, bis zum letzten Euro\u00ab",
+            "description": "Der Chef der Modekette Ernsting's Family wettert gegen die j\u00fcngsten Corona-Beschl\u00fcsse \u2013 und k\u00fcndigt juristische Schritte an. Weitere Kl\u00e4ger d\u00fcrften folgen.",
+            "unwound_url": "https://www.spiegel.de/wirtschaft/unternehmen/ernsting-s-family-chef-timm-homann-ueber-2g-dagegen-werden-wir-klagen-bis-zum-letzten-euro-a-fbb3553e-bd4e-40a8-9f57-9e761c2c2527?utm_source=dlvr.it&utm_medium=twitter#ref=rss"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466812498061848583",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Eine Immobilie in Cottbus soll luxussaniert werden \u2013 und der j\u00fcdische Vorbesitzer ger\u00e4t in eine m\u00f6rderische Auseinandersetzung. Dieser \u00bbPolizeiruf\u00ab l\u00f6st das gro\u00dfe Thema viel zu vers\u00f6hnlich auf. https://t.co/lnW0yluLHk",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T16:52:06.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "conversation_id": "1466812498061848583",
+      "entities": {
+        "urls": [
+          {
+            "start": 194,
+            "end": 217,
+            "url": "https://t.co/lnW0yluLHk",
+            "expanded_url": "https://www.spiegel.de/kultur/tv/polizeiruf-110-hermann-ist-der-immobilienhai-die-kz-dogge-von-heute-a-28d37dac-8412-4822-a4a0-d37f3ce739bb?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/kultur/tv/poli\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466810473764900864",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Bei den neuesten Personalvorschl\u00e4gen f\u00fcr die Ampelregierung mangelt es an ostdeutschen K\u00f6pfen. Die Linke fordert nach SPIEGEL-Informationen eine Quote \u2013 und kritisiert Christian Lindner und Robert Habeck scharf. https://t.co/lJOP9oIFKs",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T16:44:03.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "827110952499769344",
+            "name": "Christian Lindner",
+            "description": "Christian Lindner"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "827110952499769344",
+            "name": "Christian Lindner",
+            "description": "Christian Lindner"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 23,
+        "like_count": 19,
+        "quote_count": 2
+      },
+      "conversation_id": "1466810473764900864",
+      "entities": {
+        "urls": [
+          {
+            "start": 212,
+            "end": 235,
+            "url": "https://t.co/lJOP9oIFKs",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/die-linke-kritisiert-ampel-zu-wenige-ostdeutsche-in-der-regierung-a-a59d8c20-1402-4457-9099-da94cd9c98d8?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466810299151966215",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "RT @aruetzel: Wer mich \u00fcberraschen will, muss mit Schellen rechnen, privat wie beruflich. (S+) \u00bbSurprise! Die Bruce Darnell Show\u00ab: Peinlich\u2026",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "aruetzel",
+            "id": "14330962"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T16:43:21.000Z",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1466809770984280071"
+        }
+      ],
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1466810299151966215"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466810115810631710",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "\u00bbIch glaube grunds\u00e4tzlich, dass wir ab einem bestimmten Zeitpunkt einen neuen Impfstoff gegen diese neue Variante ben\u00f6tigen werden\u00ab, so Biontech-Chef Sahin. Die Frage sei, wie dringend dieser ben\u00f6tigt werde. https://t.co/XSSReltDW1",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T16:42:38.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 11,
+        "reply_count": 15,
+        "like_count": 41,
+        "quote_count": 3
+      },
+      "conversation_id": "1466810115810631710",
+      "entities": {
+        "urls": [
+          {
+            "start": 208,
+            "end": 231,
+            "url": "https://t.co/XSSReltDW1",
+            "expanded_url": "https://www.spiegel.de/wissenschaft/medizin/corona-news-am-freitag-gewerkschaft-der-polizei-fuerchtet-mehr-aggressivitaet-wegen-2g-a-1f2eb9bd-96f6-40d0-a462-ad97e4db8fb3",
+            "display_url": "spiegel.de/wissenschaft/m\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466804390459846657",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Kevin #K\u00fchnert ist dem Posten des SPD-Generalsekret\u00e4rs einen weiteren Schritt n\u00e4her: Der Vorstand der Sozialdemokraten hat den Bundestagsabgeordneten nach SPIEGEL-Informationen f\u00fcr das Parteiamt empfohlen. https://t.co/YxASbh8R3c",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T16:19:53.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 6,
+            "end": 14,
+            "tag": "K\u00fchnert"
+          }
+        ],
+        "urls": [
+          {
+            "start": 206,
+            "end": 229,
+            "url": "https://t.co/YxASbh8R3c",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/spd-vorstand-nominiert-kevin-kuehnert-einstimmig-als-neuen-generalsekretaer-a-4b225315-67e7-49a6-962f-3e0b9f1d9f3f",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      },
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 31,
+        "like_count": 73,
+        "quote_count": 5
+      },
+      "conversation_id": "1466804390459846657"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466800533201641483",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Robert Habeck und Annalena Baerbock haben sich durchgesetzt: Der Parteilinke Anton Hofreiter hat keinen Ministerposten bekommen. Aber um welchen Preis? Rekonstruktion einer Ausbootung. https://t.co/mq6egsKtMq",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T16:04:33.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1439964609465647110",
+            "name": "Annalena Baerbock"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "1439964609465647110",
+            "name": "Annalena Baerbock"
+          }
+        },
+        {
+          "domain": {
+            "id": "38",
+            "name": "Political Race",
+            "description": ""
+          },
+          "entity": {
+            "id": "1439959177003089924",
+            "name": "Bundestagswahl 2021"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 18,
+        "like_count": 14,
+        "quote_count": 0
+      },
+      "conversation_id": "1466800533201641483",
+      "entities": {
+        "urls": [
+          {
+            "start": 185,
+            "end": 208,
+            "url": "https://t.co/mq6egsKtMq",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/die-gruenen-nach-dem-posten-machtkampf-nicht-mehr-zu-kitten-a-3ee0a7d6-9591-499a-8bd2-b60805623641?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466797396705251328",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "\u00bbWombo Dream\u00ab soll beweisen, dass eine k\u00fcnstliche Intelligenz richtig gut malen kann. Wir haben's ausprobiert. https://t.co/EAUqgIrklm",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T15:52:05.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 11,
+        "quote_count": 0
+      },
+      "conversation_id": "1466797396705251328",
+      "entities": {
+        "urls": [
+          {
+            "start": 111,
+            "end": 134,
+            "url": "https://t.co/EAUqgIrklm",
+            "expanded_url": "https://www.spiegel.de/netzwelt/wombo-dream-hier-verschmilzt-taylor-swift-mit-einem-weihnachtsbaum-a-0e4a56b1-7f4a-41b4-9de7-0abea1b60d12?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/netzwelt/wombo\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466789335747858437",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Er studierte in Oxford und machte Karriere, wurde Kommunikationsminister in Afghanistan \u2013 und musste dann in Leipzig Pizzen ausliefern. Nun hat Syed Sadaat einen neuen Job. Einen, der zu ihm passt. https://t.co/9wtiLdgg21",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T15:20:03.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 12,
+        "reply_count": 11,
+        "like_count": 86,
+        "quote_count": 1
+      },
+      "conversation_id": "1466789335747858437",
+      "entities": {
+        "urls": [
+          {
+            "start": 198,
+            "end": 221,
+            "url": "https://t.co/9wtiLdgg21",
+            "expanded_url": "https://www.spiegel.de/panorama/leute/leipzig-ex-minister-aus-afghanistan-wird-it-berater-in-sachsen-a-0142d942-a381-4c61-b858-e15de4e4c6a3?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/leute\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466787981415567370",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Sie musste mit schwersten Verbrennungen in ein Krankenhaus geflogen werden: In Bayern hat eine 18-J\u00e4hrige eine massive Explosion ausgel\u00f6st, als sie gro\u00dfe Mengen Deo verspr\u00fchte und sich danach eine Zigarette anz\u00fcndete. https://t.co/rNlZjhoS9H",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T15:14:41.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039036407",
+            "name": "Bundesliga Soccer",
+            "description": "Soccer action from the German Bundesliga."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039215494",
+            "name": "Bundesliga Soccer"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 13,
+        "reply_count": 54,
+        "like_count": 77,
+        "quote_count": 10
+      },
+      "conversation_id": "1466787981415567370",
+      "entities": {
+        "urls": [
+          {
+            "start": 218,
+            "end": 241,
+            "url": "https://t.co/rNlZjhoS9H",
+            "expanded_url": "https://www.spiegel.de/panorama/bayern-18-jaehrige-versprueht-deo-zuendet-zigarette-an-und-loest-explosion-aus-a-72406072-b328-4085-bd10-921b23c2c6b8",
+            "display_url": "spiegel.de/panorama/bayer\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466784791156559880",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Ischgl wurde im Fr\u00fchjahr 2020 zum Corona-Hotspot in Europa. Nun \u00f6ffnet das \u00f6sterreichische Skigebiet erstmals wieder, wegen des landesweiten Lockdowns jedoch ohne Touristenmassen.\nhttps://t.co/CSXG9ufhMe",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T15:02:00.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 5,
+        "like_count": 13,
+        "quote_count": 1
+      },
+      "conversation_id": "1466784791156559880",
+      "entities": {
+        "urls": [
+          {
+            "start": 180,
+            "end": 203,
+            "url": "https://t.co/CSXG9ufhMe",
+            "expanded_url": "https://www.spiegel.de/panorama/ischgl-ex-coronavirus-hotspot-startet-skisaison-im-lockdown-a-c8f7f088-14be-4c18-aaad-64e8c3ed3165",
+            "display_url": "spiegel.de/panorama/ischg\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466782022332915720",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Die #Bahn passt ihre Regeln an das sich wandelnde Verst\u00e4ndnis von Familie und Elternschaft an: Bis zu vier Kinder sind k\u00fcnftig stets umsonst unterwegs, wenn sie zusammen mit einer beliebigen \u00e4lteren Person fahren.\nhttps://t.co/DVPd1N2DSt",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T14:51:00.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 4,
+            "end": 9,
+            "tag": "Bahn"
+          }
+        ],
+        "urls": [
+          {
+            "start": 214,
+            "end": 237,
+            "url": "https://t.co/DVPd1N2DSt",
+            "expanded_url": "https://www.spiegel.de/auto/deutsche-bahn-6-14-jaehrige-duerfen-kostenlos-fahren-auch-ohne-die-eltern-a-596fdbfa-e91e-4add-aed1-074bd37032a6",
+            "display_url": "spiegel.de/auto/deutsche-\u2026"
+          }
+        ]
+      },
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 3,
+        "like_count": 79,
+        "quote_count": 4
+      },
+      "conversation_id": "1466782022332915720"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466780152398958597",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "2G \u00fcberpr\u00fcfen statt Falschparker notieren: Die Innenminister der L\u00e4nder m\u00f6chten k\u00fcnftig deutlich mehr Polizeikr\u00e4fte f\u00fcr die \u00dcberpr\u00fcfung der Corona-Regeln einsetzen. Dresden hat bereits eine \u00bbh\u00e4rtere\u00ab Gangart angek\u00fcndigt. https://t.co/15diEWiWsV",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T14:43:34.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 37,
+        "like_count": 87,
+        "quote_count": 5
+      },
+      "conversation_id": "1466780152398958597",
+      "entities": {
+        "urls": [
+          {
+            "start": 221,
+            "end": 244,
+            "url": "https://t.co/15diEWiWsV",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/corona-polizei-soll-sich-auf-kampf-gegen-corona-suender-konzentrieren-a-95021eb6-0923-4959-8fee-48f84d8385dd?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/deutsc\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1466780019435393028/W0xrZKFE?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1466780019435393028/W0xrZKFE?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Corona: Polizei soll sich auf Kampf gegen Corona-S\u00fcnder konzentrieren",
+            "description": "2G \u00fcberpr\u00fcfen statt Falschparker notieren: Die Innenminister der L\u00e4nder m\u00f6chten k\u00fcnftig deutlich mehr Polizeikr\u00e4fte f\u00fcr die \u00dcberpr\u00fcfung der Corona-Regeln einsetzen. Dresden hat bereits eine \u00bbh\u00e4rtere\u00ab Gangart angek\u00fcndigt.",
+            "unwound_url": "https://www.spiegel.de/politik/deutschland/corona-polizei-soll-sich-auf-kampf-gegen-corona-suender-konzentrieren-a-95021eb6-0923-4959-8fee-48f84d8385dd?utm_source=dlvr.it&utm_medium=twitter#ref=rss"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466779254067060736",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Die NRW-Landesministerin Ina Scharrenbach wirft den #Ampel-Parteien vor, sich nicht f\u00fcr das Heimatressort zu interessieren. Das Bundesministerium diene den Koalition\u00e4ren \u00bbals Feigenblatt\u00ab.\nhttps://t.co/stpcTv91Vo",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T14:40:00.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 52,
+            "end": 58,
+            "tag": "Ampel"
+          }
+        ],
+        "urls": [
+          {
+            "start": 189,
+            "end": 212,
+            "url": "https://t.co/stpcTv91Vo",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/cdu-politikerin-scharrenbach-ueber-ampel-plaene-blosses-wort-an-der-tuerklingel-eines-ministeriums-a-54af6b39-95b7-4eb2-980b-999d00cf2c66",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      },
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 8,
+        "like_count": 3,
+        "quote_count": 6
+      },
+      "conversation_id": "1466779254067060736"
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466777882328395783",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Mit 22 Jahren war Horst Eckel 1954 beim \u00bbWunder von Bern\u00ab mit von der Partie. Mit dem 1. FC Kaiserslautern feierte er national Erfolge. Dem Mythos Betzenberg blieb er bis zum Schluss verbunden. https://t.co/FvWVgRipry",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T14:34:33.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 1,
+        "like_count": 37,
+        "quote_count": 1
+      },
+      "conversation_id": "1466777882328395783",
+      "entities": {
+        "urls": [
+          {
+            "start": 194,
+            "end": 217,
+            "url": "https://t.co/FvWVgRipry",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/nachruf-auf-horst-eckel-der-letzte-weltmeister-der-54er-elf-a-2ac92451-15db-4e90-a94b-666d90f7545c?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466776485776220161",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Weil eine Berufssch\u00fclerin eine Klausur nicht schreiben wollte, rief sie im Internet zu Bombendrohungen auf. Ein j\u00fcngerer Sch\u00fcler erf\u00fcllte den Wunsch \u2013 jetzt m\u00fcssen sich beide einem Strafverfahren stellen.\nhttps://t.co/H7EZOpvPKm",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T14:29:00.000Z",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 6,
+        "like_count": 17,
+        "quote_count": 1
+      },
+      "conversation_id": "1466776485776220161",
+      "entities": {
+        "urls": [
+          {
+            "start": 205,
+            "end": 228,
+            "url": "https://t.co/H7EZOpvPKm",
+            "expanded_url": "https://www.spiegel.de/panorama/justiz/hamm-16-jaehriger-droht-mit-bombe-an-berufsschule-a-657718eb-1506-4aa1-b744-ce425a95af4a",
+            "display_url": "spiegel.de/panorama/justi\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1466776492621324294/v3_tCNhm?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1466776492621324294/v3_tCNhm?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Hamm: 16-J\u00e4hriger droht mit Bombe an Berufsschule - offenbar um Klausur zu verhindern",
+            "description": "Weil eine Berufssch\u00fclerin eine Klausur nicht schreiben wollte, rief sie im Internet zu Bombendrohungen auf. Ein j\u00fcngerer Sch\u00fcler erf\u00fcllte den Wunsch \u2013 jetzt m\u00fcssen sich beide einem Strafverfahren stellen.",
+            "unwound_url": "https://www.spiegel.de/panorama/justiz/hamm-16-jaehriger-droht-mit-bombe-an-berufsschule-a-657718eb-1506-4aa1-b744-ce425a95af4a"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466773465944444931",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Das Frankfurter Gesundheitsamt verzichtet bei S\u00fcdafrika-Reisenden auf eine PCR-Testung. Die WHO appelliert wegen Omikron an Impfstoffersteller. Und: In Italien kommt ein Mann mit einer Arm-Attrappe zum Impfen. Der \u00dcberblick.\nhttps://t.co/XSSReltDW1",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T14:17:00.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 7,
+        "like_count": 16,
+        "quote_count": 1
+      },
+      "conversation_id": "1466773465944444931",
+      "entities": {
+        "urls": [
+          {
+            "start": 225,
+            "end": 248,
+            "url": "https://t.co/XSSReltDW1",
+            "expanded_url": "https://www.spiegel.de/wissenschaft/medizin/corona-news-am-freitag-gewerkschaft-der-polizei-fuerchtet-mehr-aggressivitaet-wegen-2g-a-1f2eb9bd-96f6-40d0-a462-ad97e4db8fb3",
+            "display_url": "spiegel.de/wissenschaft/m\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466770697900883975",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Laut einem vertraulichen Bericht beobachtet die Beh\u00f6rde ernst zu nehmende Angriffsversuche gegen Abgeordnete, Parteien, die Bun\u00addesverwaltung und die Bundeswehr. Die Ziele sind E-Mail-Accounts und Internetpr\u00e4senzen.\nhttps://t.co/mQaMOu75vX",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T14:06:00.000Z",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 14,
+        "reply_count": 3,
+        "like_count": 24,
+        "quote_count": 0
+      },
+      "conversation_id": "1466770697900883975",
+      "entities": {
+        "urls": [
+          {
+            "start": 216,
+            "end": 239,
+            "url": "https://t.co/mQaMOu75vX",
+            "expanded_url": "https://www.spiegel.de/netzwelt/netzpolitik/verfassungsschutz-warnt-vor-hackerangriffen-aus-china-a-c69fa52f-bce6-4611-8e25-85f740e856eb",
+            "display_url": "spiegel.de/netzwelt/netzp\u2026"
+          }
+        ]
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "id": "1466769076047413252",
+      "author_id": "2834511",
+      "lang": "de",
+      "text": "Er ging als Ex-Ehemann in die Geschichte ein: Klaus Rainer R\u00f6hl war mit der sp\u00e4teren RAF-Terroristin Ulrike Meinhof verheiratet. Er gab eine linke Zeitschrift heraus und wechselte sp\u00e4ter die politischen Seiten. https://t.co/8W9bwlY2HA",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-03T13:59:33.000Z",
+      "source": "dlvr.it",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 1,
+        "like_count": 6,
+        "quote_count": 0
+      },
+      "conversation_id": "1466769076047413252",
+      "entities": {
+        "urls": [
+          {
+            "start": 211,
+            "end": 234,
+            "url": "https://t.co/8W9bwlY2HA",
+            "expanded_url": "https://www.spiegel.de/kultur/klaus-rainer-roehl-zu-seinem-tod-wanderer-zwischen-den-polen-a-587a27c5-aab0-464c-9efd-9ae7ddcd2ef3?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/kultur/klaus-r\u2026"
+          }
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "oldest_id": "1466769076047413252",
+    "newest_id": "1467505299355418624",
+    "result_count": 100,
+    "next_token": "7140dibdnow9c7btw3z3axwymcwvmxg0at930d1v213ci"
+  }
+}

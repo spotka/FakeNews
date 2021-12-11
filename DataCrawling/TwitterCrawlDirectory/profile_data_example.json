@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "verified": true,
+      "description": "Der offizielle Twitter-Account der S\u00fcddeutschen Zeitung. Alle Redakteure und Kan\u00e4le: http://t.co/AjR51c6fBJ \u00b7 Impressum: http://t.co/73f0c1DSzV",
+      "created_at": "2010-02-15T17:10:14.000Z",
+      "id": "114508061",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1336318561187336192/rhY9D5hC_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1741767,
+        "following_count": 405,
+        "tweet_count": 191702,
+        "listed_count": 7883
+      },
+      "location": "M\u00fcnchen, Deutschland",
+      "username": "SZ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/pwVdcHEVKW",
+              "expanded_url": "http://www.sz.de",
+              "display_url": "sz.de"
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "start": 85,
+              "end": 107,
+              "url": "http://t.co/AjR51c6fBJ",
+              "expanded_url": "http://sz.de/twitterdetails",
+              "display_url": "sz.de/twitterdetails"
+            },
+            {
+              "start": 121,
+              "end": 143,
+              "url": "http://t.co/73f0c1DSzV",
+              "expanded_url": "http://sz.de/impressum",
+              "display_url": "sz.de/impressum"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "name": "S\u00fcddeutsche Zeitung",
+      "url": "https://t.co/pwVdcHEVKW"
+    },
+    {
+      "verified": true,
+      "description": "Ehrliche Nachrichten - unabh\u00e4ngig, schnell, seit 1845",
+      "created_at": "2010-01-16T18:23:48.000Z",
+      "id": "105554801",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1274516114/Twitterpferd_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1199190,
+        "following_count": 187,
+        "tweet_count": 35725,
+        "listed_count": 2416
+      },
+      "username": "Der_Postillon",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 22,
+              "url": "http://t.co/zakvcgEwJ4",
+              "expanded_url": "http://www.der-postillon.com",
+              "display_url": "der-postillon.com"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "name": "Der Postillon",
+      "url": "http://t.co/zakvcgEwJ4"
+    }
+  ]
+}
