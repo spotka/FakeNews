@@ -10,10 +10,10 @@ import os
 import pandas as pd
 
 
-def merge_json_files():
+def merge_json_files(data_dir_path):
     # iterate through dir and open json files
     data_total = []
-    data_dir_path = "C:/Users/nceck/Desktop/FakeNews/DataCrawling/TwitterCrawlDirectory/Bild_CrawlDirectory/"
+
     for filename in os.listdir(data_dir_path):
         print("filename", filename)
         with open(os.path.join(data_dir_path, filename), "rb") as infile:
@@ -87,27 +87,20 @@ def plot_tweet_frequence(dataframe):
     ax.xaxis.set_major_formatter(formatter)
 
     locator = mdates.DayLocator()
-
-
     ax.xaxis.set_major_locator(locator)
 
     plt.figure(figsize=(9,9))
     plt.plot(x_values, y_values)
-    plt.savefig('C:/Users/nceck/Desktop/FakeNews/DataCrawling/TwitterCrawlDirectory/Bild_CrawlDirectory/frequency_test_total_ver2.png')
+    plt.savefig('C:/Users/nceck/Desktop/FakeNews/Results/Frequency_Analysis/ZeitOnline_TweetFrequency.png')
 
 # print(tweet)
 # for tweet_details in tweet:
 #    print("tweets details", tweet_details)
 
-
-
-
-
-
 if __name__ == "__main__":
     print("Analyse beginnt")
-    #merge_json_files()
-    data_dir_path = "C:/Users/nceck/Desktop/FakeNews/DataCrawling/TwitterCrawlDirectory/Bild_CrawlDirectory/"
+    data_dir_path = "C:/Users/nceck/Desktop/FakeNews/DataCrawling/TwitterCrawlDirectory/ZeitOnline_CrawlDirectory/"
+    merge_json_files(data_dir_path)
     filename = "merged_bild_data.json"
     filepath = os.path.join(data_dir_path, filename)
 
