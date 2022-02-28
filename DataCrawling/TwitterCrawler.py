@@ -86,9 +86,43 @@ def crawl_tweets_from_profile():
             pagination_token = response_json['meta']['next_token']
             print("pagination_token ", pagination_token)
 
-        twitter_result_path = "./TwitterCrawlDirectory/Bild_CrawlDirectory/"
+        twitter_result_path = "TwitterCrawlDirectory/Twitter_API/Bild_CrawlDirectory/"
         filename = "profile_bild_data_" + str(i) + ".json"
         save_json(response_json, twitter_result_path, filename)
+
+
+def test_get_all_data():
+
+    # example url https://api.twitter.com/2/tweets/counts/all
+    # https://developer.twitter.com/en/docs/twitter-api/tweets/counts/api-reference/get-tweets-counts-all
+    tweet_fields = "tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,public_metrics,possibly_sensitive,referenced_tweets,reply_settings,source,text,withheld"
+    count = 32  # limit is 3200 tweets per user - therefore limit of 32 iterations
+    user_id = 9204502
+
+    """
+    Possible Ids: 
+    2834511 - Spiegel Normal
+    17965092 - Spiegel Online
+    114508061 - SZ; Süddeutsche Zeitung
+    105554801 - Postillon
+    5715752 - Zeit Online
+    12509262 - Titanic Satire Magazin
+     48660758 - Glausauge Satire (von WELT)
+     8720562 - welt 
+     9330012 - BildNews (Rund um die Uhr BILD)
+     9204502 - BILD normal
+            """
+    tweets_limit = "100"
+    url_tweet = "https://api.twitter.com/2/tweets/counts/all"
+
+    response_tweet = requests.request("GET", url_tweet, auth=bearer_oauth)
+    print("response tweet", response_tweet)
+    response_json = response_tweet.json()
+
+
+    twitter_result_path = "./TwitterCrawlDirectory/"
+    filename = "complete_bild_normal_data" + ".json"
+    save_json(response_json, twitter_result_path, filename)
 
 
 def save_json(json_obj, file_path, filename):
@@ -124,5 +158,6 @@ def get_user_data():
 
 if __name__ == "__main__":
 
-    crawl_tweets_from_profile()
+    #crawl_tweets_from_profile()
+    test_get_all_data()
 

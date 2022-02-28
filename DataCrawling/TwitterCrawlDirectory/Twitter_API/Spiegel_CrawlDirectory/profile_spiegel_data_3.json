@@ -1,0 +1,4331 @@
+{
+  "data": [
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T12:49:21.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1466026631915524097",
+      "text": "Der Bosporus wurde f\u00fcr den Schiffsverkehr geschlossen, mehrere Fl\u00fcge mussten umgeleitet werden: Ein schwerer Sturm hat f\u00fcr Chaos in der t\u00fcrkischen Metropole Istanbul gesorgt \u2013 mindestens vier Menschen starben. https://t.co/T3gXtgzOEA",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 210,
+            "end": 233,
+            "url": "https://t.co/T3gXtgzOEA",
+            "expanded_url": "https://www.spiegel.de/panorama/sturm-in-der-tuerkei-vier-tote-bei-unwetter-in-istanbul-a-6ef05da3-5725-4871-8174-df58f16f3773",
+            "display_url": "spiegel.de/panorama/sturm\u2026"
+          }
+        ]
+      },
+      "id": "1466026631915524097",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 2,
+        "like_count": 20,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 37,
+            "end": 45,
+            "tag": "Covid19"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "ddeuer",
+            "id": "172287727"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T12:48:33.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1466026433734656001",
+      "text": "RT @ddeuer: Soll ich mein Kind gegen #Covid19 impfen lassen? Wir haben unsere Instagram-User nach ihren Fragen und \u00c4ngsten zur Coronaimpfun\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1466026073460781058"
+        }
+      ],
+      "id": "1466026433734656001",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T12:30:01.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1466021767185461254",
+      "text": "Ray Kennedy war gleich f\u00fcr zwei Topklubs ein Fu\u00dfballheld: f\u00fcr den FC Arsenal und den FC Liverpool. Er sammelte Troph\u00e4en im Dutzend, aber sein h\u00e4rtester Kampf war der gegen die Parkinsonkrankheit. Mit 70 hat er ihn verloren. (S+) \nhttps://t.co/AlnpPeWEwK",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 230,
+            "end": 253,
+            "url": "https://t.co/AlnpPeWEwK",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/nachruf-auf-den-star-des-fc-liverpool-ray-kennedy-a-954cf4ba-f92b-497d-a4d0-1542c12ab873",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ]
+      },
+      "id": "1466021767185461254",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 16,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 127,
+            "end": 141,
+            "tag": "Coronaimpfung"
+          }
+        ],
+        "urls": [
+          {
+            "start": 229,
+            "end": 252,
+            "url": "https://t.co/9zBnsU0Yka",
+            "expanded_url": "https://www.spiegel.de/wissenschaft/medizin/coronavirus-impfungen-fuer-5-bis-11-jaehrige-fragen-an-einen-kinderarzt-a-6146763b-2a2c-40c9-98b2-daa4c0178885",
+            "display_url": "spiegel.de/wissenschaft/m\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1465985058393640960/ekJntEu8?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1465985058393640960/ekJntEu8?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Coronavirus: 13 Fragen zu Impfungen f\u00fcr Kinder \u2013 13 Antworten eines Chefarztes",
+            "description": "Sollten Eltern ihr Kind impfen lassen, welche Risiken gibt es? Der Chefarzt einer Kinderklinik beantwortet Fragen zur Coronaimpfung f\u00fcr 5- bis 11-J\u00e4hrige. Und erkl\u00e4rt so manche Diskussion f\u00fcr \u00fcberfl\u00fcssig.",
+            "unwound_url": "https://www.spiegel.de/wissenschaft/medizin/coronavirus-impfungen-fuer-5-bis-11-jaehrige-fragen-an-einen-kinderarzt-a-6146763b-2a2c-40c9-98b2-daa4c0178885"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T12:11:18.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1466017056613142531",
+      "text": "Welche Risiken gibt es? Sollten alle Kinder sofort geimpft werden? Der Chefarzt einer Kinderklinik beantwortet User-Fragen zur #Coronaimpfung f\u00fcr F\u00fcnf- bis Elfj\u00e4hrige. Und erkl\u00e4rt so manche Diskussion f\u00fcr \u00fcberfl\u00fcssig. Das Video. https://t.co/9zBnsU0Yka",
+      "author_id": "2834511",
+      "id": "1466017056613142531",
+      "public_metrics": {
+        "retweet_count": 9,
+        "reply_count": 8,
+        "like_count": 27,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T11:57:34.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1466013602368798725",
+      "text": "Volksverhetzung oder Aufrufe im Internet zur Vollstreckung selbst verfasster Todesurteile: Die Zahl solcher polizeilich erfassten F\u00e4lle ist deutlich gestiegen. Nun gab es Wohnungsdurchsuchungen und Vernehmungen. https://t.co/FQAlrCSzjb",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 212,
+            "end": 235,
+            "url": "https://t.co/FQAlrCSzjb",
+            "expanded_url": "https://www.spiegel.de/netzwelt/web/online-hetze-polizei-geht-deutschlandweit-gegen-strafbare-postings-vor-a-1d1d21e3-4afa-4e11-b668-7b896436cdc2?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/netzwelt/web/o\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1466012643903385602/Csr0okpC?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1466012643903385602/Csr0okpC?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Online-Hetze: Polizei geht deutschlandweit gegen strafbare Postings vor",
+            "description": "Volksverhetzung oder Aufrufe im Internet zur Vollstreckung selbst verfasster Todesurteile: Die Zahl solcher polizeilich erfassten F\u00e4lle ist deutlich gestiegen. Nun gab es Wohnungsdurchsuchungen und Vernehmungen.",
+            "unwound_url": "https://www.spiegel.de/netzwelt/web/online-hetze-polizei-geht-deutschlandweit-gegen-strafbare-postings-vor-a-1d1d21e3-4afa-4e11-b668-7b896436cdc2?utm_source=dlvr.it&utm_medium=twitter#ref=rss"
+          }
+        ]
+      },
+      "id": "1466013602368798725",
+      "public_metrics": {
+        "retweet_count": 17,
+        "reply_count": 23,
+        "like_count": 70,
+        "quote_count": 4
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T11:33:33.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1466007557260988417",
+      "text": "Im Norden werden orkanartige B\u00f6en mit einer Geschwindigkeit von bis zu 110 km/h erwartet: Tief Daniel bringt ungem\u00fctliches Wetter nach Deutschland. Auch eine leichte Sturmflut wird erwartet. https://t.co/E1EkyBW9VQ",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 191,
+            "end": 214,
+            "url": "https://t.co/E1EkyBW9VQ",
+            "expanded_url": "https://www.spiegel.de/panorama/sturm-daniel-wetterdienst-warnt-vor-orkanartigen-boeen-a-c07315c2-2731-44b0-a5a7-b70e2d200805?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/sturm\u2026"
+          }
+        ]
+      },
+      "id": "1466007557260988417",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 18,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T11:30:00.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1466006665400971266",
+      "text": "Wenn man sich das Publikum nackt vorstellt, klappt es schon mit dem Referat? Von solchen Tricks h\u00e4lt unser Kolumnist nichts. Er schw\u00f6rt auf drei Strategien, um entspannt vor Menschen zu sprechen. https://t.co/Hle5cpK5qS",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 196,
+            "end": 219,
+            "url": "https://t.co/Hle5cpK5qS",
+            "expanded_url": "https://www.spiegel.de/start/lampenfieber-besiegen-strategien-um-sicher-vor-menschen-zu-sprechen-a-cf8d7316-a128-48ec-8113-f7d1f3a03916",
+            "display_url": "spiegel.de/start/lampenfi\u2026"
+          }
+        ]
+      },
+      "id": "1466006665400971266",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 17,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T11:27:03.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1466005920622596101",
+      "text": "Mithilfe einer gro\u00dfz\u00fcgigen Spende will das Met seine Ausstellung moderner und zeitgen\u00f6ssischer Kunst renovieren. Das Spenderpaar setzt sich f\u00fcr die Sichtbarkeit asiatischer Kulturen in den USA ein. https://t.co/qAeC2oNqii",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 198,
+            "end": 221,
+            "url": "https://t.co/qAeC2oNqii",
+            "expanded_url": "https://www.spiegel.de/kultur/new-york-metropolitan-museum-of-art-erhaelt-rekordspende-von-125-millionen-dollar-a-3ecfb467-54b3-4403-8fc1-03557b1b1e07?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/kultur/new-yor\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1466005185587601414/a7jVpwZ1?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1466005185587601414/a7jVpwZ1?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "125 Millionen Dollar: Metropolitan Museum erh\u00e4lt Rekordspende",
+            "description": "Mithilfe einer gro\u00dfz\u00fcgigen Spende will das Met seine Ausstellung moderner und zeitgen\u00f6ssischer Kunst renovieren. Das Spenderpaar setzt sich f\u00fcr die Sichtbarkeit asiatischer Kulturen in den USA ein.",
+            "unwound_url": "https://www.spiegel.de/kultur/new-york-metropolitan-museum-of-art-erhaelt-rekordspende-von-125-millionen-dollar-a-3ecfb467-54b3-4403-8fc1-03557b1b1e07?utm_source=dlvr.it&utm_medium=twitter#ref=rss"
+          }
+        ]
+      },
+      "id": "1466005920622596101",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 8,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T11:10:05.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1466001654017191939",
+      "text": "Sturmb\u00f6en mit bis zu 129 Stundenkilometern und Starkregen haben f\u00fcr Chaos in Istanbul gesorgt. Mindestens vier Menschen starben. Die Folgen des mehrt\u00e4gigen Unwetters werden jetzt sichtbar. https://t.co/jG9MFLWgGi",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 189,
+            "end": 212,
+            "url": "https://t.co/jG9MFLWgGi",
+            "expanded_url": "https://www.spiegel.de/panorama/sturm-in-der-tuerkei-vier-tote-bei-unwetter-in-istanbul-a-6ef05da3-5725-4871-8174-df58f16f3773?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/sturm\u2026"
+          }
+        ]
+      },
+      "id": "1466001654017191939",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 10,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T11:10:03.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "conversation_id": "1466001645737627650",
+      "text": "Trotz Lieferengp\u00e4ssen und Corona d\u00fcrfte die deutsche Wirtschaft im kommenden Jahr um 3,9 Prozent wachsen, sch\u00e4tzen die Experten der OECD. Doch die Inflation droht, die Erholung zu gef\u00e4hrden. https://t.co/JENbY7MUIx",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 191,
+            "end": 214,
+            "url": "https://t.co/JENbY7MUIx",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/oecd-erwartet-kraeftigen-aufschwung-in-deutschland-a-367aea63-c3c7-45aa-8a5f-9b45dc0521f3?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/wirtschaft/oec\u2026"
+          }
+        ]
+      },
+      "id": "1466001645737627650",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 7,
+        "like_count": 10,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T10:52:47.000Z",
+      "source": "Twitter Web App",
+      "conversation_id": "1465997299440619522",
+      "text": "RT @joleffers: Anne Franks Vater erhielt heute vor 80 Jahren ein Visum f\u00fcr Kuba \u2013 doch zehn Tage sp\u00e4ter war es ung\u00fcltig und das Familiensch\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465973947795709954"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "joleffers",
+            "id": "23198306"
+          }
+        ]
+      },
+      "id": "1465997299440619522",
+      "public_metrics": {
+        "retweet_count": 19,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T10:50:00.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465996596831604737",
+      "text": "Es wird in einer Graspapier-Schachtel geliefert, als CO\u2082-neutral beworben und beim Recycling gibt es Geld zur\u00fcck. Ist das Rephone wirklich so nachhaltig, wie seine Entwickler behaupten \u2013 und lohnt sich der Kauf? (S+) https://t.co/tGneAvP8MB",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 217,
+            "end": 240,
+            "url": "https://t.co/tGneAvP8MB",
+            "expanded_url": "https://www.spiegel.de/netzwelt/gadgets/rephone-im-test-das-smartphone-mit-recycling-praemie-a-6a5f9aa6-9ad1-42c1-983c-57b248ae6895",
+            "display_url": "spiegel.de/netzwelt/gadge\u2026"
+          }
+        ]
+      },
+      "id": "1465996596831604737",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 10,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T10:38:02.000Z",
+      "source": "Twitter Web App",
+      "conversation_id": "1465993584897929222",
+      "text": "RT @Peter_Ahrens: Ray Kennedy. Mein Nachruf dazu. https://t.co/xbhSw1NGhG",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465992146532642816"
+        }
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 50,
+            "end": 73,
+            "url": "https://t.co/xbhSw1NGhG",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/nachruf-auf-den-star-des-fc-liverpool-ray-kennedy-a-954cf4ba-f92b-497d-a4d0-1542c12ab873",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "Peter_Ahrens",
+            "id": "30433808"
+          }
+        ]
+      },
+      "id": "1465993584897929222",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T10:00:03.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039036407",
+            "name": "Bundesliga Soccer",
+            "description": "Soccer action from the German Bundesliga."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039215494",
+            "name": "Bundesliga Soccer"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "conversation_id": "1465984029665095682",
+      "text": "Winterliches Wetter hat in Bayern zu mehr als 500 Unf\u00e4llen gef\u00fchrt, allein in Nieder- und Oberbayern gab es 430 Eins\u00e4tze. Mehrere Menschen starben https://t.co/Xjszv28iHN",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 147,
+            "end": 170,
+            "url": "https://t.co/Xjszv28iHN",
+            "expanded_url": "https://www.spiegel.de/panorama/bayern-ueber-500-unfaelle-wegen-schnee-und-sturm-a-2218dd6d-c419-412f-8773-4df713ada8c2?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/bayer\u2026"
+          }
+        ]
+      },
+      "id": "1465984029665095682",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 5,
+        "like_count": 14,
+        "quote_count": 3
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 4,
+            "end": 12,
+            "tag": "Omikron"
+          }
+        ],
+        "urls": [
+          {
+            "start": 152,
+            "end": 175,
+            "url": "https://t.co/trTxnjrJRq",
+            "expanded_url": "https://www.spiegel.de/wissenschaft/mensch/coronavariante-omikron-es-ist-ein-raetsel-wo-sich-das-virus-versteckt-hat-a-e9f822a0-c0bc-49f7-ace8-7d6aff0e14f3",
+            "display_url": "spiegel.de/wissenschaft/m\u2026"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T09:45:00.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465980239238942722",
+      "text": "Die #Omikron-Variante ist v\u00f6llig anders als Delta oder Beta. Virenevolutionsexperte Richard Neher erkl\u00e4rt bei SPIEGEL+, wie sie entstanden sein k\u00f6nnte. https://t.co/trTxnjrJRq",
+      "author_id": "2834511",
+      "id": "1465980239238942722",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 10,
+        "like_count": 9,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "attachments": {
+        "media_keys": [
+          "3_1465977864596213761"
+        ]
+      },
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T09:35:51.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "38",
+            "name": "Political Race",
+            "description": ""
+          },
+          "entity": {
+            "id": "1439959177003089924",
+            "name": "Bundestagswahl 2021"
+          }
+        },
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "Twitter Web App",
+      "conversation_id": "1465977937883287552",
+      "text": "Bundestagswahl, Flut und Klimakrise, Debakel in Afghanistan, Niedergang der CDU, Sturm aufs Kapitol in den USA und immer wieder Corona \u2013 die SPIEGEL-Chronik beleuchtet das Jahr 2021. Jetzt schon digital lesen, ab morgen am Kiosk: https://t.co/GuLeMHz5EU https://t.co/vxHQfPe68B",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 230,
+            "end": 253,
+            "url": "https://t.co/GuLeMHz5EU",
+            "expanded_url": "https://www.spiegel.de/spiegel/spjc/index-2021-1.html",
+            "display_url": "spiegel.de/spiegel/spjc/i\u2026"
+          },
+          {
+            "start": 254,
+            "end": 277,
+            "url": "https://t.co/vxHQfPe68B",
+            "expanded_url": "https://twitter.com/derspiegel/status/1465977937883287552/photo/1",
+            "display_url": "pic.twitter.com/vxHQfPe68B"
+          }
+        ]
+      },
+      "id": "1465977937883287552",
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 5,
+        "like_count": 21,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 104,
+            "end": 116,
+            "tag": "NordStream2"
+          }
+        ],
+        "urls": [
+          {
+            "start": 187,
+            "end": 210,
+            "url": "https://t.co/MgwYh3RaxD",
+            "expanded_url": "https://www.spiegel.de/ausland/nord-stream-2-pipeline-von-wladimir-putin-droht-doch-noch-das-aus-a-98d2d577-32a5-4c2f-88cf-38cb4b9b3bdb",
+            "display_url": "spiegel.de/ausland/nord-s\u2026"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T09:20:00.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465973947737030656",
+      "text": "Im US-Kongress setzen die Republikaner alle Hebel in Bewegung, um die Verh\u00e4ngung neuer Sanktionen gegen #NordStream2 durchzusetzen. K\u00f6nnen sie das Projekt in letzter Minute stoppen? (S+) https://t.co/MgwYh3RaxD",
+      "author_id": "2834511",
+      "id": "1465973947737030656",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 10,
+        "like_count": 10,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T09:00:00.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465968915914190850",
+      "text": "Sollen die Weihnachtsferien fr\u00fcher beginnen? Der Bildungsforscher Marcel Helbig sagt, welche Auswirkungen das auf Kinder und Jugendliche hat \u2013 und was f\u00fcr die Schulen jetzt wichtig w\u00e4re. (S+) \nhttps://t.co/YZfKwcgFY4",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 193,
+            "end": 216,
+            "url": "https://t.co/YZfKwcgFY4",
+            "expanded_url": "https://www.spiegel.de/panorama/bildung/bildungsforscher-marcel-helbig-ueber-laengere-weihnachtsferien-das-ganz-grosse-drama-ist-schon-gelaufen-a-1cced9e2-cc80-49a5-8c65-d6db630db6fb",
+            "display_url": "spiegel.de/panorama/bildu\u2026"
+          }
+        ]
+      },
+      "id": "1465968915914190850",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 10,
+        "like_count": 8,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T08:58:33.000Z",
+      "source": "Twitter Web App",
+      "conversation_id": "1465968549713825793",
+      "text": "RT @mathieuvonrohr: \u00c9ric Zemmour: Ein Hetzer mit b\u00fcrgerlichem Anstrich \nDer Kampf um den \u00c9lys\u00e9e wird schmutzig: Der rechtsextreme Publizist\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465804084007559175"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "mathieuvonrohr",
+            "id": "17152053"
+          }
+        ]
+      },
+      "id": "1465968549713825793",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T08:58:26.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "Twitter Web App",
+      "conversation_id": "1465968520831844360",
+      "text": "RT @habichthorn: \"Alle 24 Betten auf Station 43 der Charit\u00e9-Klinik sind belegt. Die H\u00e4lfte davon mit Covid-Patienten. Keiner von ihnen ist\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465959073099272194"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "habichthorn",
+            "id": "18609053"
+          }
+        ]
+      },
+      "id": "1465968520831844360",
+      "public_metrics": {
+        "retweet_count": 266,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T08:58:17.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "Twitter Web App",
+      "conversation_id": "1465968481698996225",
+      "text": "RT @gina_steffens: \"Das w\u00e4re alles vermeidbar gewesen\" - Die ECMO als letzte Rettung f\u00fcr einen Ungeimpften, der Covid mit Globuli behandelt\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465944892362924034"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 17,
+            "username": "gina_steffens",
+            "id": "801064633050300416"
+          }
+        ]
+      },
+      "id": "1465968481698996225",
+      "public_metrics": {
+        "retweet_count": 28,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T08:58:09.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "Twitter Web App",
+      "conversation_id": "1465968450136854528",
+      "text": "RT @ImreBalzer: \u201eAlle 24 Betten auf Station 43 der Charit\u00e9-Klinik sind belegt. Die H\u00e4lfte davon mit Covid-Patienten. Keiner von ihnen ist g\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465953988323459072"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "ImreBalzer",
+            "id": "1222222194"
+          }
+        ]
+      },
+      "id": "1465968450136854528",
+      "public_metrics": {
+        "retweet_count": 22,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T08:57:58.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "Twitter Web App",
+      "conversation_id": "1465968402959327235",
+      "text": "RT @DiPiep: Wenn man einen Text \u00fcber Omikron lesen will, dann am besten dieses h\u00f6chst informative Interview (S+) https://t.co/ecdIPcg9N0 vi\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465963264655994883"
+        }
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 113,
+            "end": 136,
+            "url": "https://t.co/ecdIPcg9N0",
+            "expanded_url": "https://www.spiegel.de/wissenschaft/mensch/coronavariante-omikron-es-ist-ein-raetsel-wo-sich-das-virus-versteckt-hat-a-e9f822a0-c0bc-49f7-ace8-7d6aff0e14f3",
+            "display_url": "spiegel.de/wissenschaft/m\u2026"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "DiPiep",
+            "id": "322511796"
+          }
+        ]
+      },
+      "id": "1465968402959327235",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T08:04:04.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1465954839234449411",
+      "text": "Lea Sch\u00fcllers n\u00e4chstes Tor, Marina Hegerings Startelf-Comeback, ein souver\u00e4ner Sieg: Das Topspiel gegen Portugal lief f\u00fcr das deutsche Nationalteam nach Plan. Die WM-Qualifikation ist zum Greifen nah. https://t.co/D24aREBjGi",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 201,
+            "end": 224,
+            "url": "https://t.co/D24aREBjGi",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/wm-qualifikation-dfb-frauen-haengen-verfolger-portugal-ab-a-cb013c20-c910-43ad-b1ff-4b1915f6b436?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ]
+      },
+      "id": "1465954839234449411",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 19,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T08:00:02.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465953823197908994",
+      "text": "Deutschlands sozialer Lift ist kaputt: Immer weniger B\u00fcrgerinnen und B\u00fcrgern gelingt der Aufstieg in h\u00f6here Einkommensgruppen \u2013 und zwischen den Generationen \u00f6ffnet sich eine Kluft. (S+) https://t.co/7SIU1Xc1RA",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 187,
+            "end": 210,
+            "url": "https://t.co/7SIU1Xc1RA",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/soziales/mittelschicht-das-gebrochene-versprechen-der-sozialen-marktwirtschaft-a-db79897f-331c-4358-9fa1-cf7cdb2fbb0e",
+            "display_url": "spiegel.de/wirtschaft/soz\u2026"
+          }
+        ]
+      },
+      "id": "1465953823197908994",
+      "public_metrics": {
+        "retweet_count": 15,
+        "reply_count": 15,
+        "like_count": 42,
+        "quote_count": 4
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 25,
+            "end": 31,
+            "tag": "Trump"
+          }
+        ],
+        "urls": [
+          {
+            "start": 237,
+            "end": 260,
+            "url": "https://t.co/YsEchc2hfr",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/geplantes-social-media-netzwerk-so-zockt-donald-trump-die-buerger-ab-a-aa53bd20-9ed2-43ee-a8f0-41dbca063b28",
+            "display_url": "spiegel.de/wirtschaft/gep\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1465950046973800450/-fa_2XKf?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1465950046973800450/-fa_2XKf?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "(S+) Geplantes Social-Media-Netzwerk: So zockt Trump die B\u00fcrger ab (S+)",
+            "description": "Der fr\u00fchere US-Pr\u00e4sident sammelt \u00fcber ein B\u00f6rsenkonstrukt riesige Summen ein \u2013 aber dass er ein profitables Social-Media-Netzwerk aufbauen kann, ist wenig wahrscheinlich. Am Ende k\u00f6nnte das Vorhaben vor allem ihn bereichern.",
+            "unwound_url": "https://www.spiegel.de/wirtschaft/geplantes-social-media-netzwerk-so-zockt-donald-trump-die-buerger-ab-a-aa53bd20-9ed2-43ee-a8f0-41dbca063b28"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T07:45:00.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "799022225751871488",
+            "name": "Donald Trump",
+            "description": "US President Donald Trump"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "799022225751871488",
+            "name": "Donald Trump",
+            "description": "US President Donald Trump"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465950040195833858",
+      "text": "Der fr\u00fchere US-Pr\u00e4sident #Trump sammelt \u00fcber ein B\u00f6rsenkonstrukt riesige Summen ein \u2013 aber dass er ein profitables Social-Media-Netzwerk aufbauen kann, ist wenig wahrscheinlich. Am Ende k\u00f6nnte das Vorhaben vor allem ihn bereichern. (S+) https://t.co/YsEchc2hfr",
+      "author_id": "2834511",
+      "id": "1465950040195833858",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 8,
+        "like_count": 16,
+        "quote_count": 2
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T07:38:04.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1465948294396272643",
+      "text": "Wenn man sich das Publikum nackt vorstellt, klappt es schon mit dem Referat? Von solchen Tricks h\u00e4lt unser Kolumnist nichts. Er schw\u00f6rt auf drei Strategien, um entspannt vor Menschen zu sprechen. https://t.co/Z12iDXZdQp",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 196,
+            "end": 219,
+            "url": "https://t.co/Z12iDXZdQp",
+            "expanded_url": "https://www.spiegel.de/start/lampenfieber-besiegen-strategien-um-sicher-vor-menschen-zu-sprechen-a-cf8d7316-a128-48ec-8113-f7d1f3a03916?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/start/lampenfi\u2026"
+          }
+        ]
+      },
+      "id": "1465948294396272643",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 23,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T07:30:00.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465946265032691718",
+      "text": "In Nordrhein-Westfalen hat die Polizei ein neues Konzept erprobt, um Amokl\u00e4ufe zu verhindern. Der Abschlussbericht liegt dem SPIEGEL vor. (S+) https://t.co/sVQMrr9fxm",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 143,
+            "end": 166,
+            "url": "https://t.co/sVQMrr9fxm",
+            "expanded_url": "https://www.spiegel.de/panorama/justiz/neues-fruehwarnsystem-in-nrw-wie-die-polizei-amoklaeufer-stoppen-will-a-a2428fa3-611e-40e7-a80d-9cab1e2fb725",
+            "display_url": "spiegel.de/panorama/justi\u2026"
+          }
+        ]
+      },
+      "id": "1465946265032691718",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 5,
+        "like_count": 6,
+        "quote_count": 2
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T07:15:00.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465942490373136386",
+      "text": "Der ukrainische Pr\u00e4sident Wolodymyr Selenskyj warnt vor einem geplanten Staatsstreich am 1. Dezember und nennt dabei den Namen des reichsten Oligarchen im Land. Was steht hinter der merkw\u00fcrdigen Warnung? (S+) https://t.co/1sC4CSjgvX",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 209,
+            "end": 232,
+            "url": "https://t.co/1sC4CSjgvX",
+            "expanded_url": "https://www.spiegel.de/ausland/ukraine-warum-spricht-selenskyj-von-einem-putsch-in-kiew-a-0b3a333c-280e-4648-a31f-f74a76fab51e",
+            "display_url": "spiegel.de/ausland/ukrain\u2026"
+          }
+        ]
+      },
+      "id": "1465942490373136386",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 3,
+        "like_count": 12,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T07:12:59.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465941984464584707",
+      "text": "RT @diehljoerg: Immer wieder ersch\u00fcttern Attentate psychisch labiler M\u00e4nner die \u00d6ffentlichkeit. In Nordrhein-Westfalen hat die Polizei ein\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465941563452841985"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "diehljoerg",
+            "id": "1160077218"
+          }
+        ]
+      },
+      "id": "1465941984464584707",
+      "public_metrics": {
+        "retweet_count": 19,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T07:10:20.000Z",
+      "source": "Twitter Web App",
+      "conversation_id": "1465941316186120194",
+      "text": "RT @AHimmelrath: \u201eSoziale Ungleichheiten haben sich w\u00e4hrend der Schulschlie\u00dfungen vergr\u00f6\u00dfert. Wie gerade sozial benachteiligte Kinder mit g\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465898513879945219"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "AHimmelrath",
+            "id": "457384105"
+          }
+        ]
+      },
+      "id": "1465941316186120194",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T07:09:20.000Z",
+      "source": "Twitter Web App",
+      "conversation_id": "1465941066146881537",
+      "text": "RT @Moskwitsch: Ein bisschen Hintergrund zu Selenskyjs merkw\u00fcrdiger Putsch-Warnung https://t.co/ocKZ3colCo",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465930825057329152"
+        }
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 83,
+            "end": 106,
+            "url": "https://t.co/ocKZ3colCo",
+            "expanded_url": "https://www.spiegel.de/ausland/ukraine-warum-spricht-selenskyj-von-einem-putsch-in-kiew-a-0b3a333c-280e-4648-a31f-f74a76fab51e?sara_ecid=soci_upd_KsBF0AFjflf0DZCxpPYDCQgO1dEMph",
+            "display_url": "spiegel.de/ausland/ukrain\u2026"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "Moskwitsch",
+            "id": "19066825"
+          }
+        ]
+      },
+      "id": "1465941066146881537",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 13,
+            "end": 22,
+            "tag": "Lockdown"
+          }
+        ],
+        "urls": [
+          {
+            "start": 224,
+            "end": 247,
+            "url": "https://t.co/JEWJuX1d9m",
+            "expanded_url": "https://www.spiegel.de/wissenschaft/mensch/coronapandemie-brauchen-wir-einen-neuen-lockdown-a-3577c7b1-6de9-405b-b54b-006db113b857",
+            "display_url": "spiegel.de/wissenschaft/m\u2026"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T07:00:00.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465938716019544069",
+      "text": "Ein strenger #Lockdown w\u00e4re der schnellste und effektivste Weg, um die vierte Welle zu brechen. Aber reichen vielleicht auch regionale Lockdowns? Der Modellierer Andreas Schuppert erkl\u00e4rt bei SPIEGEL+, was noch m\u00f6glich ist.\nhttps://t.co/JEWJuX1d9m",
+      "author_id": "2834511",
+      "id": "1465938716019544069",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 13,
+        "like_count": 14,
+        "quote_count": 2
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T06:55:00.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465937457082298369",
+      "text": "Vier Motoren statt zw\u00f6lf Zylinder: Das Elektroautozeitalter bringt v\u00f6llig andere Supersportwagen hervor. Pininfarina setzt mit dem Battista Bestmarken \u2013 und doch versp\u00fcrte unser Testfahrer etwas Wehmut. (S+) \nhttps://t.co/ofCN3WYCRY",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 209,
+            "end": 232,
+            "url": "https://t.co/ofCN3WYCRY",
+            "expanded_url": "https://www.spiegel.de/auto/pininfarina-battista-das-luxusproblem-a-80404726-517c-4413-833c-91748915f92e",
+            "display_url": "spiegel.de/auto/pininfari\u2026"
+          }
+        ]
+      },
+      "id": "1465937457082298369",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 5,
+        "like_count": 17,
+        "quote_count": 4
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T06:54:49.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "Twitter Web App",
+      "conversation_id": "1465937412669030403",
+      "text": "RT @SperberS: Auf der Intensivstation der Charit\u00e9 landen die schwersten Covid-F\u00e4lle. \nEtwa die H\u00e4lfte der Patienten \u00fcberlebt. \n\nUnser SPIEG\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465918545515196417"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "SperberS",
+            "id": "212547080"
+          }
+        ]
+      },
+      "id": "1465937412669030403",
+      "public_metrics": {
+        "retweet_count": 34,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 61,
+            "end": 76,
+            "tag": "JosephineBaker"
+          },
+          {
+            "start": 158,
+            "end": 167,
+            "tag": "Pantheon"
+          }
+        ],
+        "urls": [
+          {
+            "start": 230,
+            "end": 253,
+            "url": "https://t.co/AWkWjexKCj",
+            "expanded_url": "https://www.spiegel.de/ausland/josephine-baker-die-taenzerin-zieht-ins-pantheon-a-fa46bc4b-0aeb-4e88-bfbc-82a8df3db079",
+            "display_url": "spiegel.de/ausland/joseph\u2026"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T06:42:25.000Z",
+      "source": "Twitter Web App",
+      "conversation_id": "1465934290177380353",
+      "text": "Sie war S\u00e4ngerin, T\u00e4nzerin, Widerstandsk\u00e4mpferin: Jetzt wird #JosephineBaker eine Ehrung zuteil, die Frankreich nur wenigen K\u00fcnstlern gew\u00e4hrt. Der Einzug ins #Pantheon ist auch eine Demonstration gegen den Rassismus im Land. (S+) https://t.co/AWkWjexKCj",
+      "author_id": "2834511",
+      "id": "1465934290177380353",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 3,
+        "like_count": 84,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T06:38:59.000Z",
+      "source": "Twitter Web App",
+      "conversation_id": "1465933425479671811",
+      "text": "RT @marga_owski: Viele Leute denken eh, dass Philosophieren \u00bbLabern\u00ab ist &amp; dann kommen Leute wie Precht &amp; Fla\u00dfp\u00f6hler &amp; best\u00e4tigen genau die\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465766195940970500"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "marga_owski",
+            "id": "124001436"
+          }
+        ]
+      },
+      "id": "1465933425479671811",
+      "public_metrics": {
+        "retweet_count": 777,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T06:22:05.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1465929172988039169",
+      "text": "Immer wieder ersch\u00fcttern Attentate psychisch labiler M\u00e4nner die \u00d6ffentlichkeit. In Nordrhein-Westfalen hat die Polizei ein neues Konzept erprobt, um Amokl\u00e4ufe zu verhindern. Der Abschlussbericht liegt dem SPIEGEL vor. https://t.co/yZNAstdaiw",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 218,
+            "end": 241,
+            "url": "https://t.co/yZNAstdaiw",
+            "expanded_url": "https://www.spiegel.de/panorama/justiz/neues-fruehwarnsystem-in-nrw-wie-die-polizei-amoklaeufer-stoppen-will-a-a2428fa3-611e-40e7-a80d-9cab1e2fb725?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/justi\u2026"
+          }
+        ]
+      },
+      "id": "1465929172988039169",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 15,
+        "like_count": 20,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 72,
+            "end": 84,
+            "tag": "Impfpflicht"
+          },
+          {
+            "start": 216,
+            "end": 220,
+            "tag": "CDU"
+          }
+        ],
+        "urls": [
+          {
+            "start": 222,
+            "end": 245,
+            "url": "https://t.co/CF2aHapfrc",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/news-corona-virus-impfpflicht-olaf-scholz-spd-cdu-a-77eb88d8-1382-46f0-bc49-8262e48a8d97",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 35,
+            "end": 44,
+            "username": "philwitt",
+            "id": "19703962"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T06:21:15.000Z",
+      "source": "Twitter Web App",
+      "conversation_id": "1465928964078198786",
+      "text": "In der \u00bbLage am Morgen\u00ab beleuchtet @philwitt die deutsche Wende hin zur #Impfpflicht und den Versuch des k\u00fcnftigen Kanzlers, in der Coronapolitik in die Offensive zu kommen. Au\u00dferdem geht es um den Machtkampf in der #CDU: https://t.co/CF2aHapfrc",
+      "author_id": "2834511",
+      "id": "1465928964078198786",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 8,
+        "like_count": 8,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 37,
+            "end": 44,
+            "tag": "Scholz"
+          }
+        ],
+        "urls": [
+          {
+            "start": 219,
+            "end": 242,
+            "url": "https://t.co/JrcpoalxC3",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/olaf-scholz-vor-den-ministerpraesidenten-der-coronatest-a-126de2ee-eb99-4995-930f-e407e09ea9e9",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T06:10:04.000Z",
+      "source": "Twitter Web App",
+      "conversation_id": "1465926151084335105",
+      "text": "Als designierter Kanzler geriet Olaf #Scholz in der Coronakrise unter Druck. In der Bund-L\u00e4nder-Schalte konterte er Forderungen nach sch\u00e4rferen Ma\u00dfnahmen nun recht souver\u00e4n \u2013 sogar die Union war am Ende zufrieden. (S+)\nhttps://t.co/JrcpoalxC3",
+      "author_id": "2834511",
+      "id": "1465926151084335105",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 12,
+        "like_count": 13,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 103,
+            "end": 110,
+            "tag": "Scholz"
+          },
+          {
+            "start": 179,
+            "end": 191,
+            "tag": "Impfpflicht"
+          }
+        ],
+        "urls": [
+          {
+            "start": 225,
+            "end": 248,
+            "url": "https://t.co/omb7rRXHHx",
+            "expanded_url": "https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-olaf-scholz-weist-kritik-an-zu-spaetem-handeln-zurueck-a-456d1d3a-5ec9-4e5c-821b-e53c16634c00",
+            "display_url": "spiegel.de/wissenschaft/m\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1465924140527874049/wHuVZdTP?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1465924140527874049/wHuVZdTP?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Corona-News am Mittwoch: Olaf Scholz weist Kritik an zu sp\u00e4tem Handeln zur\u00fcck",
+            "description": "Hat der designierte Bundeskanzler zu lange gez\u00f6gert, um sich in der Coronakrise zu positionieren? Olaf Scholz wiegelt ab: \u00bbDie F\u00fchrung ist da.\u00ab Und: Bu\u00dfgeld bei Verletzung einer Impfpflicht laut FDP denkbar. Der \u00dcberblick.",
+            "unwound_url": "https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-olaf-scholz-weist-kritik-an-zu-spaetem-handeln-zurueck-a-456d1d3a-5ec9-4e5c-821b-e53c16634c00"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T06:03:18.000Z",
+      "source": "Twitter Web App",
+      "conversation_id": "1465924449434316801",
+      "text": "Hat der designierte Bundeskanzler zu lange gez\u00f6gert, um sich in der Coronakrise zu positionieren? Olaf #Scholz wiegelt ab: \u00bbDie F\u00fchrung ist da.\u00ab Und: Bu\u00dfgeld bei Verletzung einer #Impfpflicht laut FDP denkbar. Der \u00dcberblick. https://t.co/omb7rRXHHx",
+      "author_id": "2834511",
+      "id": "1465924449434316801",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 11,
+        "like_count": 12,
+        "quote_count": 2
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T06:01:49.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "Twitter Web App",
+      "conversation_id": "1465924072387354632",
+      "text": "Das RKI hat binnen 24 Stunden 446 neue Todesf\u00e4lle im Zusammenhang mit dem Coronavirus registriert \u2013 deutlich mehr als in der Vorwoche. Das ganze Ausma\u00df der vierten Welle wird laut dem Institut erst in einigen Monaten deutlich.\nhttps://t.co/cFM6qOKZVV",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 227,
+            "end": 250,
+            "url": "https://t.co/cFM6qOKZVV",
+            "expanded_url": "https://www.spiegel.de/wissenschaft/corona-virus-sieben-tage-inzidenz-sinkt-auf-442-9-rki-meldet-67-186-neuinfektionen-a-b7d3e5b5-3743-4679-afe7-3aa4a5cd1525",
+            "display_url": "spiegel.de/wissenschaft/c\u2026"
+          }
+        ]
+      },
+      "id": "1465924072387354632",
+      "public_metrics": {
+        "retweet_count": 15,
+        "reply_count": 21,
+        "like_count": 71,
+        "quote_count": 4
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-12-01T05:02:36.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "910293138056536064",
+            "name": "Andrew Cuomo",
+            "description": "Governor of New York, Andrew Cuomo"
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1425115558945591301",
+            "name": "Chris Cuomo"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "910293138056536064",
+            "name": "Andrew Cuomo",
+            "description": "Governor of New York, Andrew Cuomo"
+          }
+        },
+        {
+          "domain": {
+            "id": "94",
+            "name": "Journalist",
+            "description": "A journalist like 'Anderson Cooper'"
+          },
+          "entity": {
+            "id": "1425115558945591301",
+            "name": "Chris Cuomo"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "conversation_id": "1465909171216334858",
+      "text": "CNN-Moderator Chris Cuomo ist seinen Job vorerst los. Er soll seinen Bruder Andrew Cuomo enger verteidigt haben als bisher bekannt \u2013 der war nach Vorw\u00fcrfen sexueller Bel\u00e4stigung als Gouverneur New Yorks zur\u00fcckgetreten. https://t.co/Fon8R9xxMv",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 219,
+            "end": 242,
+            "url": "https://t.co/Fon8R9xxMv",
+            "expanded_url": "https://www.spiegel.de/ausland/cnn-suspendiert-moderator-chris-cuomo-wegen-verteidigung-seines-bruders-andrew-cuomo-a-6c4c005b-5069-4e6d-a82d-b2d7da633ee3?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/ausland/cnn-su\u2026"
+          }
+        ]
+      },
+      "id": "1465909171216334858",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 6,
+        "like_count": 21,
+        "quote_count": 2
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T21:00:01.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465787724711948289",
+      "text": "Der Koalitionsvertrag verspricht einen \u00bbParadigmenwechsel\u00ab in der Asyl- und Migrationspolitik. Wird nun alles anders? Nein, sagt der Juraprofessor Daniel Thym. (S+) https://t.co/frdXktee4A",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 165,
+            "end": 188,
+            "url": "https://t.co/frdXktee4A",
+            "expanded_url": "https://www.spiegel.de/panorama/experte-thym-zur-migrationspolitik-die-ampel-ist-viel-naeher-am-kurs-von-frau-merkel-als-manchem-vermutlich-lieb-ist-a-45f50a9c-f4a2-4a6d-8c52-c187610ff279",
+            "display_url": "spiegel.de/panorama/exper\u2026"
+          }
+        ]
+      },
+      "id": "1465787724711948289",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 5,
+        "like_count": 9,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T20:50:02.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "conversation_id": "1465785215385702402",
+      "text": "Ein strenger Lockdown w\u00e4re der schnellste und effektivste Weg, um die vierte Welle zu brechen. Aber reichen vielleicht auch regionale Lockdowns? Der Modellierer Andreas Schuppert erkl\u00e4rt, was noch m\u00f6glich ist. https://t.co/Woe5CLofPU",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 210,
+            "end": 233,
+            "url": "https://t.co/Woe5CLofPU",
+            "expanded_url": "https://www.spiegel.de/wissenschaft/mensch/coronapandemie-brauchen-wir-einen-neuen-lockdown-a-3577c7b1-6de9-405b-b54b-006db113b857?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/wissenschaft/m\u2026"
+          }
+        ]
+      },
+      "id": "1465785215385702402",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 11,
+        "like_count": 23,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T20:43:00.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465783442436616192",
+      "text": "Selten sah man nackte Menschen verklemmter vor Fernsehkameras herumspringen: \u00bbAdam sucht Eva\u00ab l\u00e4sst Menschen wieder sinnlos blankziehen. (S+) https://t.co/W7xjazaeLD",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 142,
+            "end": 165,
+            "url": "https://t.co/W7xjazaeLD",
+            "expanded_url": "https://www.spiegel.de/kultur/tv/adam-sucht-eva-auf-rtl-2-zeigefreudig-und-ziemlich-zugeknoepft-a-aff9b831-6c5b-4400-9386-e4df6660c90b",
+            "display_url": "spiegel.de/kultur/tv/adam\u2026"
+          }
+        ]
+      },
+      "id": "1465783442436616192",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 11,
+        "like_count": 12,
+        "quote_count": 2
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T20:30:00.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465780172322271234",
+      "text": "IT-Experten haben Sicherheitsl\u00fccken in zahlreichen Druckern von HP entdeckt: Eine davon erfordert nur einen einzigen Klick. Angreifer k\u00f6nnten alle Dokumente mitlesen und sich im Unternehmensnetzwerk ausbreiten. (S+) https://t.co/YVqfRR14Nn",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 216,
+            "end": 239,
+            "url": "https://t.co/YVqfRR14Nn",
+            "expanded_url": "https://www.spiegel.de/netzwelt/gadgets/hp-sicherheitsluecken-wie-kriminelle-ueber-den-drucker-eine-firma-lahmlegen-koennen-a-083a3fae-bdde-43b4-b612-7ed46bc5c7cc",
+            "display_url": "spiegel.de/netzwelt/gadge\u2026"
+          }
+        ]
+      },
+      "id": "1465780172322271234",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 9,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T20:25:36.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "806558580715311104",
+            "name": "Rihanna",
+            "description": "Rihanna"
+          }
+        },
+        {
+          "domain": {
+            "id": "54",
+            "name": "Musician",
+            "description": "A musician in the world, like Adele or Bob Dylan"
+          },
+          "entity": {
+            "id": "806558580715311104",
+            "name": "Rihanna",
+            "description": "Rihanna"
+          }
+        },
+        {
+          "domain": {
+            "id": "55",
+            "name": "Music Genre",
+            "description": "A category for a musical style, like Pop, Rock, or Rap"
+          },
+          "entity": {
+            "id": "810938279801470977",
+            "name": "Pop",
+            "description": "Pop"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "conversation_id": "1465779064539541506",
+      "text": "Barbados wird Republik \u2013 statt der britischen K\u00f6nigin ist nun eine Pr\u00e4sidentin neues Staatsoberhaupt und Pops\u00e4ngerin Rihanna die offizielle Nationalheldin. Doch die Einwohner sind verunsichert. https://t.co/3CeUPkkntI",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 194,
+            "end": 217,
+            "url": "https://t.co/3CeUPkkntI",
+            "expanded_url": "https://www.spiegel.de/ausland/rihanna-prinz-charles-und-eine-trennung-nach-400-jahren-a-2c549ce6-7880-4a58-9512-568a1a58ed17?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/ausland/rihann\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1465779072038887429/NVGWSwVN?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1465779072038887429/NVGWSwVN?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Rihanna, Prinz Charles und eine Trennung nach 400 Jahren",
+            "description": "Barbados wird Republik \u2013 statt der britischen K\u00f6nigin ist nun eine Pr\u00e4sidentin neues Staatsoberhaupt und Pops\u00e4ngerin Rihanna die offizielle Nationalheldin. Doch die Einwohner sind verunsichert.",
+            "unwound_url": "https://www.spiegel.de/ausland/rihanna-prinz-charles-und-eine-trennung-nach-400-jahren-a-2c549ce6-7880-4a58-9512-568a1a58ed17?utm_source=dlvr.it&utm_medium=twitter#ref=rss"
+          }
+        ]
+      },
+      "id": "1465779064539541506",
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 7,
+        "like_count": 62,
+        "quote_count": 2
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T20:25:34.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "912697101083041792",
+            "name": "Jair Bolsonaro",
+            "description": "Jair Bolsonaro"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "912697101083041792",
+            "name": "Jair Bolsonaro",
+            "description": "Jair Bolsonaro"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "conversation_id": "1465779056381628416",
+      "text": "Ein Kandidat f\u00fcr das Pr\u00e4sidentenamt in Brasilien darf nicht ohne Partei sein. Deswegen musste sich der bis dato parteilose Pr\u00e4sident Jair Bolsonaro ein neues politisches Zuhause suchen. Nun ist er f\u00fcndig geworden. https://t.co/4ifJDQnCKK",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 214,
+            "end": 237,
+            "url": "https://t.co/4ifJDQnCKK",
+            "expanded_url": "https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-tritt-puenktlich-zur-wahl-wieder-einer-partei-bei-a-6ab82f73-82c1-4c55-b901-c8d4e49ca014?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/ausland/brasil\u2026"
+          }
+        ]
+      },
+      "id": "1465779056381628416",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 9,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T20:15:00.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465776395993239552",
+      "text": "Das Start-up Sushi Mobility baut Billig-E-Bikes. Daf\u00fcr verzichten die M\u00fcnchner auf manchen Komfort. Doch damit d\u00fcrften viele Fahrerinnen und Fahrer leben k\u00f6nnen \u2013 denn der Preis ist eine Kampfansage. (S+) https://t.co/wCb7w2QloJ",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 205,
+            "end": 228,
+            "url": "https://t.co/wCb7w2QloJ",
+            "expanded_url": "https://www.spiegel.de/auto/fahrberichte/ratgeber-rad-sushi-bikes-california-roll-a-8eaed5eb-aa32-443c-9bab-c20dc668ed4a",
+            "display_url": "spiegel.de/auto/fahrberic\u2026"
+          }
+        ]
+      },
+      "id": "1465776395993239552",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 5,
+        "like_count": 12,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T20:00:00.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596157181956",
+            "name": "Online Site"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "1286296657135468545",
+            "name": "TikTok"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "1286296657135468545",
+            "name": "TikTok"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465772622646419457",
+      "text": "Zehn Jahre nach ihrem Tod taucht Autorin und Multitalent Vera F. Birkenbihl auf TikTok auf\u2013 und erkl\u00e4rt Millionen von Nutzern, wie sie das eigene Hirn \u00fcberlisten oder Menschen \u00fcberzeugen. Was ist passiert? (S+)\nhttps://t.co/Sv5wPVip8R",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 211,
+            "end": 234,
+            "url": "https://t.co/Sv5wPVip8R",
+            "expanded_url": "https://www.spiegel.de/karriere/vera-f-birkenbihls-seltsames-comeback-tiktok-star-am-overheadprojektor-a-be746900-822b-4f41-ba7e-afd2c81558ae",
+            "display_url": "spiegel.de/karriere/vera-\u2026"
+          }
+        ]
+      },
+      "id": "1465772622646419457",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 2,
+        "like_count": 39,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 68,
+            "end": 82,
+            "tag": "insideaustria"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "mathieuvonrohr",
+            "id": "17152053"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T19:52:47.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465770806437466120",
+      "text": "RT @mathieuvonrohr: Wir freuen uns sehr, dass Apple unseren Podcast #insideaustria \u00fcber Aufstieg und Fall von Sebastian Kurz zu seinen Favo\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465684581689040896"
+        }
+      ],
+      "id": "1465770806437466120",
+      "public_metrics": {
+        "retweet_count": 23,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 15,
+            "end": 27,
+            "tag": "HitoSteyerl"
+          }
+        ],
+        "urls": [
+          {
+            "start": 142,
+            "end": 165,
+            "url": "https://t.co/Snb0tLj52J",
+            "expanded_url": "https://www.spiegel.de/kultur/hito-steyerl-auf-dem-humboldt-forum-bleibe-ich-sitzen-a-5edbeb00-e915-4fff-87ab-ccd1e03960cf",
+            "display_url": "spiegel.de/kultur/hito-st\u2026"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T19:45:00.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465768846715985924",
+      "text": "Die K\u00fcnstlerin #HitoSteyerl hat das Bundesverdienstkreuz abgelehnt. Sie war einfach zu w\u00fctend. Im Interview sagt sie, auf wen und warum. (S+) https://t.co/Snb0tLj52J",
+      "author_id": "2834511",
+      "id": "1465768846715985924",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 12,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T19:30:00.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465765074199482371",
+      "text": "Das Umweltbundesamt warnt: Ab kommendem Sommer lohnt es sich f\u00fcr viele Hausbesitzer nicht mehr, neue Kollektoren zu installieren. Doch es gibt Kniffe, mit denen sich der Sonnenstrom wieder rentiert. (S+) https://t.co/f53dEyOfYU",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 204,
+            "end": 227,
+            "url": "https://t.co/f53dEyOfYU",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/fotovoltaik-so-vermeiden-sie-dass-ihre-neue-solaranlage-zum-verlustgeschaeft-wird-a-757e3feb-4a29-47cc-b365-ba3a1e578f98",
+            "display_url": "spiegel.de/wirtschaft/fot\u2026"
+          }
+        ]
+      },
+      "id": "1465765074199482371",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 10,
+        "like_count": 12,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T19:15:00.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465761297371389958",
+      "text": "Der Milliard\u00e4r Charlie Munger spendiert eine Mega-Unterkunft f\u00fcr Studierende. Das Besondere: Nur sechs Prozent der Zimmer sollen ein Fenster haben. Ist das wirklich so schlimm? (S+) https://t.co/4tYqDk13XQ",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 182,
+            "end": 205,
+            "url": "https://t.co/4tYqDk13XQ",
+            "expanded_url": "https://www.spiegel.de/start/wohnen-im-studium-wenn-lueften-zum-luxus-wird-a-81417a58-70b5-4b42-bc3e-61f4c593ecb1",
+            "display_url": "spiegel.de/start/wohnen-i\u2026"
+          }
+        ]
+      },
+      "id": "1465761297371389958",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 7,
+        "like_count": 9,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T19:13:33.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1465760933649682434",
+      "text": "12.000 Euro wollte sich eine polnische Spedition erstreiten: Die deutsche Lkw-Maut sei falsch berechnet. Die Firma bekam nun teilweise Recht \u2013 aber nicht so viel Geld wie erhofft. https://t.co/4gnz8pJ23k",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 180,
+            "end": 203,
+            "url": "https://t.co/4gnz8pJ23k",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/lkw-maut-verstiess-2010-und-2011-gegen-eu-recht-a-d8c0d955-643b-49e1-a7ac-041ed36c77d3?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/wirtschaft/lkw\u2026"
+          }
+        ]
+      },
+      "id": "1465760933649682434",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 7,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 115,
+            "end": 119,
+            "tag": "IOC"
+          }
+        ],
+        "urls": [
+          {
+            "start": 217,
+            "end": 240,
+            "url": "https://t.co/bIgu3NClDk",
+            "expanded_url": "https://www.spiegel.de/sport/olympia/peking-2022-nada-warnt-vor-olympischen-spielen-vor-unabsichtlichem-doping-durch-fleisch-a-82818266-056d-4ef4-a94b-da3beac19b4d",
+            "display_url": "spiegel.de/sport/olympia/\u2026"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T19:00:02.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465757531205029888",
+      "text": "Die Nationale Anti Doping Agentur warnt Athleten vor unabsichtlichem Doping durch belastetes Fleisch in China. Das #IOC versichert zwar, das Problem im Griff zu haben \u2013 die Nada gibt dennoch Ern\u00e4hrungstipps aus.\n(S+) https://t.co/bIgu3NClDk",
+      "author_id": "2834511",
+      "id": "1465757531205029888",
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 4,
+        "like_count": 12,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T18:57:09.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1465756803908575233",
+      "text": "Ein Vorwurf, eine Leiche und Laser-Pointer am Grenzzaun zu Polen: Der belarussische Machthaber Alexander Lukaschenko versucht, die Grenzkrise mit der EU weiter anzuheizen. https://t.co/0YpTUVVirP",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 172,
+            "end": 195,
+            "url": "https://t.co/0YpTUVVirP",
+            "expanded_url": "https://www.spiegel.de/ausland/grenzkrise-alexander-lukaschenko-wirft-eu-hybriden-krieg-vor-a-4a85d480-a0a3-45b2-a730-cc594f1a63a6?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/ausland/grenzk\u2026"
+          }
+        ]
+      },
+      "id": "1465756803908575233",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 8,
+        "like_count": 13,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 0,
+            "end": 9,
+            "tag": "Juventus"
+          }
+        ],
+        "urls": [
+          {
+            "start": 218,
+            "end": 241,
+            "url": "https://t.co/T6LmW5uXvz",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/juventus-turin-in-der-krise-das-haessliche-gesicht-des-stilo-juve-a-6708f6e2-b466-408d-a3b8-31363000191f",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T18:45:00.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "6",
+            "name": "Sports Event"
+          },
+          "entity": {
+            "id": "1449169390067322881",
+            "name": "US Salernitana vs Juventus"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "731226212840833024",
+            "name": "Italy - Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "733756520261767169",
+            "name": "Serie A"
+          }
+        },
+        {
+          "domain": {
+            "id": "11",
+            "name": "Sport",
+            "description": "Types of sports, like soccer and basketball"
+          },
+          "entity": {
+            "id": "733756536430809088",
+            "name": "Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "12",
+            "name": "Sports Team",
+            "description": "A sports team organization, like Arsenal and the Boston Celtics"
+          },
+          "entity": {
+            "id": "731226195937779713",
+            "name": "Juventus FC"
+          }
+        },
+        {
+          "domain": {
+            "id": "26",
+            "name": "Sports League",
+            "description": ""
+          },
+          "entity": {
+            "id": "733756520261767169",
+            "name": "Serie A"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465753747049623552",
+      "text": "#Juventus steckt in der gr\u00f6\u00dften Krise seit dem Manipulationsskandal von 2006. Sportlich sind die Turiner abgeh\u00e4ngt. Nun wird gegen die Klubf\u00fchrung ermittelt: Wurde die Bilanz mit aufgeblasenen Transfers frisiert? (S+) https://t.co/T6LmW5uXvz",
+      "author_id": "2834511",
+      "id": "1465753747049623552",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 8,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T18:31:31.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465750356122550277",
+      "text": "RT @Peter_Ahrens: Ach, herrlich, \u2066@d_montazeri\u2069. Und dann stimmt es auch noch. https://t.co/Sm6bIB2Hm0",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465750094645506049"
+        }
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 79,
+            "end": 102,
+            "url": "https://t.co/Sm6bIB2Hm0",
+            "expanded_url": "https://www.spiegel.de/sport/fussball/ballon-d-or-lionel-messi-ist-der-logische-sieger-nicht-robert-lewandowski-a-b52abe3e-66d1-4d6b-a38e-5ad4bd1bc6d9?sara_ecid=soci_upd_KsBF0AFjflf0DZCxpPYDCQgO1dEMph",
+            "display_url": "spiegel.de/sport/fussball\u2026"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "Peter_Ahrens",
+            "id": "30433808"
+          },
+          {
+            "start": 34,
+            "end": 46,
+            "username": "d_montazeri",
+            "id": "153346943"
+          }
+        ]
+      },
+      "id": "1465750356122550277",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T18:31:29.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974596740190208",
+            "name": "CPG"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752773120",
+            "name": "Pharma"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10032761422",
+            "name": "Pfizer"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465750344537882625",
+      "text": "RT @ClausHecking: Der Kinder-Impfstoff soll nach SPIEGEL-Informationen fr\u00fcher kommen, Biontech und Pfizer wollen schneller liefern. Damit k\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465750313311350786"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "ClausHecking",
+            "id": "1101399690"
+          }
+        ]
+      },
+      "id": "1465750344537882625",
+      "public_metrics": {
+        "retweet_count": 14,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T18:30:00.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465749974738554881",
+      "text": "Geld versickert, wird zweckentfremdet, Aufseher stehen im Interessenkonflikt: Der Bundesrechnungshof-Bericht zur Deutschen Bahn ist niederschmetternd. Noch-Verkehrsminister Scheuer tr\u00e4gt demnach eine massive Mitschuld an der Misere. (S+) https://t.co/6uXc8RVzJ4",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 238,
+            "end": 261,
+            "url": "https://t.co/6uXc8RVzJ4",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rechnungshof-deckt-schwerwiegendes-missmanagement-auf-a-30adac45-6bb0-4353-bed4-95f88047cb43",
+            "display_url": "spiegel.de/wirtschaft/unt\u2026"
+          }
+        ]
+      },
+      "id": "1465749974738554881",
+      "public_metrics": {
+        "retweet_count": 33,
+        "reply_count": 41,
+        "like_count": 131,
+        "quote_count": 7
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T18:15:00.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465746196819955713",
+      "text": "Erpresser und andere Kriminelle m\u00fcssen keine Sicherheitsl\u00fccken finden, um in Netzwerke einzudringen. Sogenannte Access Broker verkaufen ihnen Zugangsdaten. Ein Experte hat sich im Untergrund umgesehen.\n(S+) https://t.co/qyiFqFl9sn",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 207,
+            "end": 230,
+            "url": "https://t.co/qyiFqFl9sn",
+            "expanded_url": "https://www.spiegel.de/netzwelt/web/access-broker-wo-kriminelle-gehackte-firmenzugaenge-fuer-zehn-dollar-verkaufen-a-64156fbf-844e-451a-bddd-382eefc55849",
+            "display_url": "spiegel.de/netzwelt/web/a\u2026"
+          }
+        ]
+      },
+      "id": "1465746196819955713",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 10,
+        "quote_count": 2
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T18:14:02.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974596740190208",
+            "name": "CPG"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752773120",
+            "name": "Pharma"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10032761422",
+            "name": "Pfizer"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465745956364853252",
+      "text": "Biontech und Pfizer wollen den Impfstoff f\u00fcr die F\u00fcnf- bis Elfj\u00e4hrigen schneller als geplant liefern. Damit k\u00f6nnten Tausende Kinder noch vor Weihnachten erstimmunisiert werden. https://t.co/yyC1Bri2p5",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 177,
+            "end": 200,
+            "url": "https://t.co/yyC1Bri2p5",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/coronavirus-kinderimpfungen-in-deutschland-koennen-voraussichtlich-frueher-starten-a-7f9cb3a2-9d98-4b41-afe5-283b4a85d252",
+            "display_url": "spiegel.de/wirtschaft/cor\u2026"
+          }
+        ]
+      },
+      "id": "1465745956364853252",
+      "public_metrics": {
+        "retweet_count": 33,
+        "reply_count": 65,
+        "like_count": 163,
+        "quote_count": 7
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T18:11:29.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781972125171060736",
+            "name": "Auto"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597302226944",
+            "name": "Transportation"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781972125179518977",
+            "name": "Auto Manufacturer"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026490686",
+            "name": "BMW"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847528391163092993",
+            "name": "Automotive",
+            "description": "Car culture"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "847528646185070592",
+            "name": "Luxury Cars",
+            "description": "Luxury"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781972125171060736",
+            "name": "Auto"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781972125179518977",
+            "name": "Auto Manufacturer"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026490686",
+            "name": "BMW"
+          }
+        },
+        {
+          "domain": {
+            "id": "48",
+            "name": "Product",
+            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+          },
+          "entity": {
+            "id": "10045512590",
+            "name": "BMW USA"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465745314153906188",
+      "text": "Es ist mehr als f\u00fcnf Meter lang, etwa 2,5 Tonnen schwer und sieht aggressiv aus: BMWs neues XXL-SUV Concept XM hat eine Welle der Emp\u00f6rung ausgel\u00f6st. Offiziell gilt der Wagen indes als besonders umweltfreundlich. https://t.co/9XluSeOLAJ",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 213,
+            "end": 236,
+            "url": "https://t.co/9XluSeOLAJ",
+            "expanded_url": "https://www.spiegel.de/auto/bmw-concept-xm-hersteller-erntet-kritik-fuer-monstroeses-suv-a-dc8a6fd5-25cf-47e7-8416-e7a5508fd420",
+            "display_url": "spiegel.de/auto/bmw-conce\u2026"
+          }
+        ]
+      },
+      "id": "1465745314153906188",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 69,
+        "like_count": 36,
+        "quote_count": 4
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T18:02:06.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465742952110727172",
+      "text": "RT @capt_soph: S\u00fcdafrika ist nach Entdeckung der neuen Variante zunehmend isoliert \u2013 dabei hat die Regierung vorbildlich gehandelt. Experti\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465742917583179779"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "capt_soph",
+            "id": "122052533"
+          }
+        ]
+      },
+      "id": "1465742952110727172",
+      "public_metrics": {
+        "retweet_count": 14,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 92,
+            "end": 108,
+            "tag": "OmikronVariante"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "JanitaHaem",
+            "id": "555166193"
+          },
+          {
+            "start": 66,
+            "end": 82,
+            "username": "StellenboschUni",
+            "id": "41184483"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T17:51:49.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465740363327496196",
+      "text": "RT @JanitaHaem: Ich sprach mit dem Virologen Wolfgang Preiser von @StellenboschUni \u00fcber die\n#OmikronVariante \u00bbSo viele Mutationen haben wir\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465738286501179401"
+        }
+      ],
+      "id": "1465740363327496196",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 13,
+            "end": 21,
+            "tag": "Moderna"
+          },
+          {
+            "start": 122,
+            "end": 131,
+            "tag": "Biontech"
+          }
+        ],
+        "urls": [
+          {
+            "start": 188,
+            "end": 211,
+            "url": "https://t.co/owxaD0JJRI",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/omikron-biontech-erwartet-schutz-vor-schweren-infektionen-mit-neuer-corona-variante-a-c266a84c-73eb-4eef-8855-36930b1ea254?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/wirtschaft/omi\u2026"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T17:51:43.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "1329442527796031488",
+            "name": "Moderna"
+          }
+        },
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465740336693719042",
+      "text": "Der Chef von #Moderna, St\u00e9phane Bancel, ist skeptisch, ob sein Impfstoff vor der Omikron-Variante sch\u00fctzt. U\u011fur \u015eahin von #Biontech \u00e4u\u00dferte sich nun in einem deutlich optmistischeren Ton. https://t.co/owxaD0JJRI",
+      "author_id": "2834511",
+      "id": "1465740336693719042",
+      "public_metrics": {
+        "retweet_count": 30,
+        "reply_count": 31,
+        "like_count": 133,
+        "quote_count": 10
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T17:27:00.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465734117425778692",
+      "text": "Die Karlsruher Richter haben die \u00bbBundesnotbremse\u00ab gebilligt. Warum die Politik sich nicht zu sicher sein sollte, mit k\u00fcnftigen Ma\u00dfnahmen gleicherma\u00dfen durchzukommen. (S+) https://t.co/KbYz3lClvz",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 172,
+            "end": 195,
+            "url": "https://t.co/KbYz3lClvz",
+            "expanded_url": "https://www.spiegel.de/panorama/bundesverfassungsgericht-zu-corona-massnahmen-warum-dieses-urteil-kein-freifahrtschein-ist-a-f8dc6b2b-4f56-4bf6-a711-db29947067d9",
+            "display_url": "spiegel.de/panorama/bunde\u2026"
+          }
+        ]
+      },
+      "id": "1465734117425778692",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 5,
+        "like_count": 13,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T17:22:04.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1465732877639774208",
+      "text": "Mercedes will bessere Batterien f\u00fcr seine Elektroautos. Dazu hat sich der Autohersteller bei dem US-Unternehmen Factorial eingekauft \u2013 zusammen mit dem Mutterkonzern von Opel. https://t.co/SrHmCohsBv",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 176,
+            "end": 199,
+            "url": "https://t.co/SrHmCohsBv",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/feststoffbatterie-mercedes-benz-und-stellantis-kooperieren-mit-factorial-a-85323ffb-8d6b-418c-908b-7b33f9a9081c?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/wirtschaft/fes\u2026"
+          }
+        ]
+      },
+      "id": "1465732877639774208",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 6,
+        "like_count": 15,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T17:12:31.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465730472064000005",
+      "text": "Es war ein Verbrechen am helllichten Tag: In Hannover hat der Prozess gegen einen 33-J\u00e4hrigen begonnen, der an einer Ampelkreuzung einen Porschefahrer erschoss. F\u00fcr seinen Verteidiger ist der Fall klar. (S+) https://t.co/qf29w9rdHV",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 208,
+            "end": 231,
+            "url": "https://t.co/qf29w9rdHV",
+            "expanded_url": "https://www.spiegel.de/panorama/justiz/prozessauftakt-in-hannover-nach-toedlichen-schuessen-mitten-auf-kreuzung-selbstjustiz-auf-dem-asphalt-a-abd960be-3bf5-44da-8354-53bd51adb7ed",
+            "display_url": "spiegel.de/panorama/justi\u2026"
+          }
+        ]
+      },
+      "id": "1465730472064000005",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 14,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 57,
+            "tag": "Omikron"
+          }
+        ],
+        "urls": [
+          {
+            "start": 238,
+            "end": 261,
+            "url": "https://t.co/vw1k3FpWCZ",
+            "expanded_url": "https://www.spiegel.de/ausland/neue-coronavariante-wie-der-umgang-mit-suedafrika-die-pandemiebekaempfung-gefaehrdet-a-d704378a-25cd-4c5e-b7d7-840897091b23",
+            "display_url": "spiegel.de/ausland/neue-c\u2026"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T17:00:01.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465727329662124033",
+      "text": "S\u00fcdafrika ist nach Entdeckung der neuen Variante #Omikron zunehmend isoliert \u2013 dabei hat die Regierung vorbildlich gehandelt. Expertin Melanie M\u00fcller bef\u00fcrchtet, andere Staaten k\u00f6nnten ihre Corona-Informationen k\u00fcnftig zur\u00fcckhalten. (S+) https://t.co/vw1k3FpWCZ",
+      "author_id": "2834511",
+      "id": "1465727329662124033",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 7,
+        "like_count": 39,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T16:58:06.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "conversation_id": "1465726844225789955",
+      "text": "Eine allgemeine Corona-Impfpflicht, 2G im Einzelhandel: Nach gemeinsamen Beratungen wollen Bund und L\u00e4nder rasch neue Ma\u00dfnahmen gegen die Coronakrise auf den Weg bringen. Nicht nur Bayerns Ministerpr\u00e4sident begr\u00fc\u00dft das. https://t.co/i4LMaFddAF",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 220,
+            "end": 243,
+            "url": "https://t.co/i4LMaFddAF",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/corona-beratungen-von-bund-und-laendern-was-die-beteiligten-sagen-a-4a0ee95d-b558-4133-ab67-1b1e134efe4e?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      },
+      "id": "1465726844225789955",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 8,
+        "like_count": 23,
+        "quote_count": 2
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T16:58:05.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1465726839838498823",
+      "text": "So richtig jubeln konnte Schach-Weltmeister Magnus Carlsen an seinem Geburtstag nicht: Auch im vierten WM-Duell gegen Jan Nepomnjaschtschi kam der Norweger nicht \u00fcber ein Unentschieden hinaus. https://t.co/6jQtb9wD1e",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 193,
+            "end": 216,
+            "url": "https://t.co/6jQtb9wD1e",
+            "expanded_url": "https://www.spiegel.de/sport/magnus-carlsen-bei-der-schach-wm-zum-geburtstag-gibt-es-ein-remis-a-ce1535e1-5a6a-4aec-9f5e-158d5600cb53?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/magnus-c\u2026"
+          }
+        ]
+      },
+      "id": "1465726839838498823",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 14,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T16:56:30.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "887779778912165888",
+            "name": "Markus S\u00f6der",
+            "description": "Markus S\u00f6der"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "887779778912165888",
+            "name": "Markus S\u00f6der",
+            "description": "Markus S\u00f6der"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465726443720220684",
+      "text": "Bayerns Ministerpr\u00e4sident Markus S\u00f6der sprach im Anschluss an die mehrst\u00fcndige Schalte von Bund und L\u00e4ndern am Dienstagnachmittag von einem guten und produktiven Gespr\u00e4ch. \u00bbDie Richtung stimmt\u00ab, sagte der CSU-Chef. https://t.co/No06YS3Nys",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 215,
+            "end": 238,
+            "url": "https://t.co/No06YS3Nys",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/corona-beratungen-von-bund-und-laendern-was-die-beteiligten-sagen-a-4a0ee95d-b558-4133-ab67-1b1e134efe4e",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      },
+      "id": "1465726443720220684",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 4,
+        "like_count": 15,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T16:46:10.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465723840399556621",
+      "text": "Schulschlie\u00dfungen waren in Deutschland eine der wesentlichen Ma\u00dfnahmen zur Pandemiebek\u00e4mpfung. Dass es auch anders geht, zeigt ein Vergleich des Ifo-Instituts mit sechs weiteren europ\u00e4ischen L\u00e4ndern. https://t.co/WB5qKD7r2A",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 200,
+            "end": 223,
+            "url": "https://t.co/WB5qKD7r2A",
+            "expanded_url": "https://www.spiegel.de/panorama/bildung/ifo-institut-schulschliessungen-betrafen-kinder-in-deutschland-staerker-als-in-anderen-laendern-a-7e7f22b0-f5f9-40b6-ba6d-12a3f4eea86c",
+            "display_url": "spiegel.de/panorama/bildu\u2026"
+          }
+        ]
+      },
+      "id": "1465723840399556621",
+      "public_metrics": {
+        "retweet_count": 17,
+        "reply_count": 8,
+        "like_count": 56,
+        "quote_count": 3
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T16:11:08.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1465715025054625796",
+      "text": "Er sa\u00df auf dem Motor seines Bootes und hielt sich an einem Teil der Schiffsschraube fest: Die japanische K\u00fcstenwache hat einen 69-J\u00e4hrigen aus einer Notlage geborgen. Retter staunen \u00fcber seine \u00bb\u00dcberlebensf\u00e4higkeit\u00ab. https://t.co/cDMvJPimAQ",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 216,
+            "end": 239,
+            "url": "https://t.co/cDMvJPimAQ",
+            "expanded_url": "https://www.spiegel.de/panorama/japan-mann-nach-22-stunden-aus-seenot-gerettet-a-4b6b77d5-f3d4-46a5-aeea-95b164417227?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/japan\u2026"
+          }
+        ]
+      },
+      "id": "1465715025054625796",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 19,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T16:01:04.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1465712492152123402",
+      "text": "Von der Brummi- zur Summi-Flotte: Das Logistikunternehmen DB Schenker will rund 1500 elektrisch betriebene Trucks kaufen. Sie sollen unter anderem im Ruhrgebiet fahren. https://t.co/jA1sxZ3ILt",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 169,
+            "end": 192,
+            "url": "https://t.co/jA1sxZ3ILt",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/unternehmen/db-schenker-ordert-1500-elektrolastwagen-a-82f1bba8-be68-42b5-a554-251f97ec2225?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/wirtschaft/unt\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1465712506085646350/gClahuAl?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1465712506085646350/gClahuAl?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "DB Schenker ordert 1500 Elektrolastwagen",
+            "description": "Von der Brummi- zur Summi-Flotte: Das Logistikunternehmen DB Schenker will rund 1500 elektrisch betriebene Trucks kaufen. Sie sollen unter anderem im Ruhrgebiet fahren.",
+            "unwound_url": "https://www.spiegel.de/wirtschaft/unternehmen/db-schenker-ordert-1500-elektrolastwagen-a-82f1bba8-be68-42b5-a554-251f97ec2225?utm_source=dlvr.it&utm_medium=twitter#ref=rss"
+          }
+        ]
+      },
+      "id": "1465712492152123402",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 5,
+        "like_count": 43,
+        "quote_count": 4
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T15:52:05.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1465710232701599750",
+      "text": "Eigentlich sollte das Weihnachtskonzert der Herzogin im \u00f6ffentlich-rechtlichen Fernsehen laufen. Doch nun landen die \u00dcbertragungsrechte bei einem anderen Sender. Ein Grund k\u00f6nnte eine kritische Doku sein. https://t.co/219RkuH65j",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 205,
+            "end": 228,
+            "url": "https://t.co/219RkuH65j",
+            "expanded_url": "https://www.spiegel.de/panorama/leute/grossbritannien-royals-wenden-sich-von-der-bbc-ab-weihnachtskonzert-bei-itv-a-f964edba-5ac3-4943-8543-83fe95ad5e09?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/leute\u2026"
+          }
+        ]
+      },
+      "id": "1465710232701599750",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 15,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T15:52:03.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1465710224241676294",
+      "text": "Auf drei Kilometern entlang der polnischen Grenze zu Belarus ist der Zugang f\u00fcr Journalisten und Hilfsorganisationen verboten. Kurz vor Auslaufen dieses Ausnahmezustands hat das Parlament in Warschau einem neuen Gesetz zugestimmt. https://t.co/dP9ZfJMn3K",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 231,
+            "end": 254,
+            "url": "https://t.co/dP9ZfJMn3K",
+            "expanded_url": "https://www.spiegel.de/ausland/polens-parlament-verabschiedet-gesetz-zum-schutz-der-grenze-a-6a4c65bb-80e3-46d6-af7b-be84178fb408?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/ausland/polens\u2026"
+          }
+        ]
+      },
+      "id": "1465710224241676294",
+      "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 17,
+        "like_count": 19,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T15:47:48.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465709152068517899",
+      "text": "RT @SPIEGEL_EIL: EIL: Eigentlich war die n\u00e4chste Konferenz der Ministerpr\u00e4sidenten erst f\u00fcr den 9. Dezember geplant. Nun wollen Bund und L\u00e4\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465709089581793285"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "SPIEGEL_EIL",
+            "id": "14454247"
+          }
+        ]
+      },
+      "id": "1465709152068517899",
+      "public_metrics": {
+        "retweet_count": 19,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T15:43:03.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "809510672136450048",
+            "name": "Tiger Woods",
+            "description": "Tiger Woods"
+          }
+        },
+        {
+          "domain": {
+            "id": "60",
+            "name": "Athlete",
+            "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+          },
+          "entity": {
+            "id": "809510672136450048",
+            "name": "Tiger Woods",
+            "description": "Tiger Woods"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "conversation_id": "1465707957442596877",
+      "text": "Nach einem schweren Crash verlor Tiger Woods fast ein Bein, seine Karriere schien beendet. Doch nun spricht er \u00fcber eine m\u00f6gliche R\u00fcckkehr \u2013 und die Golfwelt ist elektrisiert. https://t.co/1mF4AB3oBS",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 176,
+            "end": 199,
+            "url": "https://t.co/1mF4AB3oBS",
+            "expanded_url": "https://www.spiegel.de/sport/tiger-woods-die-sehnsucht-nach-einem-weiteren-magischen-moment-golf-superstars-a-1cd2b11d-d186-469a-91bd-546c18af367d?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/sport/tiger-wo\u2026"
+          }
+        ]
+      },
+      "id": "1465707957442596877",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 11,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T15:35:07.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026461178",
+            "name": "PricewaterhouseCoopers"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "conversation_id": "1465705960157024258",
+      "text": "Gegen mehrere Mitarbeiter von PricewaterhouseCoopers wird ermittelt: Sie sollen Beratungsleistungen \u00fcber eine Schweizer Gesellschaft abgerechnet haben, um Steuern zu sparen. https://t.co/yuR0KRqTl9",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 174,
+            "end": 197,
+            "url": "https://t.co/yuR0KRqTl9",
+            "expanded_url": "https://www.spiegel.de/wirtschaft/pwc-verdacht-auf-steuerhinterziehung-staatsanwaltschaft-durchsucht-beratungsfirma-pricewaterhousecoopers-a-b9e29f52-d2f9-4df3-8fed-86e8f23cdf7e?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/wirtschaft/pwc\u2026"
+          }
+        ]
+      },
+      "id": "1465705960157024258",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 1,
+        "like_count": 24,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T15:20:07.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1465702188156534800",
+      "text": "Gerhard Schr\u00f6der hat ein Fenster f\u00fcr die Marktkirche in Hannover finanziert. Der Erbe des Architekten wehrte sich gegen den Einbau. Nach mehreren Jahren fanden die Parteien nun einen Kompromiss. https://t.co/sPfGYepq7B",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 195,
+            "end": 218,
+            "url": "https://t.co/sPfGYepq7B",
+            "expanded_url": "https://www.spiegel.de/kultur/von-altkanzler-gerhard-schroeder-gestiftet-kirchenfenster-wird-nach-rechtsstreit-nun-doch-eingebaut-a-b7de7f31-2a2b-48c3-87b5-a6065ec323c1?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/kultur/von-alt\u2026"
+          }
+        ]
+      },
+      "id": "1465702188156534800",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 13,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T15:20:05.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "846746507516653569",
+            "name": "Karl Lagerfeld",
+            "description": "Karl Lagerfeld"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "844603730221707264",
+            "name": "Fashion",
+            "description": "Fashion"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "846427983237672960",
+            "name": "Fashion Brand",
+            "description": "Fashion Brand"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "conversation_id": "1465702179398832139",
+      "text": "Karl Lagerfeld l\u00e4sterte gern, war aber diskret, wenn es um Privates ging. Nun werden seine Silberl\u00f6ffel, seine Tischdecken und die Kissen seiner Katze versteigert. Wer im Katalog bl\u00e4ttert, erf\u00e4hrt Erstaunliches \u00fcber seinen Stil. https://t.co/XjCd9WNJ8U",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 229,
+            "end": 252,
+            "url": "https://t.co/XjCd9WNJ8U",
+            "expanded_url": "https://www.spiegel.de/kultur/karl-lagerfelds-hausrat-wird-versteigert-rolls-royces-und-andere-staubfaenger-a-77671963-a6fc-4621-9c60-638767a80026?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/kultur/karl-la\u2026"
+          }
+        ]
+      },
+      "id": "1465702179398832139",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 14,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T15:16:16.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465701219624648710",
+      "text": "Schlechte Voraussetzungen f\u00fcr eine Verkehrswende: Selbst wenn der Weg zum Job sehr kurz ist, nimmt die Mehrheit der Pendler den Wagen. Das Fahrrad holt allerdings auf. https://t.co/mDYTfepT3o",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 168,
+            "end": 191,
+            "url": "https://t.co/mDYTfepT3o",
+            "expanded_url": "https://www.spiegel.de/auto/berufspendler-fahren-auch-auf-kurzen-strecken-am-liebsten-auto-a-dfbac72b-2614-40d1-8e7e-5635561c648d",
+            "display_url": "spiegel.de/auto/berufspen\u2026"
+          }
+        ]
+      },
+      "id": "1465701219624648710",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 28,
+        "like_count": 47,
+        "quote_count": 5
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T15:11:06.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1465699918337626116",
+      "text": "Soll das gr\u00f6\u00dfte Korallenriff der Welt als gef\u00e4hrdet eingestuft werden? Australien sperrt sich vehement gegen diesen Plan. Nun versuchte es die Regierung mit einem neuen Trick \u2013 und scheiterte. Zumindest ein bisschen. https://t.co/ReAt1YuCM9",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 217,
+            "end": 240,
+            "url": "https://t.co/ReAt1YuCM9",
+            "expanded_url": "https://www.spiegel.de/wissenschaft/natur/great-barrier-reef-in-australien-streit-um-unesco-weltnaturerbe-a-ad2baf9c-ffe5-412a-9cd1-afbbfb326a40?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/wissenschaft/n\u2026"
+          }
+        ]
+      },
+      "id": "1465699918337626116",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 17,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T14:55:26.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465695976144846849",
+      "text": "RT @beimwort: News: Habecks Staatsekret\u00e4rInnen stehen. Anja Hajduk, Sven Giegold, Udo Philipp und Patrick Graichen sollen es werden. Zweima\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465695518252683275"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "beimwort",
+            "id": "68404031"
+          }
+        ]
+      },
+      "id": "1465695976144846849",
+      "public_metrics": {
+        "retweet_count": 31,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T14:51:05.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1465694879867015169",
+      "text": "Der designierte Transformationsminister Robert Habeck best\u00fcckt sein Haus: Er will nach SPIEGEL-Informationen einen Energieexperten, einen f\u00fchrenden Gr\u00fcnen \u2013 und Verst\u00e4rkung aus seinem Heimatland holen. https://t.co/A4d1iZ09aR",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 202,
+            "end": 225,
+            "url": "https://t.co/A4d1iZ09aR",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/robert-habeck-die-vier-spitzenbeamten-fuer-sein-ministerium-stehen-fest-a-dc09f060-f561-42bc-b25c-3c0c04030d1e?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/politik/deutsc\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1465694886200369160/SgphXblX?format=jpg&name=orig",
+                "width": 1280,
+                "height": 723
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1465694886200369160/SgphXblX?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Robert Habeck: Die vier Spitzenbeamten f\u00fcr sein Ministerium stehen fest",
+            "description": "Der designierte Transformationsminister Robert Habeck best\u00fcckt sein Haus: Er will nach SPIEGEL-Informationen einen Energieexperten, einen f\u00fchrenden Gr\u00fcnen \u2013 und Verst\u00e4rkung aus seinem Heimatland holen.",
+            "unwound_url": "https://www.spiegel.de/politik/deutschland/robert-habeck-die-vier-spitzenbeamten-fuer-sein-ministerium-stehen-fest-a-dc09f060-f561-42bc-b25c-3c0c04030d1e?utm_source=dlvr.it&utm_medium=twitter#ref=rss"
+          }
+        ]
+      },
+      "id": "1465694879867015169",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 14,
+        "like_count": 17,
+        "quote_count": 4
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T14:51:03.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "88",
+            "name": "Political Body",
+            "description": "A section of a government, like The Supreme Court"
+          },
+          "entity": {
+            "id": "1016738021939351558",
+            "name": "North Atlantic Treaty Organization",
+            "description": "North Atlantic Treaty Organization"
+          }
+        }
+      ],
+      "source": "dlvr.it",
+      "conversation_id": "1465694872443129857",
+      "text": "Die Nato beobachtet eine erh\u00f6hte russische Milit\u00e4rpr\u00e4senz an der Grenze zur Ukraine. Das B\u00fcndnis bezeichnet Russlands Verhalten als aggressiv, Moskau warnt das Staatenb\u00fcndnis vor dem \u00dcberschreiten \u00bbroter Linien\u00ab. https://t.co/Gph2NEbK7L",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 213,
+            "end": 236,
+            "url": "https://t.co/Gph2NEbK7L",
+            "expanded_url": "https://www.spiegel.de/ausland/nato-treffen-heiko-maas-und-antony-blinken-warnen-russland-vor-angriff-auf-ukraine-a-87fedd3d-9a45-4c27-851a-7c11f964477f?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/ausland/nato-t\u2026"
+          }
+        ]
+      },
+      "id": "1465694872443129857",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 8,
+        "like_count": 20,
+        "quote_count": 2
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T14:34:03.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1278685520197898240",
+            "name": "Ghislaine Maxwell"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465690592034242565",
+      "text": "RT @mpitzke: Ghislaine Maxwell, Jeffrey Epsteins Ex-Freundin und Tochter des britischen Medienmoguls Robert Maxwell, steht in NYC wegen Sex\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465690276131966980"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "mpitzke",
+            "id": "16347908"
+          }
+        ]
+      },
+      "id": "1465690592034242565",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T14:27:04.000Z",
+      "source": "dlvr.it",
+      "conversation_id": "1465688838366326793",
+      "text": "Der Koalitionsvertrag verspricht einen \u00bbParadigmenwechsel\u00ab in der Asyl- und Migrationspolitik. Wird nun alles anders? Nein, sagt der Juraprofessor Daniel Thym. https://t.co/9EBa1sdCRS",
+      "author_id": "2834511",
+      "entities": {
+        "urls": [
+          {
+            "start": 160,
+            "end": 183,
+            "url": "https://t.co/9EBa1sdCRS",
+            "expanded_url": "https://www.spiegel.de/panorama/experte-thym-zur-migrationspolitik-die-ampel-ist-viel-naeher-am-kurs-von-frau-merkel-als-manchem-vermutlich-lieb-ist-a-45f50a9c-f4a2-4a6d-8c52-c187610ff279?utm_source=dlvr.it&utm_medium=twitter#ref=rss",
+            "display_url": "spiegel.de/panorama/exper\u2026"
+          }
+        ]
+      },
+      "id": "1465688838366326793",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 5,
+        "like_count": 5,
+        "quote_count": 1
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T14:20:09.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1439961464555466753",
+            "name": "Olaf Scholz"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "1439961464555466753",
+            "name": "Olaf Scholz"
+          }
+        },
+        {
+          "domain": {
+            "id": "38",
+            "name": "Political Race",
+            "description": ""
+          },
+          "entity": {
+            "id": "1439959177003089924",
+            "name": "Bundestagswahl 2021"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465687095922495491",
+      "text": "RT @gebauerspon: Mit einem General an der Spitze eines neuen Krisenstabs will der designierte Kanzler @OlafScholz die Impfkampagne endlich\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465686435978264587"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "gebauerspon",
+            "id": "255187660"
+          },
+          {
+            "start": 102,
+            "end": 113,
+            "username": "OlafScholz",
+            "id": "38150247"
+          }
+        ]
+      },
+      "id": "1465687095922495491",
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 61,
+            "end": 74,
+            "tag": "Impfkampagne"
+          },
+          {
+            "start": 101,
+            "end": 108,
+            "tag": "Scholz"
+          },
+          {
+            "start": 201,
+            "end": 213,
+            "tag": "Impfpflicht"
+          }
+        ],
+        "urls": [
+          {
+            "start": 214,
+            "end": 237,
+            "url": "https://t.co/041HkIX8yK",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/corona-beratungen-olaf-scholz-fuer-allgemeine-impfpflicht-a-8aaefbff-506c-4dc5-86eb-1467ab971b95",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      },
+      "in_reply_to_user_id": "2834511",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T14:15:12.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "88",
+            "name": "Political Body",
+            "description": "A section of a government, like The Supreme Court"
+          },
+          "entity": {
+            "id": "1099777660912263168",
+            "name": "German Bundestag",
+            "description": "The Bundestag is the German federal parliament."
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465674070968651785",
+      "text": "Apotheker, Zahn\u00e4rzte oder Tier\u00e4rzte sollten in die stockende #Impfkampagne mit einbezogen werden, so #Scholz: \u00bbWenn ich den Bundestag richtig verstehe, ist er bereit, das jetzt auf den Weg zu bringen\u00ab #Impfpflicht https://t.co/041HkIX8yK",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1465676063800016904"
+        }
+      ],
+      "id": "1465685848289165325",
+      "public_metrics": {
+        "retweet_count": 11,
+        "reply_count": 17,
+        "like_count": 120,
+        "quote_count": 11
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T14:13:45.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465685487469924353",
+      "text": "RT @sefi99: Scholz spricht sich in Beratungen mit Merkel und MPs nach @derspiegel Informationen f\u00fcr allgemeine Impfpflicht aus. Sollte aus\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465676182393966596"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "sefi99",
+            "id": "156922747"
+          },
+          {
+            "start": 70,
+            "end": 81,
+            "username": "derspiegel",
+            "id": "2834511"
+          }
+        ]
+      },
+      "id": "1465685487469924353",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 5,
+            "end": 12,
+            "tag": "Scholz"
+          }
+        ],
+        "urls": [
+          {
+            "start": 210,
+            "end": 233,
+            "url": "https://t.co/041HkIX8yK",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/corona-beratungen-olaf-scholz-fuer-allgemeine-impfpflicht-a-8aaefbff-506c-4dc5-86eb-1467ab971b95",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      },
+      "in_reply_to_user_id": "2834511",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T13:36:19.000Z",
+      "source": "TweetDeck",
+      "conversation_id": "1465674070968651785",
+      "text": "Olaf #Scholz nach SPIEGEL-Informationen zu einer allgemeinen Impfpflicht: \u00bbSie sollte beginnen, wenn jeder eine realistische Chance hatte, sich 2x impfen zu lassen. Das m\u00fcsste uns bis Anfang Februar gelingen.\u00ab https://t.co/041HkIX8yK",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1465674070968651785"
+        }
+      ],
+      "id": "1465676063800016904",
+      "public_metrics": {
+        "retweet_count": 26,
+        "reply_count": 30,
+        "like_count": 180,
+        "quote_count": 20
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T13:30:24.000Z",
+      "source": "Twitter Web App",
+      "conversation_id": "1465674577267335176",
+      "text": "RT @PatrickBeuth: HP hat Firmware-Updates f\u00fcr mehr als 150 seiner Multifunktionsdrucker ver\u00f6ffentlicht. @FSecure hatte 2 Sicherheitsl\u00fccken\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465674148689100809"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "PatrickBeuth",
+            "id": "84111950"
+          },
+          {
+            "start": 104,
+            "end": 112,
+            "username": "FSecure",
+            "id": "63490987"
+          }
+        ]
+      },
+      "id": "1465674577267335176",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 119,
+            "end": 133,
+            "tag": "CarstenBreuer"
+          }
+        ],
+        "urls": [
+          {
+            "start": 216,
+            "end": 239,
+            "url": "https://t.co/FHc6x3aI4m",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/carsten-breuer-general-corona-soll-es-richten-a-c9e2b7a6-9827-4b41-be37-dd02e66cbbac",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T13:30:00.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1439961464555466753",
+            "name": "Olaf Scholz"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "1439961464555466753",
+            "name": "Olaf Scholz"
+          }
+        },
+        {
+          "domain": {
+            "id": "38",
+            "name": "Political Race",
+            "description": ""
+          },
+          "entity": {
+            "id": "1439959177003089924",
+            "name": "Bundestagswahl 2021"
+          }
+        },
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465674475521859588",
+      "text": "\u00dcberraschend besetzt der designierte Kanzler den Chefposten des neuen Corona-Krisenstabs mit einem Bundeswehr-General. #CarstenBreuer gilt als beherzter Anpacker \u2013 davon w\u00fcrde auch Olaf Scholz gern profitieren. (S+) https://t.co/FHc6x3aI4m",
+      "author_id": "2834511",
+      "id": "1465674475521859588",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 14,
+        "like_count": 24,
+        "quote_count": 2
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 48,
+            "end": 55,
+            "tag": "Scholz"
+          },
+          {
+            "start": 107,
+            "end": 119,
+            "tag": "Impfpflicht"
+          }
+        ],
+        "urls": [
+          {
+            "start": 218,
+            "end": 241,
+            "url": "https://t.co/041HkIX8yK",
+            "expanded_url": "https://www.spiegel.de/politik/deutschland/corona-beratungen-olaf-scholz-fuer-allgemeine-impfpflicht-a-8aaefbff-506c-4dc5-86eb-1467ab971b95",
+            "display_url": "spiegel.de/politik/deutsc\u2026"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T13:28:24.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1465674070968651785",
+      "text": "Corona-Beratungen:\u00a0K\u00fcnftiger Bundeskanzler Olaf #Scholz fordert nach SPIEGEL-Informationen eine allgemeine #Impfpflicht: \u00bbIch als Abgeordneter werde ihr jedenfalls zustimmen, um das ganz klar zu sagen.\u00ab In K\u00fcrze mehr: https://t.co/041HkIX8yK",
+      "author_id": "2834511",
+      "id": "1465674070968651785",
+      "public_metrics": {
+        "retweet_count": 125,
+        "reply_count": 141,
+        "like_count": 1238,
+        "quote_count": 65
+      }
+    },
+    {
+      "possibly_sensitive": false,
+      "lang": "de",
+      "reply_settings": "everyone",
+      "created_at": "2021-11-30T13:16:40.000Z",
+      "source": "Twitter Web App",
+      "conversation_id": "1465671121337040897",
+      "text": "RT @PatrickBeuth: Hereinspaziert! Access Broker verkaufen RDP-, VPN-, Webmail- und andere Zugangsdaten von Firmen, Unis und Beh\u00f6rden f\u00fcr 'n\u2026",
+      "author_id": "2834511",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1465667707328737282"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "PatrickBeuth",
+            "id": "84111950"
+          }
+        ]
+      },
+      "id": "1465671121337040897",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    }
+  ],
+  "meta": {
+    "oldest_id": "1465671121337040897",
+    "newest_id": "1466026631915524097",
+    "result_count": 100,
+    "next_token": "7140dibdnow9c7btw3z3avrxq2hs560yurxhomv9wgpiv",
+    "previous_token": "77qpymm88g5h9vqkluoerdd7oaawevhokgxnnzjtjnjg7"
+  }
+}

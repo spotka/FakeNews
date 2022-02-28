@@ -1,0 +1,5132 @@
+{
+  "data": [
+    {
+      "source": "ZEITonline",
+      "id": "1463466778273669123",
+      "created_at": "2021-11-24T11:17:24.000Z",
+      "lang": "de",
+      "text": "Die Politik hat den Sommer nicht genutzt, um sich auf eine neue #Corona-Welle vorzubereiten. Die Folgen sind dramatisch. Nun helfen nur noch drastische Ma\u00dfnahmen. Auch \u00fcber eine Impfpflicht muss diskutiert werden, findet unser Autor. https://t.co/2FJ7LDKFol",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 234,
+            "end": 257,
+            "url": "https://t.co/2FJ7LDKFol",
+            "expanded_url": "https://www.zeit.de/2021/48/corona-impfpflicht-politik-versaeumnisse-massnahmen?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/2021/48/corona\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 64,
+            "end": 71,
+            "tag": "Corona"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463466778273669123",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 16,
+        "like_count": 28,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463466193621237763",
+      "created_at": "2021-11-24T11:15:05.000Z",
+      "lang": "de",
+      "text": "Angesichts steigender Neuinfektionszahlen haben sich Politiker und Politikerinnen f\u00fcr eine allgemeine #Impfpflicht ausgesprochen. SPD-Gesundheitsexperte Karl #Lauterbach sagte, eine Impfpflicht sei aus seiner Sicht langfristig unverzichtbar. https://t.co/QJ72hPxLRe",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 242,
+            "end": 265,
+            "url": "https://t.co/QJ72hPxLRe",
+            "expanded_url": "https://trib.al/O5NowMn",
+            "display_url": "trib.al/O5NowMn"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 102,
+            "end": 114,
+            "tag": "Impfpflicht"
+          },
+          {
+            "start": 158,
+            "end": 169,
+            "tag": "Lauterbach"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463466193621237763",
+      "public_metrics": {
+        "retweet_count": 9,
+        "reply_count": 27,
+        "like_count": 88,
+        "quote_count": 5
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463461161836363779",
+      "created_at": "2021-11-24T10:55:05.000Z",
+      "lang": "de",
+      "text": "Magdalena Andersson ist zur Ministerpr\u00e4sidentin von #Schweden gew\u00e4hlt worden. Sie ist die erste Frau in diesem Amt. https://t.co/pQboPXPik5",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 116,
+            "end": 139,
+            "url": "https://t.co/pQboPXPik5",
+            "expanded_url": "https://trib.al/4y5yM4F",
+            "display_url": "trib.al/4y5yM4F"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 52,
+            "end": 61,
+            "tag": "Schweden"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463461161836363779",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 3,
+        "like_count": 40,
+        "quote_count": 2
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463456115774078977",
+      "created_at": "2021-11-24T10:35:02.000Z",
+      "lang": "de",
+      "text": "Nachruf auf einen Volksk\u00fcnstler: Der Schauspieler Volker #Lechtenbrink ist tot. Den meisten wird er mit seinem \"Dideldidabdidudabdidu und ganz doll dich\" in Erinnerung bleiben und mit seiner Sehnsucht nach Idylle. https://t.co/mg9J4reWHv",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 214,
+            "end": 237,
+            "url": "https://t.co/mg9J4reWHv",
+            "expanded_url": "https://trib.al/Ad1v5Rx",
+            "display_url": "trib.al/Ad1v5Rx"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 57,
+            "end": 70,
+            "tag": "Lechtenbrink"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463456115774078977",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 2,
+        "like_count": 13,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "TweetDeck",
+      "id": "1463450650579292160",
+      "created_at": "2021-11-24T10:13:19.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "Gastrobo",
+            "id": "309125174"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 28,
+            "end": 33,
+            "tag": "DART"
+          },
+          {
+            "start": 105,
+            "end": 116,
+            "tag": "Asteroiden"
+          }
+        ]
+      },
+      "lang": "de",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1463419186647080967"
+        }
+      ],
+      "text": "RT @Gastrobo: Die Raumsonde #DART ist erfolgreich ins All gestartet und soll im September 2022 mit einem #Asteroiden kollidieren. Was das s\u2026",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463450650579292160",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463450032389210114",
+      "created_at": "2021-11-24T10:10:51.000Z",
+      "lang": "de",
+      "text": "Zwei Tage, nachdem ein Autofahrer in eine Weihnachtsparade in #Waukesha gefahren ist, ist ein Achtj\u00e4hriger an seinen Verletzungen gestorben. #USA https://t.co/OmDqI7pmJB",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 146,
+            "end": 169,
+            "url": "https://t.co/OmDqI7pmJB",
+            "expanded_url": "https://trib.al/RP13ljp",
+            "display_url": "trib.al/RP13ljp"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 62,
+            "end": 71,
+            "tag": "Waukesha"
+          },
+          {
+            "start": 141,
+            "end": 145,
+            "tag": "USA"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463450032389210114",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 7,
+        "like_count": 9,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463444776842321920",
+      "created_at": "2021-11-24T09:49:58.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 5,
+            "end": 9,
+            "username": "hrw",
+            "id": "14700316"
+          }
+        ],
+        "urls": [
+          {
+            "start": 172,
+            "end": 195,
+            "url": "https://t.co/QG0xWVwJS2",
+            "expanded_url": "https://trib.al/V9ISp8J",
+            "display_url": "trib.al/V9ISp8J"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 145,
+            "end": 152,
+            "tag": "Folter"
+          }
+        ]
+      },
+      "lang": "de",
+      "text": "Laut @hrw kommt es an der polnisch-belarussischen Grenze zu Menschenrechtsverletzungen. In einigen F\u00e4llen kann laut Human Rights Watch sogar von #Folter gesprochen werden. https://t.co/QG0xWVwJS2",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463444776842321920",
+      "public_metrics": {
+        "retweet_count": 13,
+        "reply_count": 15,
+        "like_count": 19,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463438629695537153",
+      "created_at": "2021-11-24T09:25:33.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 121,
+            "end": 136,
+            "username": "NinaPiatscheck",
+            "id": "40268435"
+          }
+        ],
+        "urls": [
+          {
+            "start": 214,
+            "end": 237,
+            "url": "https://t.co/w6NLkrJHca",
+            "expanded_url": "https://trib.al/II0KFb3",
+            "display_url": "trib.al/II0KFb3"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 209,
+            "end": 213,
+            "tag": "Abo"
+          }
+        ]
+      },
+      "lang": "de",
+      "text": "Als Teenager half Instagram ihnen, ihre Identit\u00e4t zu finden. Heute bekommen sie dort Jobs. Vier junge Menschen haben mit @NinaPiatscheck \u00fcber ihr Leben zwischen Social-Media-Sucht und Digital Detox gesprochen #Abo https://t.co/w6NLkrJHca",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463438629695537153",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10041893684",
+            "name": "Instagram"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 3
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463418386206109704",
+      "created_at": "2021-11-24T08:05:06.000Z",
+      "lang": "de",
+      "text": "\"Was muss eigentlich noch passieren, damit ihr es kapiert?\" Jens #Spahn verliert die Geduld mit Impfverweigerern. Verpflichten will er sie aber weiterhin nicht. https://t.co/x47kyOA4gL",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 161,
+            "end": 184,
+            "url": "https://t.co/x47kyOA4gL",
+            "expanded_url": "https://trib.al/k7xh6fI",
+            "display_url": "trib.al/k7xh6fI"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 65,
+            "end": 71,
+            "tag": "Spahn"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463418386206109704",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 66,
+        "like_count": 60,
+        "quote_count": 4
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463413092000358401",
+      "created_at": "2021-11-24T07:44:04.000Z",
+      "attachments": {
+        "media_keys": [
+          "3_1463413089655791620"
+        ]
+      },
+      "lang": "de",
+      "text": "In Bayern schlie\u00dfen die ersten Schulen, weil zu viele Sch\u00fcler und Lehrer in Quarant\u00e4ne m\u00fcssen. Schulleiterin Rita Bovenz erkl\u00e4rt, wie sie ihr Gymnasium auf den Ernstfall vorbereitet: https://t.co/E0nltihIf1 https://t.co/gqKtArUFYH",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 183,
+            "end": 206,
+            "url": "https://t.co/E0nltihIf1",
+            "expanded_url": "https://trib.al/4RaFL9g",
+            "display_url": "trib.al/4RaFL9g"
+          },
+          {
+            "start": 207,
+            "end": 230,
+            "url": "https://t.co/gqKtArUFYH",
+            "expanded_url": "https://twitter.com/zeitonline/status/1463413092000358401/photo/1",
+            "display_url": "pic.twitter.com/gqKtArUFYH"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463413092000358401",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039036407",
+            "name": "Bundesliga Soccer",
+            "description": "Soccer action from the German Bundesliga."
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10039215494",
+            "name": "Bundesliga Soccer"
+          }
+        },
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 3,
+        "like_count": 26,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463407857131474944",
+      "created_at": "2021-11-24T07:23:16.000Z",
+      "lang": "de",
+      "text": "Die T\u00fcrme sind erstaunlich klein und die L\u00e4ufer haben einen Schlitz am Kopf. Anl\u00e4sslich der #SchachWM, die ab heute in Dubai stattfindet, empfehlen wir Ihnen noch einmal unsere Schach-Kolumne \u2013 speziell der ersten Teil zum Aufbau des Bretts. #Archiv https://t.co/NrV8EpXwSo",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 250,
+            "end": 273,
+            "url": "https://t.co/NrV8EpXwSo",
+            "expanded_url": "https://trib.al/5AtyJb4",
+            "display_url": "trib.al/5AtyJb4"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 92,
+            "end": 101,
+            "tag": "SchachWM"
+          },
+          {
+            "start": 242,
+            "end": 249,
+            "tag": "Archiv"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463407857131474944",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 4,
+        "like_count": 11,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463397232435249159",
+      "created_at": "2021-11-24T06:41:03.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 18,
+            "end": 29,
+            "username": "fridathurm",
+            "id": "174726027"
+          }
+        ],
+        "urls": [
+          {
+            "start": 65,
+            "end": 88,
+            "url": "https://t.co/5ijEac8I7o",
+            "expanded_url": "https://www.zeit.de/gesellschaft/2021-11/kinder-corona-kita-schule-ungeimpfte-impfpflicht-5vor8?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/gesellschaft/2\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 57,
+            "end": 64,
+            "tag": "Corona"
+          }
+        ]
+      },
+      "lang": "de",
+      "text": "Diese Kolumne von @fridathurm sollte es gar nicht geben. #Corona https://t.co/5ijEac8I7o",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463397232435249159",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 41,
+        "reply_count": 13,
+        "like_count": 106,
+        "quote_count": 13
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463395488410087426",
+      "created_at": "2021-11-24T06:34:07.000Z",
+      "lang": "de",
+      "text": "Wer nach #Neuseeland reisen will, muss sich noch ein paar Monate gedulden. Und auch die #USA versch\u00e4rfen erneut ihre Einreiseregeln. #Corona-News aus aller Welt https://t.co/yCBHRNPA3x",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 161,
+            "end": 184,
+            "url": "https://t.co/yCBHRNPA3x",
+            "expanded_url": "https://www.zeit.de/politik/ausland/2021-11/corona-weltweit-news-live?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/politik/auslan\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 9,
+            "end": 20,
+            "tag": "Neuseeland"
+          },
+          {
+            "start": 88,
+            "end": 92,
+            "tag": "USA"
+          },
+          {
+            "start": 133,
+            "end": 140,
+            "tag": "Corona"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463395488410087426",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "839159814991167489",
+            "name": "Travel",
+            "description": "Travel"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "839160129752686593",
+            "name": "General Travel",
+            "description": "General Travel"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "839161975712067584",
+            "name": "Travel Actions",
+            "description": "This entity includes all conversations about travel and vacation."
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 14,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463389377275600901",
+      "created_at": "2021-11-24T06:09:50.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 212,
+            "end": 220,
+            "username": "tillski",
+            "id": "9622622"
+          }
+        ],
+        "urls": [
+          {
+            "start": 246,
+            "end": 269,
+            "url": "https://t.co/NvnXccchH0",
+            "expanded_url": "https://www.zeit.de/newsletter/was-jetzt/2021-11/todesfaelle-3g-koalitionsvertrag-2021-11-24?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/newsletter/was\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 74,
+            "end": 86,
+            "tag": "Coronavirus"
+          },
+          {
+            "start": 107,
+            "end": 113,
+            "tag": "Stiko"
+          },
+          {
+            "start": 224,
+            "end": 233,
+            "tag": "WasJetzt"
+          },
+          {
+            "start": 234,
+            "end": 245,
+            "tag": "Newsletter"
+          }
+        ]
+      },
+      "lang": "de",
+      "text": "Der Koalitionsvertrag steht bald, in Deutschland sind 100.000 Menschen am #Coronavirus gestorben \u2013 und die #Stiko bereitet eine Impfempfehlung f\u00fcr Kinder vor. Die wichtigsten Nachrichten zum Start in den Tag von @tillski im #WasJetzt-#Newsletter https://t.co/NvnXccchH0",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463389377275600901",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 2,
+        "like_count": 10,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463389250980876296",
+      "created_at": "2021-11-24T06:09:20.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 87,
+            "end": 94,
+            "username": "flor8i",
+            "id": "60157170"
+          },
+          {
+            "start": 99,
+            "end": 109,
+            "username": "JaSimmank",
+            "id": "3350676825"
+          }
+        ],
+        "urls": [
+          {
+            "start": 222,
+            "end": 245,
+            "url": "https://t.co/cUbBlM5liE",
+            "expanded_url": "https://trib.al/OLRtti9",
+            "display_url": "trib.al/OLRtti9"
+          },
+          {
+            "start": 246,
+            "end": 269,
+            "url": "https://t.co/DXxSQaEXfp",
+            "expanded_url": "https://twitter.com/zeitonline/status/1463389250980876296/photo/1",
+            "display_url": "pic.twitter.com/DXxSQaEXfp"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 4,
+            "end": 11,
+            "tag": "Corona"
+          },
+          {
+            "start": 63,
+            "end": 70,
+            "tag": "Wieler"
+          },
+          {
+            "start": 160,
+            "end": 172,
+            "tag": "Impfpflicht"
+          }
+        ]
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1463389247940055040"
+        ]
+      },
+      "lang": "de",
+      "text": "Die #Corona-Lage wird sogar noch schlimmer werden, sagt Lothar #Wieler im Gespr\u00e4ch mit @flor8i und @JaSimmank. Was muss jetzt geschehen? Der RKI-Chef \u00fcber eine #Impfpflicht, sein Verh\u00e4ltnis zur Politik und weitere Wellen: https://t.co/cUbBlM5liE https://t.co/DXxSQaEXfp",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463389250980876296",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 45,
+        "reply_count": 38,
+        "like_count": 217,
+        "quote_count": 7
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463383184528314374",
+      "created_at": "2021-11-24T05:45:14.000Z",
+      "attachments": {
+        "media_keys": [
+          "3_1463383182233980932"
+        ]
+      },
+      "lang": "de",
+      "text": "Eine kleine Gruppe, die gegen Impfen ist und alles M\u00f6gliche sonst, \u00e4u\u00dfert Wut, Frust und Angst. Die evangelische Theologin Petra Bahr \u00fcber die Frage: Wie viel Emotion tut der Gesellschaft gut? https://t.co/v4iIaSwcAV #Abo https://t.co/Kgexjeq4OM",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 193,
+            "end": 216,
+            "url": "https://t.co/v4iIaSwcAV",
+            "expanded_url": "https://trib.al/z0DSt4k",
+            "display_url": "trib.al/z0DSt4k"
+          },
+          {
+            "start": 222,
+            "end": 245,
+            "url": "https://t.co/Kgexjeq4OM",
+            "expanded_url": "https://twitter.com/zeitonline/status/1463383184528314374/photo/1",
+            "display_url": "pic.twitter.com/Kgexjeq4OM"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 217,
+            "end": 221,
+            "tag": "Abo"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463383184528314374",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 7,
+        "like_count": 67,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463380268115501058",
+      "created_at": "2021-11-24T05:33:38.000Z",
+      "lang": "de",
+      "text": "#Elektroautos werden seltener gestohlen \u2013 und kommen h\u00e4ufiger zu ihrem rechtm\u00e4\u00dfigen Besitzer zur\u00fcck. Was sie schwer zu knacken macht \u2013 und warum ausgerechnet ihr gr\u00f6\u00dfter Nachteil sie sicher macht. https://t.co/YNm8ULaivo",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 197,
+            "end": 220,
+            "url": "https://t.co/YNm8ULaivo",
+            "expanded_url": "https://www.zeit.de/2021/47/elektroautos-diebstahl-sicherheit-garage-ladestation?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/2021/47/elektr\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 0,
+            "end": 13,
+            "tag": "Elektroautos"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463380268115501058",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 8,
+        "like_count": 19,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463377793404833793",
+      "created_at": "2021-11-24T05:23:48.000Z",
+      "attachments": {
+        "media_keys": [
+          "3_1463377790628241414"
+        ]
+      },
+      "lang": "de",
+      "text": "\"Wer nicht f\u00fcr uns ist, ist gegen uns!\" In einem Tweet schilderte unser Autor ein positives Erlebnis mit einem Polizisten \u2013 und erntete jede Menge Hass von links. F\u00fcr ihn ist das Ausdruck einer intoleranten Debattenkultur, die ihm Sorgen bereitet. https://t.co/RibEXCUWXa https://t.co/fRWrhXM92e",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 248,
+            "end": 271,
+            "url": "https://t.co/RibEXCUWXa",
+            "expanded_url": "https://trib.al/IolQFv3",
+            "display_url": "trib.al/IolQFv3"
+          },
+          {
+            "start": 272,
+            "end": 295,
+            "url": "https://t.co/fRWrhXM92e",
+            "expanded_url": "https://twitter.com/zeitonline/status/1463377793404833793/photo/1",
+            "display_url": "pic.twitter.com/fRWrhXM92e"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463377793404833793",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10045225402",
+            "name": "Twitter"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 47,
+        "reply_count": 27,
+        "like_count": 271,
+        "quote_count": 9
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463375888288993285",
+      "created_at": "2021-11-24T05:16:14.000Z",
+      "lang": "de",
+      "text": "Ab Mittwoch gilt #3G in \u00f6ffentlichen Verkehrsmitteln. Aber wie soll das kontrolliert werden? Und wie hoch ist das Ansteckungsrisiko dort \u00fcberhaupt? Die wichtigsten Fragen und Antworten #Bahn https://t.co/Y39QTIHOoX",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 191,
+            "end": 214,
+            "url": "https://t.co/Y39QTIHOoX",
+            "expanded_url": "https://www.zeit.de/mobilitaet/2021-11/3g-regel-bus-bahn-corona-massnahmen-kontrollierbar-infektionsschutzgesetz?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/mobilitaet/202\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 17,
+            "end": 20,
+            "tag": "3G"
+          },
+          {
+            "start": 185,
+            "end": 190,
+            "tag": "Bahn"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463375888288993285",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 8,
+        "like_count": 20,
+        "quote_count": 2
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463375030583185408",
+      "created_at": "2021-11-24T05:12:50.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 186,
+            "end": 201,
+            "username": "DavidGutensohn",
+            "id": "68235512"
+          }
+        ],
+        "urls": [
+          {
+            "start": 202,
+            "end": 225,
+            "url": "https://t.co/FmToLXoMTa",
+            "expanded_url": "https://www.zeit.de/arbeit/2021-11/kliniken-vierte-welle-intensivstation-deutschland?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/arbeit/2021-11\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 92,
+            "end": 107,
+            "tag": "Intensivbetten"
+          }
+        ]
+      },
+      "lang": "de",
+      "text": "Wie im vergangenen Winter steuert Deutschland auf eine Notlage zu. Diesmal mit noch weniger #Intensivbetten, weil das Personal fehlt. Die Angst vor der Triage ist gro\u00df. Eine Analyse von @davidgutensohn https://t.co/FmToLXoMTa",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463375030583185408",
+      "public_metrics": {
+        "retweet_count": 17,
+        "reply_count": 16,
+        "like_count": 48,
+        "quote_count": 2
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463373924436217865",
+      "created_at": "2021-11-24T05:08:26.000Z",
+      "lang": "de",
+      "text": "Die Koalitionsverhandlungen der #Ampel stehen kurz vor dem Abschluss. Vor allem beim #Klima soll es einige Ver\u00e4nderungen geben.  https://t.co/PIsHtfJBC9",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 129,
+            "end": 152,
+            "url": "https://t.co/PIsHtfJBC9",
+            "expanded_url": "https://www.zeit.de/politik/deutschland/2021-11/koaltionsverhandlungen-ampel-vertrag-klimapolitik-gruene-spd-fdp?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/politik/deutsc\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 32,
+            "end": 38,
+            "tag": "Ampel"
+          },
+          {
+            "start": 85,
+            "end": 91,
+            "tag": "Klima"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463373924436217865",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 11,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463372508187537408",
+      "created_at": "2021-11-24T05:02:48.000Z",
+      "lang": "de",
+      "text": "Fu\u00dfball- und Osteuropafans aufgepasst! Ralf Rangnick, Arrigo Sacchi und Franz Beckenbauer bewunderten ihn. Zu seiner Beerdigung kamen mehr als 200.000 Menschen. Von wem ist die Rede? https://t.co/YEjCA8KDE2",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 183,
+            "end": 206,
+            "url": "https://t.co/YEjCA8KDE2",
+            "expanded_url": "https://trib.al/vpFeLJc",
+            "display_url": "trib.al/vpFeLJc"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463372508187537408",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "733773766799425536",
+            "name": "Ralf Rangnick"
+          }
+        },
+        {
+          "domain": {
+            "id": "93",
+            "name": "Coach",
+            "description": "A Coach like 'Bill Belichick'"
+          },
+          "entity": {
+            "id": "733773766799425536",
+            "name": "Ralf Rangnick"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 13,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463360524431810565",
+      "created_at": "2021-11-24T04:15:11.000Z",
+      "lang": "de",
+      "text": "Die #Inzidenz durchbricht erstmals den Wert von 400. Auch die Zahl der #Neuinfektionen erreicht einen H\u00f6chststand. Laut #RKI gibt es fast 100.000 Corona-Tote.  https://t.co/IAgCXJYtEZ",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 160,
+            "end": 183,
+            "url": "https://t.co/IAgCXJYtEZ",
+            "expanded_url": "https://www.zeit.de/gesundheit/2021-11/coronavirus-neuinfektionen-rki-gesundheitsaemter-100000-tote?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/gesundheit/202\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 4,
+            "end": 13,
+            "tag": "Inzidenz"
+          },
+          {
+            "start": 71,
+            "end": 86,
+            "tag": "Neuinfektionen"
+          },
+          {
+            "start": 120,
+            "end": 124,
+            "tag": "RKI"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463360524431810565",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 7,
+        "like_count": 25,
+        "quote_count": 6
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463292867317841926",
+      "created_at": "2021-11-23T23:46:20.000Z",
+      "lang": "de",
+      "text": "#Apple verklagt die #NSO Group wegen der Spionage-Software #Pegasus. Damit will der Konzern weiteren Schaden f\u00fcr seine Nutzerinnen und Nutzer verhindern. https://t.co/H7YuvdVGPs",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 154,
+            "end": 177,
+            "url": "https://t.co/H7YuvdVGPs",
+            "expanded_url": "https://www.zeit.de/digital/datenschutz/2021-11/spionage-software-pegasus-apple-nso-group?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/digital/datens\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1463292873244356609/eiXwW15R?format=jpg&name=orig",
+                "width": 1300,
+                "height": 731
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1463292873244356609/eiXwW15R?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Spionage-Software Pegasus: Apple verklagt NSO Group",
+            "description": "Mit der Spionagesoftware Pegasus wurden auch Apple-Nutzer ausgesp\u00e4ht. Jetzt zieht der Technologiekonzern gegen den israelischen Entwickler NSO Group vor Gericht.",
+            "unwound_url": "https://www.zeit.de/digital/datenschutz/2021-11/spionage-software-pegasus-apple-nso-group?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 0,
+            "end": 6,
+            "tag": "Apple"
+          },
+          {
+            "start": 20,
+            "end": 24,
+            "tag": "NSO"
+          },
+          {
+            "start": 59,
+            "end": 67,
+            "tag": "Pegasus"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463292867317841926",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 2,
+        "like_count": 27,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463288438262747137",
+      "created_at": "2021-11-23T23:28:44.000Z",
+      "lang": "de",
+      "text": "K\u00fcnftig sollen in der #EU-#Agrarpolitik F\u00f6rdermittel an die Erf\u00fcllung von Umweltauflagen gekn\u00fcpft werden. Zudem sollen B\u00e4uerinnen und Bauern mit kleineren H\u00f6fen gezielt unterst\u00fctzt werden. https://t.co/JHVo7Ez1VC",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 189,
+            "end": 212,
+            "url": "https://t.co/JHVo7Ez1VC",
+            "expanded_url": "https://www.zeit.de/wirtschaft/2021-11/landwirtschaft-eu-agrarreform-eu-parlament-zustimmung?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/wirtschaft/202\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 22,
+            "end": 25,
+            "tag": "EU"
+          },
+          {
+            "start": 26,
+            "end": 39,
+            "tag": "Agrarpolitik"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463288438262747137",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 9,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463265353878978565",
+      "created_at": "2021-11-23T21:57:01.000Z",
+      "lang": "de",
+      "text": "\"Per Erinnerung und im Schreiben will #AiWeiwei einen verloren gegangenen Kontext wieder erschlie\u00dfen\", schreibt Thomas E. Schmidt \u00fcber die nun erschienenen Memoiren des bildenden K\u00fcnstlers, \"1000 Jahre Freud und Leid. Erinnerungen\". https://t.co/zDPfYdxJ8M #Abo",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 233,
+            "end": 256,
+            "url": "https://t.co/zDPfYdxJ8M",
+            "expanded_url": "https://trib.al/72scopn",
+            "display_url": "trib.al/72scopn"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 38,
+            "end": 47,
+            "tag": "AiWeiwei"
+          },
+          {
+            "start": 257,
+            "end": 261,
+            "tag": "Abo"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463265353878978565",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 6,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463259056722923521",
+      "created_at": "2021-11-23T21:31:59.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 171,
+            "end": 179,
+            "username": "tblmbrg",
+            "id": "1392775939784839173"
+          }
+        ],
+        "urls": [
+          {
+            "start": 181,
+            "end": 204,
+            "url": "https://t.co/5sY6Tem39L",
+            "expanded_url": "https://trib.al/kfBoqei",
+            "display_url": "trib.al/kfBoqei"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 22,
+            "end": 32,
+            "tag": "MrOlympia"
+          }
+        ]
+      },
+      "lang": "de",
+      "text": "Shawn Rhoden war 2018 #MrOlympia. Nun ist er gestorben \u2013 wie so viele Bodybuilder in den vergangenen Monaten. Doch \u00fcber Doping reden in der Szene nur wenige. Ein Text von @tblmbrg. https://t.co/5sY6Tem39L",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463259056722923521",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "30",
+            "name": "Entities [Entity Service]",
+            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "872553326499422208",
+            "name": "Fitness",
+            "description": "Fitness"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "903303816698671104",
+            "name": "Wellness and health",
+            "description": "Wellness & Health"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "872554146750017536",
+            "name": "Exercises",
+            "description": "Exercises"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "918538775055048704",
+            "name": "Physical Wellness",
+            "description": "Physical Wellness"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "917493759486566400",
+            "name": "Weight training",
+            "description": "Weight Training"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 7,
+        "like_count": 25,
+        "quote_count": 2
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463252748221169668",
+      "created_at": "2021-11-23T21:06:55.000Z",
+      "lang": "de",
+      "text": "Die #DHL will ihr Drehkreuz am Leipziger Flughafen ausbauen. Doch der Osten, das muss die DHL feststellen, hat sich ver\u00e4ndert. Er ist selbstbewusster geworden. https://t.co/WL0Rg6eX4K",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 160,
+            "end": 183,
+            "url": "https://t.co/WL0Rg6eX4K",
+            "expanded_url": "https://trib.al/g9kqNen",
+            "display_url": "trib.al/g9kqNen"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 4,
+            "end": 8,
+            "tag": "DHL"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463252748221169668",
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 8,
+        "like_count": 38,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463246607240118276",
+      "created_at": "2021-11-23T20:42:31.000Z",
+      "lang": "de",
+      "text": "Rot und gelb, bunt und lecker. #Abo #Herbstrezept https://t.co/b17uzckoGe",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 50,
+            "end": 73,
+            "url": "https://t.co/b17uzckoGe",
+            "expanded_url": "https://trib.al/O8Brgwc",
+            "display_url": "trib.al/O8Brgwc"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 31,
+            "end": 35,
+            "tag": "Abo"
+          },
+          {
+            "start": 36,
+            "end": 49,
+            "tag": "Herbstrezept"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463246607240118276",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 13,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463241166812549130",
+      "created_at": "2021-11-23T20:20:54.000Z",
+      "lang": "de",
+      "text": "Ist Bestsellerautor Johannes Hartl Deutschlands aufregendster Sinn-Guru oder ein gef\u00e4hrlicher konservativer Katholik? Ein Portr\u00e4t #Abo https://t.co/lqvoj51FCv",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 135,
+            "end": 158,
+            "url": "https://t.co/lqvoj51FCv",
+            "expanded_url": "https://trib.al/65Vul7Y",
+            "display_url": "trib.al/65Vul7Y"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 130,
+            "end": 134,
+            "tag": "Abo"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463241166812549130",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 7,
+        "like_count": 7,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463239876938285061",
+      "created_at": "2021-11-23T20:15:47.000Z",
+      "lang": "de",
+      "text": "100.000 Menschen sind in Deutschland durch die #Corona-Pandemie gestorben. Was f\u00fcr die Gesellschaft zur Zahl zusammenschrumpft. bedeutet f\u00fcr jeden Einzelnen die Welt. #Hunderttausend https://t.co/ylXolhc6lS",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 183,
+            "end": 206,
+            "url": "https://t.co/ylXolhc6lS",
+            "expanded_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/corona-todesfaelle-deutschland-gesellschaft-abstumpfung?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/gesellschaft/z\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 47,
+            "end": 54,
+            "tag": "Corona"
+          },
+          {
+            "start": 167,
+            "end": 182,
+            "tag": "Hunderttausend"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463239876938285061",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 53,
+        "reply_count": 61,
+        "like_count": 159,
+        "quote_count": 6
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463236775124639746",
+      "created_at": "2021-11-23T20:03:27.000Z",
+      "lang": "de",
+      "text": "Die #FDP zeigt Bereitschaft f\u00fcr eine #Impfpflicht f\u00fcr bestimmte Einrichtungen. Sie will mit den k\u00fcnftigen Koalitionspartnern dar\u00fcber reden. https://t.co/ZsWyJ4q4wr",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 140,
+            "end": 163,
+            "url": "https://t.co/ZsWyJ4q4wr",
+            "expanded_url": "https://www.zeit.de/politik/deutschland/2021-11/beschraenkte-impfpflicht-corona-fdp-einrichtungen?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/politik/deutsc\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 4,
+            "end": 8,
+            "tag": "FDP"
+          },
+          {
+            "start": 37,
+            "end": 49,
+            "tag": "Impfpflicht"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463236775124639746",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 14,
+        "like_count": 20,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463234639108128795",
+      "created_at": "2021-11-23T19:54:58.000Z",
+      "lang": "de",
+      "text": "\"Im ersten Jahr hatten wir st\u00e4ndig Angst, dass Bennis Vater ihn uns wieder wegnehmen w\u00fcrde\", erz\u00e4hlt Gabriele Langel-Carossa. https://t.co/pxVVrzei6G #Abo",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 126,
+            "end": 149,
+            "url": "https://t.co/pxVVrzei6G",
+            "expanded_url": "https://trib.al/1YR8BJO",
+            "display_url": "trib.al/1YR8BJO"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 150,
+            "end": 154,
+            "tag": "Abo"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463234639108128795",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 12,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463231161220616195",
+      "created_at": "2021-11-23T19:41:09.000Z",
+      "lang": "de",
+      "text": "Am Dienstag wurden 347 Todesf\u00e4lle im Zusammenhang mit dem #Coronavirus gemeldet, damit \u00fcberschreitet die Zahl der Toten seit Pandemiebeginn die Marke von 100.000. https://t.co/IAgCXJYtEZ",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 163,
+            "end": 186,
+            "url": "https://t.co/IAgCXJYtEZ",
+            "expanded_url": "https://www.zeit.de/gesundheit/2021-11/coronavirus-neuinfektionen-rki-gesundheitsaemter-100000-tote?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/gesundheit/202\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 58,
+            "end": 70,
+            "tag": "Coronavirus"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463231161220616195",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 18,
+        "reply_count": 20,
+        "like_count": 57,
+        "quote_count": 11
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463229065687670792",
+      "created_at": "2021-11-23T19:32:49.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 112,
+            "end": 128,
+            "username": "punch_drunk_dan",
+            "id": "1198710920"
+          }
+        ],
+        "urls": [
+          {
+            "start": 198,
+            "end": 221,
+            "url": "https://t.co/E22aNS83nF",
+            "expanded_url": "https://trib.al/FFhEY6n",
+            "display_url": "trib.al/FFhEY6n"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 10,
+            "end": 29,
+            "tag": "BitchesBrauchenRap"
+          },
+          {
+            "start": 153,
+            "end": 165,
+            "tag": "ShirinDavid"
+          }
+        ]
+      },
+      "lang": "de",
+      "text": "\"Man kann #BitchesBrauchenRap durchsuchen wie eine Zitatsammlung und Flow-Bibliothek\", schreibt Daniel Gerhardt @punch_drunk_dan \u00fcber das neue Album von #ShirinDavid: \"Es macht sogar richtig Spa\u00df.\" https://t.co/E22aNS83nF",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463229065687670792",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 17,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463223567227793409",
+      "created_at": "2021-11-23T19:10:58.000Z",
+      "lang": "de",
+      "text": "Katharina Althaus ist eine der erfolgreichsten deutschen Skispringerinnen. Im Arbeitspodcast spricht sie \u00fcber den Ausblick von der Schanze und ihren Weg zu Olympia-Silber. https://t.co/fkZuExFddc",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 172,
+            "end": 195,
+            "url": "https://t.co/fkZuExFddc",
+            "expanded_url": "https://trib.al/yl3yNd9",
+            "display_url": "trib.al/yl3yNd9",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1463223572449705991/MOZE7aCA?format=jpg&name=orig",
+                "width": 1300,
+                "height": 731
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1463223572449705991/MOZE7aCA?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Katharina Althaus: \"Fragen zu meinem Gewicht finde ich irriterend\"",
+            "description": "Katharina Althaus ist eine der erfolgreichsten Skispringerinnen Deutschlands. Im Podcast erz\u00e4hlt sie, wann sie auf dem f\u00fcnften Platz zufriedener ist als mit einem Sieg.",
+            "unwound_url": "https://www.zeit.de/arbeit/2021-11/katharina-althaus-skispringen-ausblick-presse-freizeit-arbeit-podcast?utm_source=twitter_zonaudev_int&utm_referrer=twitter&utm_medium=sm&wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.sf&utm_campaign=ref&utm_content=zeitde_redpost+_link_sf"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463223567227793409",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 6,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463222023388385283",
+      "created_at": "2021-11-23T19:04:50.000Z",
+      "lang": "de",
+      "text": "Die Corona-Lage in #Sachsen ist dramatisch \u2013 bald k\u00f6nnten \u00c4rztinnen und \u00c4rzte vor schwierigen Entscheidungen stehen. #Corona https://t.co/YMjM1RlR0N",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 125,
+            "end": 148,
+            "url": "https://t.co/YMjM1RlR0N",
+            "expanded_url": "https://www.zeit.de/politik/deutschland/2021-11/erik-bodendieck-sachsen-corona-intensivstationen?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/politik/deutsc\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 19,
+            "end": 27,
+            "tag": "Sachsen"
+          },
+          {
+            "start": 117,
+            "end": 124,
+            "tag": "Corona"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463222023388385283",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 15,
+        "reply_count": 26,
+        "like_count": 50,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463221198960185346",
+      "created_at": "2021-11-23T19:01:33.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 116,
+            "end": 121,
+            "username": "NASA",
+            "id": "11348282"
+          }
+        ],
+        "urls": [
+          {
+            "start": 212,
+            "end": 235,
+            "url": "https://t.co/Bo4GXwdm4N",
+            "expanded_url": "https://www.zeit.de/wissen/2021-11/nasa-raumsonde-dart-asteroid-abwehr-test?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/wissen/2021-11\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1463221206010712070/_4R2TlId?format=jpg&name=orig",
+                "width": 1300,
+                "height": 731
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1463221206010712070/_4R2TlId?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Nasa-Raumsonde Dart: Wie man einen Asteroiden rammt",
+            "description": "Die Gefahr ist real: Wenn ein Asteroid auf die Erde trifft, k\u00f6nnte das die Menschheit ernsthaft gef\u00e4hrden. Eine Raumsonde der Nasa soll nun f\u00fcr den Ernstfall proben.",
+            "unwound_url": "https://www.zeit.de/wissen/2021-11/nasa-raumsonde-dart-asteroid-abwehr-test?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 77,
+            "end": 89,
+            "tag": "DARTMission"
+          }
+        ]
+      },
+      "lang": "de",
+      "text": "Das Weltall beschie\u00dft uns, also schie\u00dfen wir zur\u00fcck. So k\u00f6nnte das Motto der #DARTMission lauten: Die Raumsonde der @Nasa soll einen Asteroiden rammen \u2013 und so beweisen, dass wir uns im Ernstfall wehren k\u00f6nnten. https://t.co/Bo4GXwdm4N",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463221198960185346",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "872801340224806912",
+            "name": "Aerospace",
+            "description": "Aerospace"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "872802352448667648",
+            "name": "NASA",
+            "description": "NASA"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "854692455005921281",
+            "name": "Science",
+            "description": "Science"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "847899255880564736",
+            "name": "Space",
+            "description": "Space and astronomy"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 9,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463220398074515458",
+      "created_at": "2021-11-23T18:58:22.000Z",
+      "lang": "de",
+      "text": "Nicht j\u00fcdisch genug, um in die Gemeinde einzutreten, aber zu j\u00fcdisch, um nur als Deutsche zu gelten: #MirnaFunk erz\u00e4hlt die Geschichte ihrer #Konversion. #Abo https://t.co/tZoTh5uzsO",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 159,
+            "end": 182,
+            "url": "https://t.co/tZoTh5uzsO",
+            "expanded_url": "https://www.zeit.de/zeit-magazin/2021/47/mirna-funk-autorin-juedische-identitaet-mutter-gemeinde?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/zeit-magazin/2\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1463220404668010499/zxZrvN2x?format=jpg&name=orig",
+                "width": 1300,
+                "height": 731
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1463220404668010499/zxZrvN2x?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Mirna Funk: Mein Judentum definiert sich mehr \u00fcber Chuzpe und weniger \u00fcber Gott",
+            "description": "Nicht j\u00fcdisch genug, um in die Gemeinde einzutreten, aber zu j\u00fcdisch, um nur als Deutsche zu gelten: Unsere Autorin erz\u00e4hlt, was die Konversion in ihrem Leben bewegt hat.",
+            "unwound_url": "https://www.zeit.de/zeit-magazin/2021/47/mirna-funk-autorin-juedische-identitaet-mutter-gemeinde?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 101,
+            "end": 111,
+            "tag": "MirnaFunk"
+          },
+          {
+            "start": 141,
+            "end": 152,
+            "tag": "Konversion"
+          },
+          {
+            "start": 154,
+            "end": 158,
+            "tag": "Abo"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463220398074515458",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 9,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463219536048672772",
+      "created_at": "2021-11-23T18:54:57.000Z",
+      "lang": "de",
+      "text": "Wie regelt man sein #Erbe ohne Streit, wenn man neunfacher Vater ist, 23 Enkel und 25 Urenkel hat? Ein Besuch beim 94-j\u00e4hrigen Franz Huf, dessen Firma #Fertigh\u00e4user baut. #Abo https://t.co/mvL7g07keG",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 176,
+            "end": 199,
+            "url": "https://t.co/mvL7g07keG",
+            "expanded_url": "https://www.zeit.de/zeit-fuer-unternehmer/2021/03/familienunternehmen-fertighaeuser-huf-nachfolge-geschichte-zukunft?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/zeit-fuer-unte\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 20,
+            "end": 25,
+            "tag": "Erbe"
+          },
+          {
+            "start": 151,
+            "end": 164,
+            "tag": "Fertigh\u00e4user"
+          },
+          {
+            "start": 171,
+            "end": 175,
+            "tag": "Abo"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463219536048672772",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 11,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463217995543728131",
+      "created_at": "2021-11-23T18:48:50.000Z",
+      "attachments": {
+        "media_keys": [
+          "3_1463217993073242115"
+        ]
+      },
+      "lang": "de",
+      "text": "Unser nicht wei\u00dfer Autor postet ein positives Erlebnis mit einem Polizisten \u2013 und erntet einen Shitstorm. Das ist nicht links, das ist sinnloser Krawall.  https://t.co/JJ8QT3leHo #Polizei https://t.co/k1gLiTlhet",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 155,
+            "end": 178,
+            "url": "https://t.co/JJ8QT3leHo",
+            "expanded_url": "https://trib.al/PKO90lG",
+            "display_url": "trib.al/PKO90lG"
+          },
+          {
+            "start": 188,
+            "end": 211,
+            "url": "https://t.co/k1gLiTlhet",
+            "expanded_url": "https://twitter.com/zeitonline/status/1463217995543728131/photo/1",
+            "display_url": "pic.twitter.com/k1gLiTlhet"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 179,
+            "end": 187,
+            "tag": "Polizei"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463217995543728131",
+      "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 9,
+        "like_count": 104,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463215577808478215",
+      "created_at": "2021-11-23T18:39:13.000Z",
+      "lang": "de",
+      "text": "\"Es darf in unserem Land keinen Zweifel daran geben, dass eine Wahl ordnungsgem\u00e4\u00df durchgef\u00fchrt wird\", sagte #Berlin|s Innensenator Andreas #Geisel zur Untersuchung der Wahlpannen bei der Abgeordnetenhauswahl. https://t.co/636N7c8n8t",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 209,
+            "end": 232,
+            "url": "https://t.co/636N7c8n8t",
+            "expanded_url": "https://www.zeit.de/politik/deutschland/2021-11/abgeordnetenhauswahl-berlin-wahlpannen-aufarbeitung-expertenkommission?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/politik/deutsc\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 108,
+            "end": 115,
+            "tag": "Berlin"
+          },
+          {
+            "start": 139,
+            "end": 146,
+            "tag": "Geisel"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463215577808478215",
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 10,
+        "like_count": 17,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463212026554167308",
+      "created_at": "2021-11-23T18:25:06.000Z",
+      "lang": "de",
+      "text": "In einigen Betrieben fordern Besch\u00e4ftigte schon einen getrennten Pausenraum f\u00fcr die ungeimpften Mitarbeiter. Die neuen #3G-Regeln f\u00fcr Unternehmen f\u00fchren zu Spannungen in der Belegschaft. https://t.co/KDw0JMtZ5b",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 187,
+            "end": 210,
+            "url": "https://t.co/KDw0JMtZ5b",
+            "expanded_url": "https://trib.al/dCSaCYk",
+            "display_url": "trib.al/dCSaCYk"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 119,
+            "end": 122,
+            "tag": "3G"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463212026554167308",
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 19,
+        "like_count": 38,
+        "quote_count": 2
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463211654838112273",
+      "created_at": "2021-11-23T18:23:38.000Z",
+      "lang": "de",
+      "text": "Wie geht es dem t\u00fcrkischen Pr\u00e4sidenten? Die Ger\u00fcchte um Recep Tayyip Erdo\u011fans Gesundheit h\u00f6ren nicht auf. Aber selbst wenn er nicht so krank ist, wie erz\u00e4hlt wird: Seine Macht ist angeschlagen. #Erdo\u011fan https://t.co/EpSTPxEEb3",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 203,
+            "end": 226,
+            "url": "https://t.co/EpSTPxEEb3",
+            "expanded_url": "https://trib.al/6UYOeKi",
+            "display_url": "trib.al/6UYOeKi"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 194,
+            "end": 202,
+            "tag": "Erdo\u011fan"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463211654838112273",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 5,
+        "like_count": 40,
+        "quote_count": 2
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463209558592167943",
+      "created_at": "2021-11-23T18:15:18.000Z",
+      "lang": "de",
+      "text": "Die #EU-Kommission plant #Sanktionen gegen Reiseunternehmen, die sich an Menschenhandel und Schleuserkriminalit\u00e4t beteiligen. Anlass ist der Fl\u00fcchtlingsstreit mit #Belarus. https://t.co/sLb2zu06xx",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 173,
+            "end": 196,
+            "url": "https://t.co/sLb2zu06xx",
+            "expanded_url": "https://www.zeit.de/politik/ausland/2021-11/belarus-fluechtlingskrise-sanktionen-eu-kommission-ursula-von-der-leyen?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/politik/auslan\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 4,
+            "end": 7,
+            "tag": "EU"
+          },
+          {
+            "start": 25,
+            "end": 36,
+            "tag": "Sanktionen"
+          },
+          {
+            "start": 163,
+            "end": 171,
+            "tag": "Belarus"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463209558592167943",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 9,
+        "like_count": 27,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463205737581232134",
+      "created_at": "2021-11-23T18:00:07.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 131,
+            "end": 137,
+            "username": "zacys",
+            "id": "281728543"
+          },
+          {
+            "start": 162,
+            "end": 172,
+            "username": "Mounia008",
+            "id": "242792526"
+          }
+        ],
+        "urls": [
+          {
+            "start": 239,
+            "end": 262,
+            "url": "https://t.co/oiDwGRjPFH",
+            "expanded_url": "https://trib.al/iIvETiS",
+            "display_url": "trib.al/iIvETiS"
+          }
+        ]
+      },
+      "lang": "de",
+      "text": "Ab Mittwoch gilt die 3G-Regel in Bussen, Bahnen und am Arbeitsplatz. Welche Herausforderungen kommen jetzt auf die Arbeitgeber zu, @zacys? Au\u00dferdem im Update mit @Mounia008: Mehrere Ministerpr\u00e4sidenten fordern eine allgemeine Impfpflicht. https://t.co/oiDwGRjPFH",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463205737581232134",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 7,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463205015510732810",
+      "created_at": "2021-11-23T17:57:15.000Z",
+      "lang": "de",
+      "text": "Gerade warten mal wieder alle auf ihn: den #Koalitionsvertrag. Aber was kann der eigentlich? Was man von einem Koalitionsvertrag erwarten darf \u2013 und was nicht. https://t.co/KCAzwZfAaQ",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 160,
+            "end": 183,
+            "url": "https://t.co/KCAzwZfAaQ",
+            "expanded_url": "https://trib.al/0ia7peu",
+            "display_url": "trib.al/0ia7peu"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 43,
+            "end": 61,
+            "tag": "Koalitionsvertrag"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463205015510732810",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 6,
+        "like_count": 6,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463198180288442371",
+      "created_at": "2021-11-23T17:30:05.000Z",
+      "lang": "de",
+      "text": "Der bekannten russische Menschenrechtsorganisation #Memorial droht das Aus. Die erste Vorverhandlung gegen eine der Teilorganisationen in #Moskau hat begonnen. https://t.co/84AwwtKffy",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 160,
+            "end": 183,
+            "url": "https://t.co/84AwwtKffy",
+            "expanded_url": "https://trib.al/AGb6FQR",
+            "display_url": "trib.al/AGb6FQR"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 51,
+            "end": 60,
+            "tag": "Memorial"
+          },
+          {
+            "start": 138,
+            "end": 145,
+            "tag": "Moskau"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463198180288442371",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 9,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463193149115879431",
+      "created_at": "2021-11-23T17:10:06.000Z",
+      "lang": "de",
+      "text": "Die Bundesl\u00e4nder haben ihre Corona-Verordnungen aktualisiert. Was gilt jetzt wo? https://t.co/NFmeN2Ue5k",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 81,
+            "end": 104,
+            "url": "https://t.co/NFmeN2Ue5k",
+            "expanded_url": "https://trib.al/57SsjAO",
+            "display_url": "trib.al/57SsjAO",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1463236246755500045/dv5DFwj8?format=jpg&name=orig",
+                "width": 1300,
+                "height": 731
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1463236246755500045/dv5DFwj8?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Corona-Regeln: Was jetzt in welchem Bundesland gilt",
+            "description": "2G, 3G, 2G plus: Viele Bundesl\u00e4nder beschlie\u00dfen h\u00e4rtere Corona-Regeln oder sch\u00e4rfen bestehende nach. Wo gelten aktuell welche Einschr\u00e4nkungen? Ein \u00dcberblick",
+            "unwound_url": "https://www.zeit.de/politik/deutschland/2021-11/corona-regeln-bundeslaender-faq"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463193149115879431",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 5,
+        "like_count": 18,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463186889469534210",
+      "created_at": "2021-11-23T16:45:13.000Z",
+      "lang": "de",
+      "text": "Immer weniger junge Leute in #China wollen heiraten: Aus Sorge um die Karriere, zudem sind die Lebenshaltungskosten hoch. Die #Geburtenrate sinkt auf den niedrigsten Stand seit dem Ende der 1970er Jahre. https://t.co/NclAnarNEY",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 204,
+            "end": 227,
+            "url": "https://t.co/NclAnarNEY",
+            "expanded_url": "https://trib.al/6iTo7oK",
+            "display_url": "trib.al/6iTo7oK"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 29,
+            "end": 35,
+            "tag": "China"
+          },
+          {
+            "start": 126,
+            "end": 139,
+            "tag": "Geburtenrate"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463186889469534210",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 7,
+        "like_count": 20,
+        "quote_count": 2
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "TweetDeck",
+      "id": "1463186258755260422",
+      "created_at": "2021-11-23T16:42:43.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 9,
+            "username": "zacys",
+            "id": "281728543"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 84,
+            "end": 101,
+            "tag": "3GamArbeitsplatz"
+          }
+        ]
+      },
+      "lang": "de",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1463186171291389955"
+        }
+      ],
+      "text": "RT @zacys: Na, wisst ihr schon, wie es morgen bei Euch in der Firma l\u00e4uft, das neue #3GamArbeitsplatz? Bei einigen Firmen wird schon \u00fcber g\u2026",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463186258755260422",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463181833785466884",
+      "created_at": "2021-11-23T16:25:08.000Z",
+      "lang": "de",
+      "text": "Der Datenschutzaktivitst Max Schrems und sein Verein Noyb haben die irische Datenschutzbeh\u00f6rde angezeigt. Im Prozess gegen Facebook h\u00e4tte Noyb eine Verschwiegenheitserkl\u00e4rung unterschreiben sollen \u2013 daf\u00fcr gebe es keine Grundlage. https://t.co/XGiOaBFS2x",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 230,
+            "end": 253,
+            "url": "https://t.co/XGiOaBFS2x",
+            "expanded_url": "https://trib.al/cbtaASZ",
+            "display_url": "trib.al/cbtaASZ"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463181833785466884",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10029202045",
+            "name": "Facebook"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 1,
+        "like_count": 27,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463176784741077001",
+      "created_at": "2021-11-23T16:05:04.000Z",
+      "lang": "de",
+      "text": "Weltweit steigen die Energiepreise. US-Pr\u00e4sident Joe #Biden will das nun mit der Freigabe nationaler #\u00d6lreserven einschr\u00e4nken. Auch L\u00e4nder wie S\u00fcdkorea, #China oder Gro\u00dfbritannien sollen mitwirken. https://t.co/u4BtN1EUkW",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 198,
+            "end": 221,
+            "url": "https://t.co/u4BtN1EUkW",
+            "expanded_url": "https://trib.al/Jx0yCM3",
+            "display_url": "trib.al/Jx0yCM3"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 53,
+            "end": 59,
+            "tag": "Biden"
+          },
+          {
+            "start": 101,
+            "end": 112,
+            "tag": "\u00d6lreserven"
+          },
+          {
+            "start": 153,
+            "end": 159,
+            "tag": "China"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463176784741077001",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "10040395078",
+            "name": "Joe Biden",
+            "description": "US President Joe Biden"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "10040395078",
+            "name": "Joe Biden",
+            "description": "US President Joe Biden"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 11,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463175278902009864",
+      "created_at": "2021-11-23T15:59:05.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 69,
+            "end": 82,
+            "username": "Bjoern_Hayer",
+            "id": "815563897075855360"
+          }
+        ],
+        "urls": [
+          {
+            "start": 183,
+            "end": 206,
+            "url": "https://t.co/mqOpEPUROn",
+            "expanded_url": "https://trib.al/xbMs7Jk",
+            "display_url": "trib.al/xbMs7Jk"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 116,
+            "end": 123,
+            "tag": "Gordon"
+          }
+        ]
+      },
+      "lang": "de",
+      "text": "\"Ziel war es dabei aber immer, dem Fremden den Schrecken zu nehmen.\" @Bjoern_Hayer w\u00fcrdigt den Bestsellerautor Noah #Gordon als geistreichen Kulturvermittler und gro\u00dfen Kosmopoliten. https://t.co/mqOpEPUROn",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463175278902009864",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 13,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463169815758217217",
+      "created_at": "2021-11-23T15:37:23.000Z",
+      "lang": "de",
+      "text": "Jede Stunde werden in Deutschland durchschnittlich 13 Frauen Opfer von Gewalt in Partnerschaften. Fast immer sind M\u00e4nner die T\u00e4ter. https://t.co/Yik2tkhmnt",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 132,
+            "end": 155,
+            "url": "https://t.co/Yik2tkhmnt",
+            "expanded_url": "https://trib.al/YOLnbcT",
+            "display_url": "trib.al/YOLnbcT"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463169815758217217",
+      "public_metrics": {
+        "retweet_count": 21,
+        "reply_count": 11,
+        "like_count": 37,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463164033595498498",
+      "created_at": "2021-11-23T15:14:24.000Z",
+      "lang": "de",
+      "text": "Urteil aus Luxemburg: Die Justiz in #Ungarn darf Fragen untergeordneter Gerichte an den #EuGH nicht verhindern. https://t.co/yDXBfAnhxn",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 112,
+            "end": 135,
+            "url": "https://t.co/yDXBfAnhxn",
+            "expanded_url": "https://trib.al/DXsBIou",
+            "display_url": "trib.al/DXsBIou"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 36,
+            "end": 43,
+            "tag": "Ungarn"
+          },
+          {
+            "start": 88,
+            "end": 93,
+            "tag": "EuGH"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463164033595498498",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 1,
+        "like_count": 48,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463158312623607811",
+      "created_at": "2021-11-23T14:51:40.000Z",
+      "attachments": {
+        "media_keys": [
+          "3_1463158309284888591"
+        ]
+      },
+      "lang": "de",
+      "text": "Die #Corona-Lage wird sogar noch schlimmer werden, sagt Lothar #Wieler im Interview mit ZEIT ONLINE. Was muss jetzt geschehen? Der RKI-Chef \u00fcber eine #Impfpflicht, sein Verh\u00e4ltnis zur Politik und weitere Wellen: https://t.co/O7x6AFhp3S https://t.co/fmom8rERHA",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 212,
+            "end": 235,
+            "url": "https://t.co/O7x6AFhp3S",
+            "expanded_url": "https://trib.al/TcdEKmd",
+            "display_url": "trib.al/TcdEKmd"
+          },
+          {
+            "start": 236,
+            "end": 259,
+            "url": "https://t.co/fmom8rERHA",
+            "expanded_url": "https://twitter.com/zeitonline/status/1463158312623607811/photo/1",
+            "display_url": "pic.twitter.com/fmom8rERHA"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 4,
+            "end": 11,
+            "tag": "Corona"
+          },
+          {
+            "start": 63,
+            "end": 70,
+            "tag": "Wieler"
+          },
+          {
+            "start": 150,
+            "end": 162,
+            "tag": "Impfpflicht"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463158312623607811",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 27,
+        "reply_count": 52,
+        "like_count": 227,
+        "quote_count": 10
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463152432477884418",
+      "created_at": "2021-11-23T14:28:18.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 238,
+            "end": 246,
+            "username": "havpost",
+            "id": "164649491"
+          }
+        ],
+        "urls": [
+          {
+            "start": 248,
+            "end": 271,
+            "url": "https://t.co/jn9EUq5lJJ",
+            "expanded_url": "https://trib.al/PWzBheb",
+            "display_url": "trib.al/PWzBheb",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1463152434688241666/cuWi1LSk?format=jpg&name=orig",
+                "width": 1300,
+                "height": 731
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1463152434688241666/cuWi1LSk?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "USA: Corona, war da was?",
+            "description": "T\u00e4glich sterben immer noch mehr als 1.000 US-B\u00fcrger an Corona, Thanksgiving soll trotzdem recht unbeschwert gefeiert werden. Amerika hat sich an die Pandemie gew\u00f6hnt.",
+            "unwound_url": "https://www.zeit.de/politik/ausland/2021-11/coronavirus-usa-thanksgiving-reiseverkehr-pandemie?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.sf&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_referrer=twitter&utm_campaign=ref&utm_content=zeitde_redpost+_link_sf"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 4,
+            "end": 11,
+            "tag": "Corona"
+          }
+        ]
+      },
+      "lang": "de",
+      "text": "Mit #Corona leben, die Inzidenzen, Hotspots und ja, auch die Opfer in einem gewissen Ma\u00dfe akzeptieren auf dem Weg zur\u00fcck zu einer Normalit\u00e4t, das scheint die Haltung zu sein, auf die sich Amerika vor Thanksgiving einigen kann, analysiert @havpost. https://t.co/jn9EUq5lJJ",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463152432477884418",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "119",
+            "name": "Holiday",
+            "description": "Holidays like Christmas or Halloween"
+          },
+          "entity": {
+            "id": "1310591085282910210",
+            "name": "Thanksgiving Day ",
+            "description": "This entity includes all conversations for all years for Thanksgiving Day "
+          }
+        },
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 5,
+        "like_count": 14,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463146992272556037",
+      "created_at": "2021-11-23T14:06:41.000Z",
+      "lang": "de",
+      "text": "Frauen sind keine Bienenk\u00f6niginnen: Jahrzehntelang pr\u00e4gte das Queen-Bee-Syndrom Wissenschaft und popul\u00e4re Literatur: Frauen tendierten dazu, den Aufstieg anderer Frauen zu behindern. Stimmt aber gar nicht. https://t.co/202mdG8E4e #Abo",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 206,
+            "end": 229,
+            "url": "https://t.co/202mdG8E4e",
+            "expanded_url": "https://trib.al/uFClHWk",
+            "display_url": "trib.al/uFClHWk"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 230,
+            "end": 234,
+            "tag": "Abo"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463146992272556037",
+      "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 2,
+        "like_count": 24,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463141561034752008",
+      "created_at": "2021-11-23T13:45:06.000Z",
+      "lang": "de",
+      "text": "In #Italien wurden gegen die beiden US-Technologiekonzerne #Apple und #Amazon wegen wettbewerbssch\u00e4dlichem Verhalten eine Geldstrafe von rund 200 Millionen Euro verh\u00e4ngt. https://t.co/QKm1yznslI",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 171,
+            "end": 194,
+            "url": "https://t.co/QKm1yznslI",
+            "expanded_url": "https://trib.al/PudzMDt",
+            "display_url": "trib.al/PudzMDt"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 3,
+            "end": 11,
+            "tag": "Italien"
+          },
+          {
+            "start": 59,
+            "end": 65,
+            "tag": "Apple"
+          },
+          {
+            "start": 70,
+            "end": 77,
+            "tag": "Amazon"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463141561034752008",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974596706635776",
+            "name": "Retail"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "783335558466506752",
+            "name": "Online"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026792024",
+            "name": "Amazon"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 2,
+        "like_count": 26,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463141391433973761",
+      "created_at": "2021-11-23T13:44:26.000Z",
+      "lang": "de",
+      "text": "Die Erh\u00f6hung der Preise bei der Deutschen Post kommt. Das Verschicken eines Standardbriefes soll dann ab dem Jahreswechsel bis zu 85 Cent kosten. https://t.co/Zd93sMMTRR",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 146,
+            "end": 169,
+            "url": "https://t.co/Zd93sMMTRR",
+            "expanded_url": "https://trib.al/0AgC3i7",
+            "display_url": "trib.al/0AgC3i7"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463141391433973761",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 5,
+        "like_count": 6,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463135365666070530",
+      "created_at": "2021-11-23T13:20:29.000Z",
+      "lang": "de",
+      "text": "Der Europ\u00e4ische Gerichtshof f\u00fcr Menschenrechte hat die #T\u00fcrkei wegen der unrechtm\u00e4\u00dfigen Inhaftierung von mehr als 400 Richtern und Staatsanw\u00e4lten zu Schadenersatz verurteilt. https://t.co/xX7M9QypMh",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 175,
+            "end": 198,
+            "url": "https://t.co/xX7M9QypMh",
+            "expanded_url": "https://trib.al/ZeMoeEZ",
+            "display_url": "trib.al/ZeMoeEZ"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 55,
+            "end": 62,
+            "tag": "T\u00fcrkei"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463135365666070530",
+      "public_metrics": {
+        "retweet_count": 14,
+        "reply_count": 7,
+        "like_count": 61,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463130181703458821",
+      "created_at": "2021-11-23T12:59:53.000Z",
+      "lang": "de",
+      "text": "Es geht um Betrug mit Zertifikaten f\u00fcr energetische Sanierung in Millionenh\u00f6he: Ermittler haben unter anderem in Nordrhein-Westfalen und Italien viele Objekte durchsucht. https://t.co/txYO30y9Zt",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 171,
+            "end": 194,
+            "url": "https://t.co/txYO30y9Zt",
+            "expanded_url": "https://trib.al/q0QkyyY",
+            "display_url": "trib.al/q0QkyyY"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463130181703458821",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 17,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463123929548083202",
+      "created_at": "2021-11-23T12:35:02.000Z",
+      "lang": "de",
+      "text": "Nach Vorw\u00fcrfen sexueller \u00dcbergriffe gegen einen chinesischen Spitzenpolitiker war die Tennisspielerin #PengShuai vor\u00fcbergehend verschwunden. International gibt es scharfe Kritik. #China weist das nun zur\u00fcck. https://t.co/L8NF41wzSa",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 208,
+            "end": 231,
+            "url": "https://t.co/L8NF41wzSa",
+            "expanded_url": "https://trib.al/19tH9uF",
+            "display_url": "trib.al/19tH9uF"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 102,
+            "end": 112,
+            "tag": "PengShuai"
+          },
+          {
+            "start": 179,
+            "end": 185,
+            "tag": "China"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463123929548083202",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1461480524757626886",
+            "name": "Peng Shuai"
+          }
+        },
+        {
+          "domain": {
+            "id": "60",
+            "name": "Athlete",
+            "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+          },
+          "entity": {
+            "id": "1461480524757626886",
+            "name": "Peng Shuai"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 8,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "TweetDeck",
+      "id": "1463120775360229378",
+      "created_at": "2021-11-23T12:22:30.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "tillski",
+            "id": "9622622"
+          }
+        ]
+      },
+      "lang": "de",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1463088362764398593"
+        }
+      ],
+      "text": "RT @tillski: \"Wenn sich 50.000 Menschen infizieren, werden 400 von ihnen sterben. Daran ist nichts mehr zu \u00e4ndern. Alles, was wir tun, um g\u2026",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463120775360229378",
+      "public_metrics": {
+        "retweet_count": 24,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463119410231746563",
+      "created_at": "2021-11-23T12:17:05.000Z",
+      "lang": "de",
+      "text": "In #Bulgarien herrscht Fassungslosigkeit nach einem #Busungl\u00fcck mit 46 Toten. https://t.co/dDj9dDE0fF",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 78,
+            "end": 101,
+            "url": "https://t.co/dDj9dDE0fF",
+            "expanded_url": "https://trib.al/siAtylx",
+            "display_url": "trib.al/siAtylx"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 3,
+            "end": 13,
+            "tag": "Bulgarien"
+          },
+          {
+            "start": 52,
+            "end": 63,
+            "tag": "Busungl\u00fcck"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463119410231746563",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 1,
+        "like_count": 12,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463118406144700419",
+      "created_at": "2021-11-23T12:13:06.000Z",
+      "lang": "de",
+      "text": "Fall #Epstein: Die Familie von Ghislaine #Maxwell hat sich bei der UNO beschwert, dass ihre Inhaftierung illegal sei. Ihr wird vorgeworfen, Minderj\u00e4hrige rekrutiert zu haben, die der Finanzinvestor dann missbrauchte. https://t.co/8b7cHEsCpj",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 217,
+            "end": 240,
+            "url": "https://t.co/8b7cHEsCpj",
+            "expanded_url": "https://trib.al/XzgQxIb",
+            "display_url": "trib.al/XzgQxIb"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 5,
+            "end": 13,
+            "tag": "Epstein"
+          },
+          {
+            "start": 41,
+            "end": 49,
+            "tag": "Maxwell"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463118406144700419",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1278685520197898240",
+            "name": "Ghislaine Maxwell"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 5,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463113299084693506",
+      "created_at": "2021-11-23T11:52:48.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 222,
+            "end": 237,
+            "username": "corinnaschoeps",
+            "id": "2215576226"
+          },
+          {
+            "start": 242,
+            "end": 252,
+            "username": "Ingo_Arzt",
+            "id": "37680477"
+          }
+        ],
+        "urls": [
+          {
+            "start": 254,
+            "end": 277,
+            "url": "https://t.co/EFbqDAWXrl",
+            "expanded_url": "https://trib.al/zulKzve",
+            "display_url": "trib.al/zulKzve"
+          },
+          {
+            "start": 278,
+            "end": 301,
+            "url": "https://t.co/cQrW85rCxW",
+            "expanded_url": "https://twitter.com/zeitonline/status/1463113299084693506/video/1",
+            "display_url": "pic.twitter.com/cQrW85rCxW"
+          }
+        ]
+      },
+      "attachments": {
+        "media_keys": [
+          "13_1463099699204956163"
+        ]
+      },
+      "lang": "de",
+      "text": "In Israel haben die Corona-Impfungen f\u00fcr Kinder begonnen. In Europa steht eine Zulassung kurz bevor. Wie sicher ist die Impfung f\u00fcr kleine Kinder? Und ist das Virus f\u00fcr Kinder \u00fcberhaupt besonders gef\u00e4hrlich? Antworten von @corinnaschoeps und @Ingo_Arzt: https://t.co/EFbqDAWXrl https://t.co/cQrW85rCxW",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463113299084693506",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 7,
+        "like_count": 29,
+        "quote_count": 3
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463107004310949899",
+      "created_at": "2021-11-23T11:27:47.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 86,
+            "end": 93,
+            "username": "flor8i",
+            "id": "60157170"
+          },
+          {
+            "start": 98,
+            "end": 108,
+            "username": "JaSimmank",
+            "id": "3350676825"
+          }
+        ],
+        "urls": [
+          {
+            "start": 256,
+            "end": 279,
+            "url": "https://t.co/tu0GWMSvHI",
+            "expanded_url": "https://trib.al/8kQrNfv",
+            "display_url": "trib.al/8kQrNfv"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 139,
+            "end": 146,
+            "tag": "Corona"
+          },
+          {
+            "start": 205,
+            "end": 217,
+            "tag": "Impfpflicht"
+          }
+        ]
+      },
+      "lang": "de",
+      "text": "\"Die Situation war noch nie so ernst wie jetzt\", sagt Lothar Wieler. Im Interview mit @flor8i und @JaSimmank erkl\u00e4rt der RKI-Chef, wie die #Corona- Lage so au\u00dfer Kontrolle geraten konnte und warum er eine #Impfpflicht als letztes Mittel akzeptieren w\u00fcrde. https://t.co/tu0GWMSvHI",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463107004310949899",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 60,
+        "reply_count": 46,
+        "like_count": 236,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463101473269628931",
+      "created_at": "2021-11-23T11:05:48.000Z",
+      "lang": "de",
+      "text": "Innerhalb von 200 Jahren hat sich die #Bev\u00f6lkerungszahl in Deutschland mehr als vervierfacht. Im Westen wuchs die Zahl der Menschen stetig, in Ostdeutschland gibt es seit der innerdeutschen Teilung Schwankungen. https://t.co/xGqRfb4UpW",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 212,
+            "end": 235,
+            "url": "https://t.co/xGqRfb4UpW",
+            "expanded_url": "https://trib.al/0D3Ww9t",
+            "display_url": "trib.al/0D3Ww9t"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 38,
+            "end": 55,
+            "tag": "Bev\u00f6lkerungszahl"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463101473269628931",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 4,
+        "like_count": 9,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463095840684355584",
+      "created_at": "2021-11-23T10:43:26.000Z",
+      "lang": "de",
+      "text": "Wenn mehr Strom durch Wind und Sonner erzeugt wird, m\u00fcssen die Netze ausgebaut werden. Der Konzern E.on will von einer \"CO2-freien, digitalen Energiewelt\" profitieren. https://t.co/xvVpT30zq4",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 168,
+            "end": 191,
+            "url": "https://t.co/xvVpT30zq4",
+            "expanded_url": "https://trib.al/srqKCct",
+            "display_url": "trib.al/srqKCct"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463095840684355584",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 4,
+        "like_count": 7,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463090260099977216",
+      "created_at": "2021-11-23T10:21:15.000Z",
+      "lang": "de",
+      "text": "#SPD, #Linke und #Gr\u00fcne in #Berlin haben einen Weg gefunden, wie sie mit dem #Volksbegehren zur Enteignung der #DeutscheWohnen umgehen wollen. Eine Expertenkommission soll sie beraten. https://t.co/viegZWVjwE",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 185,
+            "end": 208,
+            "url": "https://t.co/viegZWVjwE",
+            "expanded_url": "https://trib.al/28InPCY",
+            "display_url": "trib.al/28InPCY"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 0,
+            "end": 4,
+            "tag": "SPD"
+          },
+          {
+            "start": 6,
+            "end": 12,
+            "tag": "Linke"
+          },
+          {
+            "start": 17,
+            "end": 23,
+            "tag": "Gr\u00fcne"
+          },
+          {
+            "start": 27,
+            "end": 34,
+            "tag": "Berlin"
+          },
+          {
+            "start": 77,
+            "end": 91,
+            "tag": "Volksbegehren"
+          },
+          {
+            "start": 111,
+            "end": 126,
+            "tag": "DeutscheWohnen"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463090260099977216",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 4,
+        "like_count": 12,
+        "quote_count": 2
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463084796809199618",
+      "created_at": "2021-11-23T09:59:33.000Z",
+      "lang": "de",
+      "text": "Die Erschlie\u00dfung Seltener Erden in #Europa ist unwirtschaftlich, aber notwendig, um sich aus der Abh\u00e4ngigkeit von #China zu befreien. #5vor8 https://t.co/wh1KQCAS4T",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 141,
+            "end": 164,
+            "url": "https://t.co/wh1KQCAS4T",
+            "expanded_url": "https://trib.al/MtBLLrl",
+            "display_url": "trib.al/MtBLLrl"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 35,
+            "end": 42,
+            "tag": "Europa"
+          },
+          {
+            "start": 114,
+            "end": 120,
+            "tag": "China"
+          },
+          {
+            "start": 134,
+            "end": 140,
+            "tag": "5vor8"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463084796809199618",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 1,
+        "like_count": 11,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463079529610678276",
+      "created_at": "2021-11-23T09:38:37.000Z",
+      "lang": "de",
+      "text": "Der ehemalige s\u00fcdkoreanische Machthaber #Chun Doo Hwan ist tot. Er starb im Alter von 90 Jahren in #Seoul. #S\u00fcdkorea https://t.co/Ad1CcpYW1t",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 117,
+            "end": 140,
+            "url": "https://t.co/Ad1CcpYW1t",
+            "expanded_url": "https://trib.al/LLlzdQ5",
+            "display_url": "trib.al/LLlzdQ5"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 40,
+            "end": 45,
+            "tag": "Chun"
+          },
+          {
+            "start": 99,
+            "end": 105,
+            "tag": "Seoul"
+          },
+          {
+            "start": 107,
+            "end": 116,
+            "tag": "S\u00fcdkorea"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463079529610678276",
+      "public_metrics": {
+        "retweet_count": 17,
+        "reply_count": 2,
+        "like_count": 11,
+        "quote_count": 2
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463073098580770825",
+      "created_at": "2021-11-23T09:13:03.000Z",
+      "lang": "de",
+      "text": "Der Schauspieler Volker #Lechtenbrink ist tot. Seine #Film- und Fernsehrollen und seine Gesangs- und Sprecherstimme pr\u00e4gten Jahrzehnte die Kulturlandschaft https://t.co/kpL8LZjbOG",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 156,
+            "end": 179,
+            "url": "https://t.co/kpL8LZjbOG",
+            "expanded_url": "https://trib.al/2kZeJd5",
+            "display_url": "trib.al/2kZeJd5"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 24,
+            "end": 37,
+            "tag": "Lechtenbrink"
+          },
+          {
+            "start": 53,
+            "end": 58,
+            "tag": "Film"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463073098580770825",
+      "public_metrics": {
+        "retweet_count": 21,
+        "reply_count": 16,
+        "like_count": 92,
+        "quote_count": 6
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463067931688984584",
+      "created_at": "2021-11-23T08:52:32.000Z",
+      "lang": "de",
+      "text": "Am Ende wird Angela #Merkel daran gemessen werden, ob ihre Telefonate halfen, die humanit\u00e4re Krise an der polnisch-belarussischen Grenze zu entspannen. #Belarus #Lukaschenko https://t.co/mdPCPOip4N",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 174,
+            "end": 197,
+            "url": "https://t.co/mdPCPOip4N",
+            "expanded_url": "https://trib.al/jtNxgAJ",
+            "display_url": "trib.al/jtNxgAJ"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 20,
+            "end": 27,
+            "tag": "Merkel"
+          },
+          {
+            "start": 152,
+            "end": 160,
+            "tag": "Belarus"
+          },
+          {
+            "start": 161,
+            "end": 173,
+            "tag": "Lukaschenko"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463067931688984584",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "849236271553691648",
+            "name": "Angela Merkel",
+            "description": "Angela Merkel"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "849236271553691648",
+            "name": "Angela Merkel",
+            "description": "Angela Merkel"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 20,
+        "like_count": 22,
+        "quote_count": 3
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463061711766933505",
+      "created_at": "2021-11-23T08:27:49.000Z",
+      "lang": "de",
+      "text": "Mit \"Der Medicus\" und zwei Folgeromanen brachte es US-Autor Noah #Gordon zu Weltruhm. Nun ist er gestorben. https://t.co/YT0lrWkgD1",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 108,
+            "end": 131,
+            "url": "https://t.co/YT0lrWkgD1",
+            "expanded_url": "https://trib.al/zM5ICBn",
+            "display_url": "trib.al/zM5ICBn"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 65,
+            "end": 72,
+            "tag": "Gordon"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463061711766933505",
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 3,
+        "like_count": 25,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463056157656989696",
+      "created_at": "2021-11-23T08:05:44.000Z",
+      "lang": "de",
+      "text": "Der Untersuchungsausschuss zum Sturm auf das US-#Kapitol hat weitere Weggef\u00e4hrten von Donald #Trump vorgeladen. Einer von ihnen ist der Politikberater #RogerStone. #USA https://t.co/RG5jOSQR5N",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 169,
+            "end": 192,
+            "url": "https://t.co/RG5jOSQR5N",
+            "expanded_url": "https://trib.al/J2xEmIw",
+            "display_url": "trib.al/J2xEmIw"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 48,
+            "end": 56,
+            "tag": "Kapitol"
+          },
+          {
+            "start": 93,
+            "end": 99,
+            "tag": "Trump"
+          },
+          {
+            "start": 151,
+            "end": 162,
+            "tag": "RogerStone"
+          },
+          {
+            "start": 164,
+            "end": 168,
+            "tag": "USA"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463056157656989696",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "799022225751871488",
+            "name": "Donald Trump",
+            "description": "US President Donald Trump"
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1008640155576496128",
+            "name": "Roger Stone",
+            "description": "Roger Stone"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "799022225751871488",
+            "name": "Donald Trump",
+            "description": "US President Donald Trump"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 12,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463055368041508866",
+      "created_at": "2021-11-23T08:02:36.000Z",
+      "lang": "de",
+      "text": "Die Erschlie\u00dfung Seltener Erden in #Europa ist unwirtschaftlich, aber notwendig, um sich aus der Abh\u00e4ngigkeit von #China zu befreien. #5vor8 https://t.co/fz99kgdHqS",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 141,
+            "end": 164,
+            "url": "https://t.co/fz99kgdHqS",
+            "expanded_url": "https://www.zeit.de/politik/ausland/2021-11/china-geopolitik-macht-seltene-erden-abhaengigkeit-europa?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/politik/auslan\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 35,
+            "end": 42,
+            "tag": "Europa"
+          },
+          {
+            "start": 114,
+            "end": 120,
+            "tag": "China"
+          },
+          {
+            "start": 134,
+            "end": 140,
+            "tag": "5vor8"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463055368041508866",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 23,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463054034076676098",
+      "created_at": "2021-11-23T07:57:18.000Z",
+      "lang": "de",
+      "text": "Schauspieler Volker Lechtenbrink gestorben https://t.co/zrvUDEtTAG",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 43,
+            "end": 66,
+            "url": "https://t.co/zrvUDEtTAG",
+            "expanded_url": "https://www.zeit.de/kultur/2021-11/schauspieler-volker-lechtenbrink-gestorben?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/kultur/2021-11\u2026"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463054034076676098",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 1,
+        "like_count": 9,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "TweetDeck",
+      "id": "1463053504705089542",
+      "created_at": "2021-11-23T07:55:12.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "c_endt",
+            "id": "626286397"
+          },
+          {
+            "start": 16,
+            "end": 27,
+            "username": "zeitonline",
+            "id": "5715752"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 102,
+            "end": 128,
+            "tag": "Hospitalisierungsinzidenz"
+          }
+        ]
+      },
+      "lang": "de",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1462858843659153414"
+        }
+      ],
+      "text": "RT @c_endt: Wir @zeitonline haben unser Corona-Dashboard \u00fcberarbeitet. Seit heute zeigen wir auch die #Hospitalisierungsinzidenz. Ein inzwi\u2026",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463053504705089542",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 157,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463050857348579330",
+      "created_at": "2021-11-23T07:44:41.000Z",
+      "attachments": {
+        "media_keys": [
+          "3_1463050855817564160"
+        ]
+      },
+      "lang": "de",
+      "text": "Update am Morgen: Alle best\u00e4tigten #Corona-Infektionen in Deutschland. Recherchieren Sie hier die st\u00e4ndig aktualisierte Lage in allen 400 Stadt- und Landkreisen: https://t.co/KzldbFcQ0r (aktualisiert am 23.11.2021 um 7:40 Uhr) https://t.co/kB6hHBOv6j",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 162,
+            "end": 185,
+            "url": "https://t.co/KzldbFcQ0r",
+            "expanded_url": "https://trib.al/rP3DmEL",
+            "display_url": "trib.al/rP3DmEL"
+          },
+          {
+            "start": 227,
+            "end": 250,
+            "url": "https://t.co/kB6hHBOv6j",
+            "expanded_url": "https://twitter.com/zeitonline/status/1463050857348579330/photo/1",
+            "display_url": "pic.twitter.com/kB6hHBOv6j"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 35,
+            "end": 42,
+            "tag": "Corona"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463050857348579330",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 6,
+        "like_count": 18,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463045537515589639",
+      "created_at": "2021-11-23T07:23:32.000Z",
+      "lang": "de",
+      "text": "Wenn man Tagliatelle mit Rag\u00f9 isst, hat man Lust zu lieben, sich zu umarmen, Liebe zu machen. #Bolognese #Bologna https://t.co/XYRb77sBn4",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 114,
+            "end": 137,
+            "url": "https://t.co/XYRb77sBn4",
+            "expanded_url": "https://trib.al/k8AObHP",
+            "display_url": "trib.al/k8AObHP"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 94,
+            "end": 104,
+            "tag": "Bolognese"
+          },
+          {
+            "start": 105,
+            "end": 113,
+            "tag": "Bologna"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463045537515589639",
+      "public_metrics": {
+        "retweet_count": 11,
+        "reply_count": 10,
+        "like_count": 76,
+        "quote_count": 4
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463031815342596097",
+      "created_at": "2021-11-23T06:29:01.000Z",
+      "lang": "de",
+      "text": "Bei der #Lufthansa l\u00e4uft seit Monaten der Kundenkontakt aus dem Ruder. Die Service-App zeigt regelm\u00e4\u00dfig eine Anrufwartezeit von bis zu zwei Stunden und mehr an. Was ist da los? https://t.co/CdM0OhmdiV",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 177,
+            "end": 200,
+            "url": "https://t.co/CdM0OhmdiV",
+            "expanded_url": "https://trib.al/tJqyiLP",
+            "display_url": "trib.al/tJqyiLP"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 8,
+            "end": 18,
+            "tag": "Lufthansa"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463031815342596097",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597302226944",
+            "name": "Transportation"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596144668673",
+            "name": "Airline"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10043811491",
+            "name": "Lufthansa"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "839159814991167489",
+            "name": "Travel",
+            "description": "Travel"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "839160129752686593",
+            "name": "General Travel",
+            "description": "General Travel"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "849076200261603328",
+            "name": "Air travel",
+            "description": "Air travel"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 2,
+        "like_count": 16,
+        "quote_count": 2
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463031643657150466",
+      "created_at": "2021-11-23T06:28:20.000Z",
+      "lang": "de",
+      "text": "Die #USA haben wegen der umstrittenen Gaspipeline #NordStream2 weitere Sanktionen verh\u00e4ngt. Betroffen ist ein Unternehmen mit Verbindungen nach #Russland. https://t.co/fgNGiI94A7",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 155,
+            "end": 178,
+            "url": "https://t.co/fgNGiI94A7",
+            "expanded_url": "https://www.zeit.de/politik/2021-11/nord-stream-2-gaspipeline-usa-sanktionen-russland?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/politik/2021-1\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 4,
+            "end": 8,
+            "tag": "USA"
+          },
+          {
+            "start": 50,
+            "end": 62,
+            "tag": "NordStream2"
+          },
+          {
+            "start": 144,
+            "end": 153,
+            "tag": "Russland"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463031643657150466",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 6,
+        "like_count": 7,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463027250509537280",
+      "created_at": "2021-11-23T06:10:52.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 220,
+            "end": 228,
+            "username": "tillski",
+            "id": "9622622"
+          }
+        ],
+        "urls": [
+          {
+            "start": 254,
+            "end": 277,
+            "url": "https://t.co/2J7o7E5yqd",
+            "expanded_url": "https://www.zeit.de/newsletter/was-jetzt/2021-11/reisewarnung-massnahmen-babyschlaf-2021-11-23?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/newsletter/was\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 232,
+            "end": 241,
+            "tag": "WasJetzt"
+          },
+          {
+            "start": 242,
+            "end": 253,
+            "tag": "Newsletter"
+          }
+        ]
+      },
+      "lang": "de",
+      "text": "Die US-Regierung r\u00e4t von Reisen nach Deutschland ab, die Kanzlerin fordert die Bundesl\u00e4nder zu strengeren Ma\u00dfnahmen auf \u2013 und wir haben Tipps f\u00fcr besseren Babyschlaf. Die wichtigsten Nachrichten zum Start in den Tag von @tillski im #WasJetzt-#Newsletter https://t.co/2J7o7E5yqd",
+      "possibly_sensitive": false,
+      "author_id": "5715752",
+      "conversation_id": "1463027250509537280",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "839159814991167489",
+            "name": "Travel",
+            "description": "Travel"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "839160129752686593",
+            "name": "General Travel",
+            "description": "General Travel"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "839161975712067584",
+            "name": "Travel Actions",
+            "description": "This entity includes all conversations about travel and vacation."
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 8,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "SocialFlow",
+      "id": "1463025808402956288",
+      "created_at": "2021-11-23T06:05:09.000Z",
+      "attachments": {
+        "media_keys": [
+          "3_1463025806591021059"
+        ]
+      },
+      "lang": "de",
+      "text": "Holen sich Menschen ihre Freiheit anderswo zur\u00fcck, wenn impfen zur Pflicht wird? Wie die Psychologie auf eine Corona-Impfpflicht blickt, erkl\u00e4rt Gretchen Chapman. https://t.co/gP4zfLBvy9 https://t.co/iWbDO5l561",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 163,
+            "end": 186,
+            "url": "https://t.co/gP4zfLBvy9",
+            "expanded_url": "https://trib.al/sPbar3I",
+            "display_url": "trib.al/sPbar3I"
+          },
+          {
+            "start": 187,
+            "end": 210,
+            "url": "https://t.co/iWbDO5l561",
+            "expanded_url": "https://twitter.com/zeitonline/status/1463025808402956288/photo/1",
+            "display_url": "pic.twitter.com/iWbDO5l561"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463025808402956288",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 19,
+        "reply_count": 56,
+        "like_count": 145,
+        "quote_count": 6
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463021326717931522",
+      "created_at": "2021-11-23T05:47:20.000Z",
+      "lang": "de",
+      "text": "Irgendwann klingt man wie die Zeitansage \u2013 morgens, wenn die #Kinder nicht aus dem Bett kommen. #Eltern #Abo https://t.co/Zka9QM8xQC",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 109,
+            "end": 132,
+            "url": "https://t.co/Zka9QM8xQC",
+            "expanded_url": "https://www.zeit.de/zeit-magazin/2021/47/zeitempfinden-generation-z-stress-eltern-kinder?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/zeit-magazin/2\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 61,
+            "end": 68,
+            "tag": "Kinder"
+          },
+          {
+            "start": 96,
+            "end": 103,
+            "tag": "Eltern"
+          },
+          {
+            "start": 104,
+            "end": 108,
+            "tag": "Abo"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463021326717931522",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 16,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463019183097135107",
+      "created_at": "2021-11-23T05:38:49.000Z",
+      "lang": "de",
+      "text": "Man kann sich innerlich sehr vern\u00fcnftig f\u00fchlen und objektiv ein totaler Depp sein. https://t.co/wCraODHeKI",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 83,
+            "end": 106,
+            "url": "https://t.co/wCraODHeKI",
+            "expanded_url": "https://www.zeit.de/2021/47/telefonieren-fahrradfahren-strassenverkehr-polizei-vernunft?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/2021/47/telefo\u2026"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463019183097135107",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 4,
+        "like_count": 21,
+        "quote_count": 2
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463017241474215943",
+      "created_at": "2021-11-23T05:31:06.000Z",
+      "lang": "de",
+      "text": "Ist nun der #Impfstoff knapp oder muss die Infrastruktur f\u00fcr Boosterimpfungen besser aufgestellt werden? Au\u00dferdem: Michael Thumann erkl\u00e4rt, warum die Menschenrechtsorganisation #Memorial in #Russland aufgel\u00f6st werden soll.  https://t.co/bEX8tldDYO",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 224,
+            "end": 247,
+            "url": "https://t.co/bEX8tldDYO",
+            "expanded_url": "https://www.zeit.de/politik/2021-11/boosterimpfung-warteschlange-drittimpfung-corona-russland-menschenrechtsorganisation-nachrichtenpodcast?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/politik/2021-1\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 12,
+            "end": 22,
+            "tag": "Impfstoff"
+          },
+          {
+            "start": 177,
+            "end": 186,
+            "tag": "Memorial"
+          },
+          {
+            "start": 190,
+            "end": 199,
+            "tag": "Russland"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463017241474215943",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1463003665363607553",
+      "created_at": "2021-11-23T04:37:09.000Z",
+      "lang": "de",
+      "text": "Die #USA ziehen aus den steigenden Infektionszahlen in #Deutschland erste Konsequenzen. US-B\u00fcrgern wird abgeraten, nach Deutschland zu reisen.  https://t.co/ZbsZqlFTNn",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 144,
+            "end": 167,
+            "url": "https://t.co/ZbsZqlFTNn",
+            "expanded_url": "https://www.zeit.de/politik/ausland/2021-11/reisewarnung-usa-deutschland-daenemark-corona-infektionen?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/politik/auslan\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1463003672774856707/r2nBPS6D?format=jpg&name=orig",
+                "width": 1300,
+                "height": 731
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1463003672774856707/r2nBPS6D?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Corona-Lage: US-Regierung warnt vor Reisen nach Deutschland",
+            "description": "Mit Blick auf die weiter rasant ansteigenden Infektionszahlen r\u00e4t das US-Aussenministerium seinen B\u00fcrgern vor Reisen nach Deutschland ab. Auch D\u00e4nemark wird hochgestuft.",
+            "unwound_url": "https://www.zeit.de/politik/ausland/2021-11/reisewarnung-usa-deutschland-daenemark-corona-infektionen?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 4,
+            "end": 8,
+            "tag": "USA"
+          },
+          {
+            "start": 55,
+            "end": 67,
+            "tag": "Deutschland"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1463003665363607553",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "839159814991167489",
+            "name": "Travel",
+            "description": "Travel"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "839160129752686593",
+            "name": "General Travel",
+            "description": "General Travel"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "839161975712067584",
+            "name": "Travel Actions",
+            "description": "This entity includes all conversations about travel and vacation."
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 6,
+        "like_count": 51,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1462995953632354312",
+      "created_at": "2021-11-23T04:06:31.000Z",
+      "lang": "de",
+      "text": "Das #RKI meldet erneut einen H\u00f6chststand bei der Sieben-Tage-#Inzidenz. Auch die Zahl der Corona-Neuinfektionen steigt ungebremst weiter.  https://t.co/O46O5vx8iS",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 139,
+            "end": 162,
+            "url": "https://t.co/O46O5vx8iS",
+            "expanded_url": "https://www.zeit.de/gesundheit/2021-11/coronavirus-neuinfektionen-rki-gesundheitsaemter-neuer-hoechstwert-sachsen-anhalt-neuinfektionen?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/gesundheit/202\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 4,
+            "end": 8,
+            "tag": "RKI"
+          },
+          {
+            "start": 61,
+            "end": 70,
+            "tag": "Inzidenz"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1462995953632354312",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 6,
+        "like_count": 29,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1462951312803389444",
+      "created_at": "2021-11-23T01:09:07.000Z",
+      "lang": "de",
+      "text": "Zu der t\u00f6dlichen fahrt in eine Weihnachtsparade in #Wisconsin gibt es weitere Erkenntnisse: Der Mann soll nicht aus einem terroristischen Motiv gehandelt haben, sondern in einen h\u00e4uslichen Streit verwickelt gewesen sein. https://t.co/PpfD0FylS0",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 221,
+            "end": 244,
+            "url": "https://t.co/PpfD0FylS0",
+            "expanded_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/wisconsin-weihnachtsparade-tote-autofahrer-streit-mord?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/gesellschaft/z\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 51,
+            "end": 61,
+            "tag": "Wisconsin"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1462951312803389444",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 12,
+        "like_count": 11,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1462943932061519876",
+      "created_at": "2021-11-23T00:39:48.000Z",
+      "lang": "de",
+      "text": "Das Au\u00dfenministerium in #Washington r\u00e4t wegen der hohen Corona-Infektionszahlen den US-B\u00fcrgern dringlich von Reisen nach #Deutschland ab. Die #Reisewarnung gilt neben Deutschland auch f\u00fcr D\u00e4nemark. #Corona-News aus aller Welt https://t.co/yCBHRNPA3x",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 226,
+            "end": 249,
+            "url": "https://t.co/yCBHRNPA3x",
+            "expanded_url": "https://www.zeit.de/politik/ausland/2021-11/corona-weltweit-news-live?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/politik/auslan\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 24,
+            "end": 35,
+            "tag": "Washington"
+          },
+          {
+            "start": 121,
+            "end": 133,
+            "tag": "Deutschland"
+          },
+          {
+            "start": 142,
+            "end": 155,
+            "tag": "Reisewarnung"
+          },
+          {
+            "start": 198,
+            "end": 205,
+            "tag": "Corona"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1462943932061519876",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "839159814991167489",
+            "name": "Travel",
+            "description": "Travel"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "839160129752686593",
+            "name": "General Travel",
+            "description": "General Travel"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "839161975712067584",
+            "name": "Travel Actions",
+            "description": "This entity includes all conversations about travel and vacation."
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 11,
+        "reply_count": 0,
+        "like_count": 62,
+        "quote_count": 8
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1462899748768292864",
+      "created_at": "2021-11-22T21:44:14.000Z",
+      "lang": "de",
+      "text": "Die Beh\u00f6rden auf La Palma ordneten eine #Ausgangssperre an. Grund daf\u00fcr sind giftigen Gase, die nach dem Vulkanausbruch auf der #Kanareninsel entstanden sind. https://t.co/qLJAdiBonb",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 159,
+            "end": 182,
+            "url": "https://t.co/qLJAdiBonb",
+            "expanded_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/la-palma-vulkan-cumbre-vieja-ausbruch-ausgangsbeschraenkungen?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/gesellschaft/z\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 40,
+            "end": 55,
+            "tag": "Ausgangssperre"
+          },
+          {
+            "start": 128,
+            "end": 141,
+            "tag": "Kanareninsel"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1462899748768292864",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 3,
+        "like_count": 17,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1462889515035549701",
+      "created_at": "2021-11-22T21:03:34.000Z",
+      "lang": "de",
+      "text": "\"Ja, es hat schon etwas Irrationales\", sagt Friedrich #Merz \u00fcber seinen dritten Anlauf als #CDU-Chef. Aber wie s\u00e4he die Partei unter ihm aus? https://t.co/hLlC568qZu",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 142,
+            "end": 165,
+            "url": "https://t.co/hLlC568qZu",
+            "expanded_url": "https://www.zeit.de/politik/deutschland/2021-11/friedrich-merz-kandidatur-cdu-vorsitz-wahlkampf-migration-helge-braun?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/politik/deutsc\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 54,
+            "end": 59,
+            "tag": "Merz"
+          },
+          {
+            "start": 91,
+            "end": 95,
+            "tag": "CDU"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1462889515035549701",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 19,
+        "like_count": 16,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1462889161455804420",
+      "created_at": "2021-11-22T21:02:09.000Z",
+      "lang": "de",
+      "text": "Die bundesweite Sieben-Tage-Inzidenz f\u00fcr Infektionen mit dem #Coronavirus steigt auf 422,2. In #Sachsen-Anhalt wurden heute so viele #Neuinfektionen registriert wie nie zuvor. https://t.co/O46O5vx8iS",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 176,
+            "end": 199,
+            "url": "https://t.co/O46O5vx8iS",
+            "expanded_url": "https://www.zeit.de/gesundheit/2021-11/coronavirus-neuinfektionen-rki-gesundheitsaemter-neuer-hoechstwert-sachsen-anhalt-neuinfektionen?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/gesundheit/202\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 61,
+            "end": 73,
+            "tag": "Coronavirus"
+          },
+          {
+            "start": 95,
+            "end": 103,
+            "tag": "Sachsen"
+          },
+          {
+            "start": 133,
+            "end": 148,
+            "tag": "Neuinfektionen"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1462889161455804420",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 4,
+        "like_count": 13,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1462873133619331090",
+      "created_at": "2021-11-22T19:58:28.000Z",
+      "lang": "de",
+      "text": "Das Kind schl\u00e4ft nicht, wie es soll. L\u00e4sst sich abends nur schwer oder gar nicht hinlegen, schreckt in der Nacht auf und ist um f\u00fcnf Uhr morgens ausgeschlafen. Wie Eltern ruhige N\u00e4chte mit ihren Babys und Kleinkindern lernen k\u00f6nnen. #Abo https://t.co/WaWlbw9H9a",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 238,
+            "end": 261,
+            "url": "https://t.co/WaWlbw9H9a",
+            "expanded_url": "https://www.zeit.de/zeit-magazin/leben/2021-11/schlafprobleme-kinder-schlafstoerung-schlafmangel-eltern-erziehung-schlafen-lernen?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/zeit-magazin/l\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 233,
+            "end": 237,
+            "tag": "Abo"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1462873133619331090",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 13,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1462872142350061568",
+      "created_at": "2021-11-22T19:54:32.000Z",
+      "lang": "de",
+      "text": "Ein K\u00fcnstlerroman, aber keine Nabelschau: \"Der andere Ort\" von #RachelCusk handelt vom Zweikampf zwischen einer Schriftstellerin und ihrem Gast, dem von ihr verehrten Maler L. Er ist wohl auch Dokument einer Schreibkrise. #Rezension https://t.co/2jPAZW2khQ",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 233,
+            "end": 256,
+            "url": "https://t.co/2jPAZW2khQ",
+            "expanded_url": "https://www.zeit.de/2021/47/der-andere-ort-rachel-cusk-literatur?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/2021/47/der-an\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 63,
+            "end": 74,
+            "tag": "RachelCusk"
+          },
+          {
+            "start": 222,
+            "end": 232,
+            "tag": "Rezension"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1462872142350061568",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "ZEITonline",
+      "id": "1462871141618532355",
+      "created_at": "2021-11-22T19:50:33.000Z",
+      "lang": "de",
+      "text": "#Klimafreundlich #heizen, das muss doch m\u00f6glich sein, oder? Unser Autor lies sich beraten \u2013 mit \u00fcberraschendem Ergebnis. #W\u00e4rmewende #Abo https://t.co/4BEsQyhbJ6",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 138,
+            "end": 161,
+            "url": "https://t.co/4BEsQyhbJ6",
+            "expanded_url": "https://www.zeit.de/2021/47/klimafreundliches-heizen-ernergiewende-waermepumpen-solarzellen?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+            "display_url": "zeit.de/2021/47/klimaf\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 0,
+            "end": 16,
+            "tag": "Klimafreundlich"
+          },
+          {
+            "start": 17,
+            "end": 24,
+            "tag": "heizen"
+          },
+          {
+            "start": 121,
+            "end": 132,
+            "tag": "W\u00e4rmewende"
+          },
+          {
+            "start": 133,
+            "end": 137,
+            "tag": "Abo"
+          }
+        ]
+      },
+      "author_id": "5715752",
+      "conversation_id": "1462871141618532355",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 12,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone"
+    }
+  ],
+  "meta": {
+    "oldest_id": "1462871141618532355",
+    "newest_id": "1463466778273669123",
+    "result_count": 100,
+    "next_token": "7140dibdnow9c7btw3z3apecuxczn34oizfk5q2l6sldh",
+    "previous_token": "77qpymm88g5h9vqkluoer708k2ery0ha7txrlxpmbis6r"
+  }
+}
