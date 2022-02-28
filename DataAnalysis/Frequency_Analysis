@@ -8,6 +8,8 @@ import json
 from dateutil import parser
 import os
 import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
 
 
 def merge_json_files(data_dir_path):
@@ -64,6 +66,7 @@ def plot_tweet_frequence(dataframe):
     tweet_count_list = []
 
     for row in date_count.iterrows():
+        print("row ", row)
         print("row month", row[0].month) # month is corrected, day values seem odd
         print("row day", row[0].day)  # day has to calculated specifially
         date_list.append(row[0]) # row[0] gets date
@@ -97,36 +100,86 @@ def plot_tweet_frequence(dataframe):
 # for tweet_details in tweet:
 #    print("tweets details", tweet_details)
 
+def plotly_graph():
+    print("draw graph")
+    filepath = "../DataCrawling/TwitterCrawlDirectory/Tweets_2021/"
+    fig = go.Figure()
+    fig.show()
+    directory = os.fsencode(filepath)
+
+    for file in os.listdir(directory):
+        dataframe = pd.DataFrame()
+        filename = os.fsdecode(file)
+        print("analysing now file", filename)
+        path = filepath + filename
+        with open(path, "rb") as infile:
+            data = json.load(infile)
+            for tweet in data:
+                date_formated = parser.parse(tweet["publishing_date"])  # original time format ISO-8601
+                date_formated_day = str(date_formated.date())
+
+
+                dataframe = dataframe.append({
+                    "author": tweet["author"],
+                    "content": tweet["content"],
+                    "date": date_formated_day
+                }, ignore_index=True)
+                tweet_count = 0
+                tweet_count += 1
+
+
+# get days of 2021 - important for x-axis and vals of y axis
+
+            d1 = datetime.date(2021, 1, 1)
+            d2 = datetime.date(2021, 12, 31)
+            days = [d1 + datetime.timedelta(days=x) for x in range((d2 - d1).days + 1)]
+
+            # count values
+            frequence_df = pd.DataFrame() #df to save vals
+            count = dataframe.groupby('date').count() # count the posts of a specific day
+
+            # pass into df
+            for day in days:
+                if str(day) in count.index:
+                    print("add original value")
+                    frequence_df = frequence_df.append({
+                        'day': day,
+                        'post_count': int(count.loc[str(day)]['content']) # loc gets val from row by index label - which is the day here
+                    }, ignore_index=True)
+                else:
+                    print("add 0 value")
+                    frequence_df = frequence_df.append({
+                        'day': day,
+                        'post_count': int(0)
+                    }, ignore_index=True)
+
+            print("freuqence df", frequence_df)
+            author = data[0]['author']
+            print("author", data[0]['author'])
+            y = frequence_df['post_count'].values.tolist()
+            print("y vals", y)
+            fig.add_trace(go.Scatter(x=days, y=y, name=author,
+                                     line_shape='linear'))
+        fig.update_traces(hoverinfo='text+y+x', mode='lines+markers')
+        fig.update_layout(legend=dict(y=0.5, traceorder='reversed', font_size=16))
+    fig.show()
+    fig.write_html("../Results/Frequency_Analysis/frequency_total_html.html")
+
+
 if __name__ == "__main__":
     print("Analyse beginnt")
-    data_dir_path = "C:/Users/nceck/Desktop/FakeNews/DataCrawling/TwitterCrawlDirectory/ZeitOnline_CrawlDirectory/"
-    merge_json_files(data_dir_path)
-    filename = "merged_bild_data.json"
-    filepath = os.path.join(data_dir_path, filename)
+    plotly_graph()
 
-    dataframe = get_date_data(filepath)
-    plot_tweet_frequence(dataframe)
+
+
+
+
+
+    #data_dir_path = "/DataCrawling/TwitterCrawlDirectory/Twitter_API/ZeitOnline_CrawlDirectory/"
+    #merge_json_files(data_dir_path)
+    #filename = "merged_bild_data.json"
+    #filepath = os.path.join(data_dir_path, filename)
+
+    #dataframe = get_date_data(filepath)
+    #plot_tweet_frequence(dataframe)
     # nitialise a figure. subplots() with no args gives one plot.
-    """
- fig, ax = plt.subplots()
-
- # A little data preparation
- years = df['year']
- x = np.arange(len(years))
-
- width = 2
- # Plot each bar plot. Note: manually calculating the 'dodges' of the bars
- ax.bar(x - 3*width/2, df['conservative'], width, label='Conservative', color='#0343df')
- ax.bar(x - width/2, df['labour'], width, label='Labour', color='#e50000')
- ax.bar(x + width/2, df['liberal'], width, label='Liberal', color='#ffff14')
- ax.bar(x + 3*width/2, df['others'], width, label='Others', color='#929591')
-
- # Customise some display properties
- ax.set_ylabel('Seats')
- ax.set_title('UK election results')
- ax.set_xticks(x)    # This ensures we have one tick per year, otherwise we get fewer
- ax.set_xticklabels(years.astype(str).values, rotation='vertical')
- ax.legend()
-
- # Ask Matplotlib to show the plot
- plt.show() """
