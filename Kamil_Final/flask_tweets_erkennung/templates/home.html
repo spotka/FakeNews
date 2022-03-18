@@ -1,0 +1,53 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+    <!-- Starts image section -->
+    <div class="container">
+        <p><h2>Wer könnte den Tweet geschrieben haben?</h2></p>
+   
+        <h3> Das Model im Einsatz</h3>
+  
+    
+
+    
+    <!-- Starts form section -->
+    <div class="form-container ">
+        <form class="form-horizontal" action = "/predict/" method="post">
+        
+            <div class="form-group row">
+              <label class="control-label col-sm-2" for="text">Tweet-Inhalt:</label>
+              <div class="col-sm-12">
+                <input type="text" class="form-control" id="text" name="text">
+              </div>
+            </div>
+             
+            <label class="control-label">&nbsp;</label>                
+           
+                <button type="submit" class="btn btn-primary">Prüfen</button>
+          
+          </form>
+        <!-- Ends form section -->
+        
+        
+    </div>  
+</br>
+Beispiel Tweets, zum koppieren und einsetzen:</br></br></br>
+@Bild am 18.03.2022:</br>
++++ Debakel für #Putin bei seiner eigenen Propaganda-Show in Moskau: Plötzlich zeigt das Staats-TV alte Bilder, Putin-Rede bricht ab, Diktator ist nicht mehr im Bild! #Cyberattacke?</br></br>
+@Der Spiegel am 18.03.2022:</br>
+Bosch ist nach Vorwürfen, Komponenten für das russische Militär geliefert zu haben, unter Druck geraten. Nun hat der Technologiekonzern sein Russlandgeschäft nach eigenen Angaben fast eingefroren.</br></br>
+@zeitonline am 18.03.2022:</br>
+Unser Autor @kittro verfolgt die Bilder aus der #Ukraine, erschrickt vor sich selbst – und findet einen Weg, wie wir als Beobachter nicht in die Logik des Krieges verfallen.</br></br>
+@zeitonline am 18.03.2022</br>
+Keine Zusammenarbeit mehr mit russischen Forscherinnen und Forschern: Das ist eine der Sanktionen nach Putins Angriffskrieg gegen die #Ukraine. Forschende aus Russland und Deutschland sprechen über die Folgen für ihre Arbeit.</br></br>
+@Der_Postillon am 17.03.2022</br>
+Katze schlecht gelaunt, weil sie heute nur 16 Stunden geschlafen hat</br></br>
+@WELT_GLASAUGE 02.02.2022</br>
+Spotify endlich konsequent! #Spotify #FakeNews #Beatles #DJOetzi #Pop</br></br>
+</br>
+
+</div>
+
+
+{% endblock %}
