@@ -118,7 +118,6 @@ def plotly_graph():
                 date_formated = parser.parse(tweet["publishing_date"])  # original time format ISO-8601
                 date_formated_day = str(date_formated.date())
 
-
                 dataframe = dataframe.append({
                     "author": tweet["author"],
                     "content": tweet["content"],
@@ -126,7 +125,6 @@ def plotly_graph():
                 }, ignore_index=True)
                 tweet_count = 0
                 tweet_count += 1
-
 
 # get days of 2021 - important for x-axis and vals of y axis
 
@@ -153,33 +151,17 @@ def plotly_graph():
                         'post_count': int(0)
                     }, ignore_index=True)
 
-            print("freuqence df", frequence_df)
             author = data[0]['author']
-            print("author", data[0]['author'])
             y = frequence_df['post_count'].values.tolist()
-            print("y vals", y)
             fig.add_trace(go.Scatter(x=days, y=y, name=author,
                                      line_shape='linear'))
         fig.update_traces(hoverinfo='text+y+x', mode='lines+markers')
         fig.update_layout(legend=dict(y=0.5, traceorder='reversed', font_size=16))
     fig.show()
-    fig.write_html("../Results/Frequency_Analysis/frequency_total_html.html")
+    fig.write_html("../Results/Sentiment_Analysis/frequency_total_html.html")
 
 
 if __name__ == "__main__":
     print("Analyse beginnt")
     plotly_graph()
 
-
-
-
-
-
-    #data_dir_path = "/DataCrawling/TwitterCrawlDirectory/Twitter_API/ZeitOnline_CrawlDirectory/"
-    #merge_json_files(data_dir_path)
-    #filename = "merged_bild_data.json"
-    #filepath = os.path.join(data_dir_path, filename)
-
-    #dataframe = get_date_data(filepath)
-    #plot_tweet_frequence(dataframe)
-    # nitialise a figure. subplots() with no args gives one plot.
