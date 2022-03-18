@@ -8,125 +8,138 @@ import json
 from dateutil import parser
 import os
 import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
 
 
 def merge_json_files(data_dir_path):
-    # iterate through dir and open json files
+    """
+    Originale Methode um JSON Daten-basierend auf der Twitter API zu mergen. Iteritiert über das Verzeichnis und fügt die Dateien zusammen.
+    Der Ausgabename muss für jede Zeitung angepasst werden.
+    """
     data_total = []
-
     for filename in os.listdir(data_dir_path):
-        print("filename", filename)
         with open(os.path.join(data_dir_path, filename), "rb") as infile:
-        # returns JSON object as
-        # a dictionary
-            print("infile", infile)
             data = json.load(infile)
-            print("data", data)
-
             data_total.append(data)
-
-    print("datatotal", data_total)
 
     merged_filename = "merged_bild_data.json"
     with open(os.path.join(data_dir_path, merged_filename), "w") as outfile:
         json.dump(data_total, outfile)
-        # Iterating through the json
-        # list
-
 
 
 def get_date_data(filepath):
+    """
+    Liest Dateien aus und speichert die Datumsangabe aus den Metadaten in einen Pandas Dataframe.
+    :rtype: object - Pandas Dateframe mit
+    """
     dataframe = pd.DataFrame()
     with open(filepath, "rb") as infile:
         data = json.load(infile)
-
         for tweets in data:
             for tweet in tweets['data']:
-                date_formated = parser.parse(tweet['created_at']) # original time format ISO-8601
+                date_formated = parser.parse(tweet['created_at'])  # original time format ISO-8601
                 date_formated_day = date_formated.date()
-                #print("date", date_formated_day)
-                #print(tweet["text"])
                 dataframe = dataframe.append({
                     "content": tweet["text"],
                     "date": date_formated_day
                 }, ignore_index=True)
-
     return dataframe
 
 
-
 def plot_tweet_frequence(dataframe):
-    # Process dataset
-
+    """
+    Erschafft Plot basierend auf Dataframe aus der get_date_data()-Methode.
+    :rtype: object
+    """
     date_count = dataframe.groupby(['date']).count()
-    print("type", type(date_count))
     date_list = []
     tweet_count_list = []
 
     for row in date_count.iterrows():
-        print("row month", row[0].month) # month is corrected, day values seem odd
-        print("row day", row[0].day)  # day has to calculated specifially
-        date_list.append(row[0]) # row[0] gets date
-        tweet_count_list.append(row[1]) # row[1] gets num of tweets of that date
+        date_list.append(row[0])  # row[0] gets date
+        tweet_count_list.append(row[1])  # row[1] gets num of tweets of that date
 
-        print("row", row[1])
-
-
-
+    # Plot Attributes
     x_values = date_list
-    print("x_values", x_values)
-
     y_values = tweet_count_list
-
     ax = plt.gca()
-
-
     formatter = mdates.DateFormatter("%Y-%m-%d")
-
-
     ax.xaxis.set_major_formatter(formatter)
-
     locator = mdates.DayLocator()
     ax.xaxis.set_major_locator(locator)
-
-    plt.figure(figsize=(9,9))
+    plt.figure(figsize=(9, 9))
     plt.plot(x_values, y_values)
-    plt.savefig('C:/Users/nceck/Desktop/FakeNews/Results/Frequency_Analysis/ZeitOnline_TweetFrequency.png')
+    plt.savefig('../Results/Frequency_Analysis/ZeitOnline_TweetFrequency.png')
 
-# print(tweet)
-# for tweet_details in tweet:
-#    print("tweets details", tweet_details)
+
+def plotly_graph():
+    """
+    Erschafft Frequenz-Graph mit ploty - liest daher nach und nach die Dateien aus und fügt die Angaben zu einem Pandas Dataframe hinzu.
+    Der Datafframe wird dann ausgelesen und in den Graphen eingefügt. Hier wird bewusst mitgezählt, damit kein Tag vergessen wird,
+    falls an dem Tag nichts gepostet wird.
+
+    Quelle für die Visualisierung: https://plotly.com/python/
+    """
+    filepath = "../DataCrawling/TwitterCrawlDirectory/Tweets_2021/"
+    fig = go.Figure()
+    fig.show()
+    directory = os.fsencode(filepath)
+
+    for file in os.listdir(directory):
+        dataframe = pd.DataFrame()
+        filename = os.fsdecode(file)
+        path = filepath + filename
+        with open(path, "rb") as infile:
+            data = json.load(infile)
+            for tweet in data:
+                date_formated = parser.parse(tweet["publishing_date"])  # original time format ISO-8601
+                date_formated_day = str(date_formated.date())
+
+                dataframe = dataframe.append({
+                    "author": tweet["author"],
+                    "content": tweet["content"],
+                    "date": date_formated_day
+                }, ignore_index=True)
+                tweet_count = 0
+                tweet_count += 1
+
+            # get days of 2021 - important for x-axis and vals of y axis
+
+            d1 = datetime.date(2021, 1, 1)
+            d2 = datetime.date(2021, 12, 31)
+            days = [d1 + datetime.timedelta(days=x) for x in range((d2 - d1).days + 1)]
+
+            # count values
+            frequence_df = pd.DataFrame()  # df to save vals
+            count = dataframe.groupby('date').count()  # count the posts of a specific day
+
+            # pass into df
+            for day in days:
+                if str(day) in count.index:
+                    print("add original value")
+                    frequence_df = frequence_df.append({
+                        'day': day,
+                        'post_count': int(count.loc[str(day)]['content'])
+                        # loc gets val from row by index label - which is the day here
+                    }, ignore_index=True)
+                else:
+                    print("add 0 value")
+                    frequence_df = frequence_df.append({
+                        'day': day,
+                        'post_count': int(0)
+                    }, ignore_index=True)
+
+            author = data[0]['author']
+            y = frequence_df['post_count'].values.tolist()
+            fig.add_trace(go.Scatter(x=days, y=y, name=author,
+                                     line_shape='linear'))
+        fig.update_traces(hoverinfo='text+y+x', mode='lines+markers')
+        fig.update_layout(legend=dict(y=0.5, traceorder='reversed', font_size=16))
+    fig.show()
+    fig.write_html("../Results/Sentiment_Analysis/frequency_total_html.html")
+
 
 if __name__ == "__main__":
     print("Analyse beginnt")
-    data_dir_path = "C:/Users/nceck/Desktop/FakeNews/DataCrawling/TwitterCrawlDirectory/ZeitOnline_CrawlDirectory/"
-    merge_json_files(data_dir_path)
-    filename = "merged_bild_data.json"
-    filepath = os.path.join(data_dir_path, filename)
-
-    dataframe = get_date_data(filepath)
-    plot_tweet_frequence(dataframe)
-    # nitialise a figure. subplots() with no args gives one plot.
-    """
- fig, ax = plt.subplots()
-
- # A little data preparation
- years = df['year']
- x = np.arange(len(years))
-
- width = 2
- # Plot each bar plot. Note: manually calculating the 'dodges' of the bars
- ax.bar(x - 3*width/2, df['conservative'], width, label='Conservative', color='#0343df')
- ax.bar(x - width/2, df['labour'], width, label='Labour', color='#e50000')
- ax.bar(x + width/2, df['liberal'], width, label='Liberal', color='#ffff14')
- ax.bar(x + 3*width/2, df['others'], width, label='Others', color='#929591')
-
- # Customise some display properties
- ax.set_ylabel('Seats')
- ax.set_title('UK election results')
- ax.set_xticks(x)    # This ensures we have one tick per year, otherwise we get fewer
- ax.set_xticklabels(years.astype(str).values, rotation='vertical')
- ax.legend()
-
- # Ask Matplotlib to show the plot
- plt.show() """
+    plotly_graph()

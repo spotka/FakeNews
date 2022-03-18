@@ -1,0 +1,156 @@
+import json
+import os
+import random
+import re
+import string
+import plotly.graph_objects as go
+import networkx as nx
+
+import spacy
+
+if __name__ == "__main__":
+
+    """
+    Skript für die Namen Entity Recognition mit spaCy. Die Struktur des Skripts orientiert sich einerseits an der bekannten NER-Pipeline mit spaCy
+    und ist stark von der Visualiserung mit plotly abhängig. Das Skript iteriert über die Texte und fügt je nach Entity-Type
+    (Personen oder Organisationen des Tokens einen Knoten zum Netzwerkgraph hinzu. Größeres Limit, da der Graph sonst zu unübersichtlich wird.
+    
+    Quellen: https://spacy.io/usage, https://plotly.com/python/
+    """
+
+    filepath = "../DataCrawling/TwitterCrawlDirectory/Tweets_2021/"
+    directory = os.fsencode(filepath)
+    nlp = spacy.load("de_core_news_lg")
+
+    for file in os.listdir(directory):
+        G = nx.Graph()
+        filename = os.fsdecode(file)
+        path = filepath + filename
+
+        with open(path, "rb") as infile:
+            data = json.load(infile)
+            author = data[0]['author']
+
+            node_color = []
+            node_size = []
+
+            G.add_node(author, pos=(0, 0))
+            node_size.append(180)
+            node_color.append(0)
+
+            G.add_node("Personen", pos=(900, 900))  # PER
+            node_size.append(120)
+            node_color.append(1)
+
+            G.add_node("Organisationen", pos=(-900, 900))  # ORG
+            node_size.append(120)
+            node_color.append(0.5)
+
+            G.add_edge(author, "Personen")
+            G.add_edge(author, "Organisationen")
+
+            total_tweets = ""
+            for idx, tweet in enumerate(data):
+
+                print(idx)
+                if idx >= 1000:
+                    break
+                tweet_content = tweet['content']
+                tweet_content_no_link = re.sub(r'(https|http)?:\/\/(\w|\.|\/|\?|\=|\&|\%)*\b', '', tweet_content,
+                                               flags=re.MULTILINE)
+
+                tweets_content_no_punctuation = tweet_content_no_link.translate(
+                    str.maketrans('', '', string.punctuation))
+                nlp_text = nlp(tweets_content_no_punctuation)
+
+                for token in nlp_text:
+                    print("named entity", token.text, token.ent_type_)
+                    if not token.is_punct or token.is_space or token.is_stop or token.like_url:
+
+                        if any(token.text in s for s in G.nodes):
+                            continue
+                        else:
+                            if token.ent_type_ == "PER":
+                                G.add_node(str(token.text),
+                                           pos=(random.randint(3000, 20000), random.randint(-20000, 20000)))
+                                G.add_edge("Personen", str(token.text))
+                            elif token.ent_type_ == "ORG":
+
+                                G.add_node(str(token.text),
+                                           pos=(random.randint(-20000, -3000), random.randint(-20000, 20000)))
+                                G.add_edge("Organisationen", str(token.text))
+                            else:
+                                continue
+                    else:
+                        continue
+
+            edge_x = []
+            edge_y = []
+            for idx, edge in enumerate(G.edges()):
+                x0, y0 = G.nodes[edge[0]]['pos']
+                x1, y1 = G.nodes[edge[1]]['pos']
+                edge_x.append(x0)
+                edge_x.append(x1)
+                edge_x.append(None)
+                edge_y.append(y0)
+                edge_y.append(y1)
+                edge_y.append(None)
+
+            edge_trace = go.Scatter(
+                x=edge_x, y=edge_y,
+                line=dict(width=0.5, color='#888'),
+                hoverinfo='none',
+                mode='lines')
+
+            node_x = []
+            node_y = []
+            for node in G.nodes():
+                x, y = G.nodes[node]['pos']
+                node_x.append(x)
+                node_y.append(y)
+
+            node_trace = go.Scatter(
+                x=node_x, y=node_y,
+                mode='markers+text',
+                marker_size=4,
+                hoverinfo='text',
+                text="test",
+                marker=dict(
+                    colorscale='YlGnBu'
+                )
+            )
+            node_text = []
+            node_trace.text = node_text
+            node_text = []
+            for node in G.nodes:
+
+                node_size.append(80)
+                if G.has_edge("Personen", node) is True and G.has_edge("Events", node) is False and G.has_edge(
+                        "Organisationen", node) is False:
+
+                    node_color.append(1)
+                    node_size.append(80)
+                elif G.has_edge("Organisationen", node) is True and G.has_edge("Personen",
+                                                                               node) is False and G.has_edge("Events",
+                                                                                                             node) is False:
+                    node_color.append(0.5)
+                    node_size.append(80)
+                node_text.append(str(node))
+
+            node_trace.text = node_text
+            node_color.append(2)
+            node_trace.marker.color = node_color
+            node_trace.marker.size = node_size
+
+            fig = go.Figure(data=[edge_trace, node_trace],
+                            layout=go.Layout(
+                                title='Named Entity Recognition',
+                                titlefont_size=16,
+                                hovermode='closest',
+                                margin=dict(b=20, l=5, r=5, t=40),
+                                xaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
+                                yaxis=dict(showgrid=False, zeroline=False, showticklabels=False))
+                            )
+            fig.show()
+            path = "../Results/NER_Analysis/" + author + "_ner_analysis_ver3.html"
+            fig.write_html(path)
