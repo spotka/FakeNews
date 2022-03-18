@@ -1,26 +1,31 @@
 import json
 import os
 import re
-from statistics import median
-
 import pandas as pd
-import spacy
 import plotly.express as px
-from spacytextblob.spacytextblob import SpacyTextBlob
 from textblob_de import TextBlobDE
 import plotly.graph_objects as go
-if __name__ == "__main__":
 
+if __name__ == "__main__":
+    """
+    Dieses Skript wertet die Datensets mithilfe der textblob-Library in einer Sentiment-Analyse aus. Zunächst iteriert das
+    Skript wieder durch die Dateien, holt sich das Sentiment Satz für Satz und sortiert es in einen Pandas Dataframe. 
+    Sobald dies abgeschlossen ist, werden die Ergebnisse im Dataframe als Pie Chart und Boxplot visualiert und gespeichert. 
+    Quellen: https://textblob.readthedocs.io/en/dev/quickstart.html#create-a-textblob und https://plotly.com/python/
+
+
+    """
     filepath = "../DataCrawling/TwitterCrawlDirectory/Tweets_2021/"
 
     directory = os.fsencode(filepath)
-
     fig_total_polarity =  go.Figure(   layout=go.Layout(  title=go.layout.Title(text="Polarität Analyse")))
     fig_total_subjectivity =  go.Figure(  layout=go.Layout(   title=go.layout.Title(text="Subjektivität Analyse")))
     for file in os.listdir(directory):
         filename = os.fsdecode(file)
         path = filepath + filename
         sentiment_analysis_df = pd.DataFrame()
+
+        # Test Stopper
         #if filename == "bild_2021.json":
         #    continue
         with open(path, "rb") as infile:
@@ -57,11 +62,6 @@ if __name__ == "__main__":
                 elif blob.sentiment.subjectivity   >= 0 and blob.sentiment.subjectivity <= 0.5:
                     subjectivity_rating = "eher subjektiv"
 
-
-
-
-
-                #print("blob", blob.sentiment, tweet_content_no_link,  tweet_content, blob.tags )
                 sentiment_analysis_df = sentiment_analysis_df.append({
                     "author" : tweet['author'],
                     "content_original":  tweet_content,
@@ -71,10 +71,10 @@ if __name__ == "__main__":
                     "subjectivity_value": blob.sentiment.subjectivity,
                     "subjectivity_rating": subjectivity_rating,
                 }, ignore_index=True)
-                #print("polaritycontent", sentiment_analysis_df['polarity'], sentiment_analysis_df['polarity'].sum())
 
             group_by_polarity = sentiment_analysis_df.groupby(["polarity_rating"]).count()
 
+            # add information to single file about single news
             title ="Sentiment Analysis - Polarität von " + author
             fig = px.pie(group_by_polarity, values=group_by_polarity['author'], names=group_by_polarity.index, title= title)
             fig.update_layout(
@@ -84,6 +84,7 @@ if __name__ == "__main__":
             path = "../Results/Sentiment_Analysis/Polarity/" + "polarity_sentiment_" + author + ".html"
             fig.write_html(path)
 
+            # add information to total analysis
             group_by_subjectivity = sentiment_analysis_df.groupby(["subjectivity_rating"]).count()
 
             title = "Sentiment Analysis - Subjektivität von " + author

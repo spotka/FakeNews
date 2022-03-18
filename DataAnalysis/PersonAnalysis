@@ -10,6 +10,14 @@ import spacy
 
 if __name__ == "__main__":
 
+    """
+    Skript für die Namen Entity Recognition mit spaCy. Die Struktur des Skripts orientiert sich einerseits an der bekannten NER-Pipeline mit spaCy
+    und ist stark von der Visualiserung mit plotly abhängig. Das Skript iteriert über die Texte und fügt je nach Entity-Type
+    (Personen oder Organisationen des Tokens einen Knoten zum Netzwerkgraph hinzu. Größeres Limit, da der Graph sonst zu unübersichtlich wird.
+    
+    Quellen: https://spacy.io/usage, https://plotly.com/python/
+    """
+
     filepath = "../DataCrawling/TwitterCrawlDirectory/Tweets_2021/"
     directory = os.fsencode(filepath)
     nlp = spacy.load("de_core_news_lg")
@@ -59,9 +67,7 @@ if __name__ == "__main__":
                     print("named entity", token.text, token.ent_type_)
                     if not token.is_punct or token.is_space or token.is_stop or token.like_url:
 
-                        # print("G.nodes", G.nodes)
                         if any(token.text in s for s in G.nodes):
-                            # print("not adding entity to nodes")
                             continue
                         else:
                             if token.ent_type_ == "PER":
@@ -69,14 +75,13 @@ if __name__ == "__main__":
                                            pos=(random.randint(3000, 20000), random.randint(-20000, 20000)))
                                 G.add_edge("Personen", str(token.text))
                             elif token.ent_type_ == "ORG":
-                                # print("add entitiy to nodes ORG")
+
                                 G.add_node(str(token.text),
                                            pos=(random.randint(-20000, -3000), random.randint(-20000, 20000)))
                                 G.add_edge("Organisationen", str(token.text))
                             else:
                                 continue
                     else:
-                        print("not adding - punct or url or stopword")
                         continue
 
             edge_x = []
@@ -115,21 +120,19 @@ if __name__ == "__main__":
                 )
             )
             node_text = []
-
             node_trace.text = node_text
             node_text = []
             for node in G.nodes:
-                print("node", node)
+
                 node_size.append(80)
                 if G.has_edge("Personen", node) is True and G.has_edge("Events", node) is False and G.has_edge(
                         "Organisationen", node) is False:
-                    print("has connection")
+
                     node_color.append(1)
                     node_size.append(80)
                 elif G.has_edge("Organisationen", node) is True and G.has_edge("Personen",
                                                                                node) is False and G.has_edge("Events",
                                                                                                              node) is False:
-                    print("has connection")
                     node_color.append(0.5)
                     node_size.append(80)
                 node_text.append(str(node))

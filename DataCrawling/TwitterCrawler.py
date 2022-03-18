@@ -1,11 +1,8 @@
-import os
-import pandas as pd
 import json
-
 import requests
-import tweepy
 
 
+""" Base Skript um von der offiziellen Twitter API zu crawlen. Aufgrund des Limits für den Developer-Access deprecated. """
 def bearer_oauth(r):
     """
     Method required by bearer token authentication.

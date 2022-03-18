@@ -13,6 +13,15 @@ from collections import Counter
 
 import spacy
 
+"""
+Dieses Skript bietet zahlreich3e Methoden aus der NLTK und spaCy Pipeline um eine Top 3 der höchst frequentierten Wörter anhand
+einer Frequency Distribution zu erstellen. Die Methoden tragen die Zugehörigkeit zu einer der jeweiligen Libraries im Namen.
+Das Preprocessing besteht dabei immer aus dem Herausfiltern von Stopwords und Links, einer Lemmatisierung sowie Tokenisierung der Tweets.
+
+Weiterführende Quellen: https://github.com/solariz/german_stopwords, https://www.nltk.org, https://spacy.io/usage
+
+"""
+
 def load_tweets(filepath, file):
 
     filename = os.fsdecode(file)
@@ -105,38 +114,24 @@ if __name__ == "__main__":
     file_path = "../DataCrawling/TwitterCrawlDirectory/Tweets_2021/"
 
 
-
     directory = os.fsencode(file_path)
     nltk_df = pd.DataFrame()
     spacy_df = pd.DataFrame()
     for file in os.listdir(directory):
         total_tweets, author = load_tweets(file_path, file)
 
-
         #remove links and names - otherwise disortion
         tweets_total_no_links = re.sub(r'(https|http)?:\/\/(\w|\.|\/|\?|\=|\&|\%)*\b', '', total_tweets, flags=re.MULTILINE)
         tweets_total_no_names = re.sub(r'\b(BILD|TITANIC|SZPlus|BILDlive|"SPIEGEL"|"Spiegel"|Spiegel+)', '',
                                                tweets_total_no_links, flags=re.MULTILINE)
 
-        #tweets_filtered_lowercased = tweets_total_no_names.lower()
-        #print("tweets lowercase", tweets_filtered_lowercased)
+
 
         # spacy-based precprocessing piepline
-        #spacy_lemmatized_tweets = spacy_lemmatization_punctuation(tweets_filtered_lowercased)
+
         spacy_lemmatized_tweets = spacy_lemmatization_punctuation(total_tweets)
-        #spacy_tokenized = nltk_tokenize(spacy_lemmatized_tweets)
 
         # custom stop words
-
-        #spacy_words = [word.lower() for word in spacy_lemmatized_tweets]  # nltk method
-        #spacy_custom_filtered_tweets = []
-        #for word in spacy_words:
-
-        #    if word in full_stopword_list:
-        #        print("is in stopwords", word)
-        #        continue
-        #    else:
-        #        spacy_custom_filtered_tweets.append(word)
 
         spacy_custom_filtered_tweets = spacy_lemmatized_tweets
 
@@ -146,8 +141,6 @@ if __name__ == "__main__":
         nltk_lemmatized = nltk_lemmatization(nltk_tokenized_tweets)
 
         # remove stopwords - nltk
-
-
         words = [word.lower() for word in nltk_lemmatized if word.isalpha()]  # nltk method
         nltk_filtered_tweets = [word for word in words if word not in german_stop_words]
 
